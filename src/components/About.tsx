@@ -15,7 +15,7 @@ export default function About() {
               <div className="image-overlay">
                 <div className="years-badge">
                   <span className="years-number">15+</span>
-                  <span className="years-text">Yıllık<br />Tecrübe</span>
+                  <span className="years-text">{t('experience')}<br />{t('experienceSub')}</span>
                 </div>
               </div>
             </div>

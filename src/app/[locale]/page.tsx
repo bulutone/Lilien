@@ -5,6 +5,7 @@ import About from '@/components/About';
 import Regions from '@/components/Regions';
 import WhyUs from '@/components/WhyUs';
 import Testimonials from '@/components/Testimonials';
+import FAQ from '@/components/FAQ';
 import Footer from '@/components/Footer';
 import FloatingContact from '@/components/FloatingContact';
 
@@ -21,6 +22,7 @@ export default async function HomePage({ params }: any) {
                 <About />
                 <WhyUs />
                 <Testimonials />
+                <FAQ />
             </main>
             <Footer />
             <FloatingContact />

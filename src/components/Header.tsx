@@ -7,7 +7,7 @@ import { useState, useEffect } from 'react';
 import LanguageSwitcher from './LanguageSwitcher';
 
 export default function Header() {
-  const t = useTranslations('Services');
+  const t = useTranslations('Nav');
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
@@ -28,18 +28,17 @@ export default function Header() {
 
         <nav className={`nav-links ${isMobileMenuOpen ? 'open' : ''}`}>
           <a href="#services" onClick={() => setIsMobileMenuOpen(false)}>
-            {t('title')}
+            {t('services')}
           </a>
           <a href="#about" onClick={() => setIsMobileMenuOpen(false)}>
-            Hakkımızda
+            {t('about')}
           </a>
           <a href="#why-us" onClick={() => setIsMobileMenuOpen(false)}>
-            Neden Biz
+            {t('whyUs')}
           </a>
           <a href="#contact" onClick={() => setIsMobileMenuOpen(false)}>
-            İletişim
+            {t('contact')}
           </a>
-
           <div className="mobile-only-lang">
             <LanguageSwitcher />
           </div>

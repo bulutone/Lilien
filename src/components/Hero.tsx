@@ -26,15 +26,14 @@ export default function Hero() {
         <div className="hero-content text-center animate-fade-in-up">
           <div className="badge delay-100">
             <span className="dot"></span>
-            7/24 Kesintisiz Hizmet
+            {t('badge')}
           </div>
           <h1 className="hero-title delay-200">
-            {t('titlePrefix')} <span className="text-primary">Çilingir</span> Hizmeti<br />
-            Acil Kapı Açma
+            {t('titlePrefix')} <span className="text-primary">{t('titleService')}</span> {t('titleSuffix')}<br />
+            {t('subtitle')}
           </h1>
           <p className="hero-desc delay-300">
-            Antalya'nın her yerine 15 dakikada ulaşıyor, kapıda kalma derdinize
-            hızlı, güvenli ve profesyonel çözümler üretiyoruz.
+            {t('desc')}
           </p>
 
           <div className="hero-actions delay-300">
@@ -44,13 +43,12 @@ export default function Hero() {
             </a>
             <a href="https://wa.me/905468558680" target="_blank" rel="noopener noreferrer" className="btn btn-secondary btn-lg" onClick={() => trackClick('whatsapp')}>
               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path></svg>
-              WhatsApp'tan Yaz
+              {t('whatsapp')}
             </a>
           </div>
         </div>
       </div>
 
-      {/* We use global jsx styles or regular css since Next.js supports component CSS but styled-jsx is great here */}
       <style jsx>{`
         .hero {
           position: relative;

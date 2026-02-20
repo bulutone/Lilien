@@ -3,10 +3,25 @@
     "title": "Antalya Çilingirci | 7/24 Acil Kapı Açma ve Kilit Değişimi",
     "description": "Antalya genelinde profesyonel çilingir hizmeti. 7/24 oto çilingir, kasa açma, konut ve ticari kilit sistemleri. Hemen arayın: 0 546 855 86 80"
   },
+  "Nav": {
+    "services": "Hizmetlerimiz",
+    "about": "Hakkımızda",
+    "whyUs": "Neden Biz",
+    "contact": "İletişim",
+    "quickLinks": "Hızlı Linkler",
+    "copyright": "Tüm hakları saklıdır.",
+    "details": "Detaylı Bilgi"
+  },
   "Hero": {
+    "badge": "7/24 Kesintisiz Hizmet",
     "titlePrefix": "Antalya",
+    "titleService": "Çilingir",
+    "titleSuffix": "Hizmeti",
+    "subtitle": "Acil Kapı Açma",
     "title": "Antalya Çilingir Hizmeti – 7/24 Acil Kapı Açma",
-    "cta": "Hemen Ara : 0 546 855 86 80"
+    "desc": "Antalya'nın her yerine 15 dakikada ulaşıyor, kapıda kalma derdinize hızlı, güvenli ve profesyonel çözümler üretiyoruz.",
+    "cta": "Hemen Ara : 0 546 855 86 80",
+    "whatsapp": "WhatsApp'tan Yaz"
   },
   "ServicesData": {
     "oto-cilingir": {
@@ -154,7 +169,9 @@
       "Kilit değiştirme ve güvenlik sistemleri montajı",
       "Deneyimli, profesyonel ve güvenilir ekip"
     ],
-    "closing": "Antalya’da her an ulaşabileceğiniz, işini titizlikle yapan bir ekip arıyorsanız doğru adrestesiniz."
+    "closing": "Antalya'da her an ulaşabileceğiniz, işini titizlikle yapan bir ekip arıyorsanız doğru adrestesiniz.",
+    "experience": "Yıllık",
+    "experienceSub": "Tecrübe"
   },
   "Regions": {
     "title": "Hizmet Bölgelerimiz",
@@ -193,7 +210,7 @@
   },
   "Testimonials": {
     "title": "Müşterilerimiz Ne Diyor?",
-    "ratingText": "4.8 / 5 memnuniyet oranı – 2.500’den fazla müşterimizin güvenini kazandık.",
+    "ratingText": "4.8 / 5 memnuniyet oranı – 2.500'den fazla müşterimizin güvenini kazandık.",
     "items": [
       {
         "text": "Evimizin kilidini değiştirdik. Hem uygun fiyatlı hem de çok profesyonel çalıştılar. Çok memnun kaldık.",
@@ -220,5 +237,34 @@
     "emailAddress": "info@antalyacilingirci.com",
     "localBusiness": "Yerel ve bağımsız işletmeyiz: Antalya merkezli ekibimizle bölgeye hakim, güvenilir hizmet sunuyoruz.",
     "alwaysOpen": "HER ZAMAN AÇIK : 7/24 Hizmetinizde"
+  },
+  "FAQ": {
+    "title": "Sıkça Sorulan Sorular",
+    "items": [
+      {
+        "q": "Antalya'da 7/24 çilingir hizmeti var mı?",
+        "a": "Evet, Antalya Çilingirci olarak 7 gün 24 saat, resmi tatiller dahil kesintisiz acil çilingir hizmeti sunuyoruz. Gece yarısı bile arayabilirsiniz."
+      },
+      {
+        "q": "Çilingir kaç dakikada gelir?",
+        "a": "Antalya merkez ve ilçelerinde ortalama 15 dakika içinde adresinize ulaşıyoruz. Motorlu servis ekibimiz size en yakın noktadan hareket eder."
+      },
+      {
+        "q": "Kapı açma ücreti ne kadar?",
+        "a": "Fiyatlarımız kilit tipine ve saate göre değişiklik gösterir. Telefonda ücretsiz bilgi alabilir, sürpriz fiyatla karşılaşmazsınız. Uygun fiyat garantisi veriyoruz."
+      },
+      {
+        "q": "Araç kapısı açabilir misiniz?",
+        "a": "Evet, her marka ve model araç için oto çilingir hizmeti sunuyoruz. Hasarsız araç kapısı açma, yedek anahtar yapımı ve immobilizer programlama yapıyoruz."
+      },
+      {
+        "q": "Kilit değişimi yapıyor musunuz?",
+        "a": "Evet, Mul-T-Lock, Kale Kilit ve diğer yüksek güvenlikli marka kilit sistemleri ile ev, iş yeri ve araç kilit değişimi yapıyoruz."
+      },
+      {
+        "q": "Hangi bölgelere hizmet veriyorsunuz?",
+        "a": "Antalya'nın tüm merkez ilçelerine hizmet veriyoruz: Muratpaşa, Kepez, Konyaaltı, Döşemealtı, Aksu, Lara, Kundu ve Kemer."
+      }
+    ]
   }
 }

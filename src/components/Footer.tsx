@@ -6,6 +6,7 @@ import Image from 'next/image';
 
 export default function Footer() {
   const t = useTranslations('Contact');
+  const tNav = useTranslations('Nav');
 
   return (
     <footer id="contact" className="footer">
@@ -49,17 +50,17 @@ export default function Footer() {
           </div>
 
           <div className="footer-nav">
-            <h3>Hızlı Linkler</h3>
+            <h3>{tNav('quickLinks')}</h3>
             <ul>
-              <li><a href="#services">Hizmetlerimiz</a></li>
-              <li><a href="#about">Hakkımızda</a></li>
-              <li><a href="#why-us">Neden Biz?</a></li>
+              <li><a href="#services">{tNav('services')}</a></li>
+              <li><a href="#about">{tNav('about')}</a></li>
+              <li><a href="#why-us">{tNav('whyUs')}</a></li>
             </ul>
           </div>
         </div>
 
         <div className="footer-bottom">
-          <p>&copy; {new Date().getFullYear()} Antalya Çilingirci. Tüm hakları saklıdır.</p>
+          <p>&copy; {new Date().getFullYear()} Antalya Çilingirci. {tNav('copyright')}</p>
         </div>
       </div>
 

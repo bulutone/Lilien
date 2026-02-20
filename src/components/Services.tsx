@@ -6,6 +6,7 @@ import { Link } from '@/i18n/routing';
 export default function Services() {
   const t = useTranslations('Services');
   const tData = useTranslations('ServicesData');
+  const tNav = useTranslations('Nav');
 
   const services = [
     {
@@ -59,7 +60,7 @@ export default function Services() {
               </ul>
               <div style={{ marginTop: '2rem', textAlign: 'center' }}>
                 <Link href={`/hizmetler/${tData(`${service.slugKey}.slug` as any)}`} className="btn btn-secondary" style={{ display: 'inline-block', width: '100%' }}>
-                  Detaylı Bilgi
+                  {tNav('details')}
                 </Link>
               </div>
             </div>
