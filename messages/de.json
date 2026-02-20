@@ -1,181 +1,181 @@
 {
   "Metadata": {
-    "title": "Antalya Çilingirci | 7/24 Acil Kapı Açma ve Kilit Değişimi",
-    "description": "Antalya genelinde profesyonel çilingir hizmeti. 7/24 oto çilingir, kasa açma, konut ve ticari kilit sistemleri. Hemen arayın: 0 546 855 86 80"
+    "title": "Antalya Schlüsseldienst | 24/7 Notfall Türöffnung & Schlossaustausch",
+    "description": "Professioneller Schlüsseldienst in ganz Antalya. 24/7 Auto-Schlüsseldienst, Tresoröffnung, Wohn- und Gewerbeschlösser. Jetzt anrufen: +90 546 855 86 80"
   },
   "Nav": {
-    "services": "Hizmetlerimiz",
-    "about": "Hakkımızda",
-    "whyUs": "Neden Biz",
-    "contact": "İletişim",
-    "quickLinks": "Hızlı Linkler",
-    "copyright": "Tüm hakları saklıdır.",
-    "details": "Detaylı Bilgi"
+    "services": "Dienstleistungen",
+    "about": "Über Uns",
+    "whyUs": "Warum Wir",
+    "contact": "Kontakt",
+    "quickLinks": "Schnelllinks",
+    "copyright": "Alle Rechte vorbehalten.",
+    "details": "Mehr Erfahren"
   },
   "Hero": {
-    "badge": "7/24 Kesintisiz Hizmet",
+    "badge": "24/7 Ununterbrochener Service",
     "titlePrefix": "Antalya",
-    "titleService": "Çilingir",
-    "titleSuffix": "Hizmeti",
-    "subtitle": "Acil Kapı Açma",
-    "title": "Antalya Çilingir Hizmeti – 7/24 Acil Kapı Açma",
-    "desc": "Antalya'nın her yerine 15 dakikada ulaşıyor, kapıda kalma derdinize hızlı, güvenli ve profesyonel çözümler üretiyoruz.",
-    "cta": "Hemen Ara : 0 546 855 86 80",
-    "whatsapp": "WhatsApp'tan Yaz"
+    "titleService": "Schlüsseldienst",
+    "titleSuffix": "Service",
+    "subtitle": "Notfall Türöffnung",
+    "title": "Antalya Schlüsseldienst – 24/7 Notfall Türöffnung",
+    "desc": "Wir erreichen jeden Ort in Antalya innerhalb von 15 Minuten und bieten schnelle, sichere und professionelle Lösungen, wenn Sie ausgesperrt sind.",
+    "cta": "Jetzt Anrufen : +90 546 855 86 80",
+    "whatsapp": "WhatsApp Nachricht"
   },
   "ServicesData": {
     "oto-cilingir": {
-      "title": "Antalya Oto Çilingir",
-      "slug": "oto-cilingir",
-      "seoTitle": "Antalya Oto Çilingir | 7/24 Araç Kapısı Açma & Kilit Yaptırma",
-      "seoDesc": "Antalya 7/24 oto çilingir hizmeti. Aracınızın kapısı mı kilitli kaldı? Anahtarınızı mı kaybettiniz? 15 dakikada yanınızdayız.",
-      "content": "Aracınızın markası veya modeli ne olursa olsun, Antalya genelinde 7/24 oto çilingir hizmeti sunuyoruz. Araç kapısı açma, hasarsız kilit açma, kayıp anahtar yapımı, immobilizer sorunları ve oto alarm sistemleri konulu ihtiyaçlarınızda uzman ekibimiz en kısa sürede adresinize ulaşır."
+      "title": "Antalya Auto-Schlüsseldienst",
+      "slug": "auto-schlusseldienst",
+      "seoTitle": "Antalya Auto-Schlüsseldienst | 24/7 Autotür Öffnung",
+      "seoDesc": "24/7 Auto-Schlüsseldienst in Antalya. Aus dem Auto ausgesperrt? Schlüssel verloren? Wir sind in 15 Minuten bei Ihnen.",
+      "content": "Unabhängig von Marke oder Modell Ihres Fahrzeugs bieten wir rund um die Uhr Auto-Schlüsseldienste in ganz Antalya an. Unser Expertenteam kommt schnell für Autotüröffnung, beschädigungsfreie Entriegelung, Ersatzschlüssel und Wegfahrsperrenprobleme."
     },
     "kasa-acma": {
-      "title": "Çelik Kasa Açma",
-      "slug": "kasa-acma",
-      "seoTitle": "Antalya Kasa Çilingir | Çelik Kasa Açma Hizmeti",
-      "seoDesc": "Antalya çelik kasa açma ve şifre değiştirme. Unutulan şifreler veya kaybolan anahtarlar için profesyonel kasa çilingir hizmeti.",
-      "content": "Ev veya iş yerinizde kullandığınız çelik kasaların şifresini mi unuttunuz? Anahtarını mı kaybettiniz? Gelişmiş ekipmanlarımız ile her model çelik kasayı hasarsız şekilde açıyor, şifre değişim işlemlerini güvenle gerçekleştiriyoruz."
+      "title": "Tresoröffnung",
+      "slug": "tresoroffnung",
+      "seoTitle": "Antalya Tresor-Schlüsseldienst | Stahltresor Öffnungsservice",
+      "seoDesc": "Antalya Stahltresoröffnung und Passwortwechsel. Professioneller Tresor-Schlüsseldienst.",
+      "content": "Passwort vergessen oder Schlüssel zum Stahltresor verloren? Mit unserer hochmodernen Ausrüstung öffnen wir alle Tresormodelle beschädigungsfrei."
     },
     "konut-cilingir": {
-      "title": "Konut (Ev) Çilingir",
-      "slug": "konut-cilingir",
-      "seoTitle": "Antalya Ev Çilingiri | 7/24 Kapı Açma ve Kilit Değişimi",
-      "seoDesc": "Antalya merkez ve ilçelerinde 7/24 acil ev çilingiri. Kapıda mı kaldınız? Kilit değişimi, göbek değiştirme ve güvenlik sistemleri.",
-      "content": "Kapıda kalma durumlarında evinizin kapısını hasar vermeden uzmanlıkla açıyoruz. Ayrıca taşınma durumlarında veya güvenlik ihtiyacınızda, yüksek güvenlikli mult-t-lock, kale kilit gibi donanımlarla kilit ve barel değişim işlemlerinizi gerçekleştiriyoruz."
+      "title": "Wohn-Schlüsseldienst",
+      "slug": "wohn-schlusseldienst",
+      "seoTitle": "Antalya Wohn-Schlüsseldienst | 24/7 Türöffnung & Schlossaustausch",
+      "seoDesc": "24/7 Notfall-Schlüsseldienst für Wohnungen in Antalya. Ausgesperrt? Schlossaustausch und Sicherheitssysteme.",
+      "content": "Wenn Sie ausgesperrt sind, öffnen wir Ihre Haustür fachmännisch ohne Beschädigung. Wir tauschen auch Schlösser und Zylinder mit Hochsicherheitstechnik von Mul-T-Lock und Kale Kilit."
     },
     "ticari-cilingir": {
-      "title": "Ticari (İşyeri) Çilingir",
-      "slug": "ticari-cilingir",
-      "seoTitle": "Antalya İşyeri Çilingiri | Dükkan, Ofis ve Kepenk Kilidi Açma",
-      "seoDesc": "İşyeriniz için profesyonel çilingir çözümleri. Kepenk kilitleri, ofis kapıları, cam kapı kilitleri tamir ve bakımı.",
-      "content": "İşletmenizin güvenliği bizim için önemli. Cam kapı kilitleri, dükkan kepenkleri, ofis giriş sistemleri, master kilit sistemleri kurulumu ve acil kilit açma ihtiyaçlarınızda profesyonel çözümler sunarak işinizin aksamamasını sağlıyoruz."
+      "title": "Gewerbe-Schlüsseldienst",
+      "slug": "gewerbe-schlusseldienst",
+      "seoTitle": "Antalya Gewerbe-Schlüsseldienst | Geschäft, Büro & Rollladenschloss",
+      "seoDesc": "Professionelle Schlüsseldienst-Lösungen für Ihr Unternehmen. Rollladenschlösser, Bürotüren und Glastürschlösser.",
+      "content": "Die Sicherheit Ihres Unternehmens ist uns wichtig. Wir bieten professionelle Lösungen für Glastürschlösser, Rollladen, Bürozugangssysteme und Notfall-Entriegelung."
     }
   },
   "RegionsData": {
     "muratpasa-cilingir": {
-      "title": "Muratpaşa Çilingir",
-      "slug": "muratpasa-cilingir",
-      "seoTitle": "Muratpaşa Çilingir | 7/24 Acil En Yakın Çilingir",
-      "seoDesc": "Antalya Muratpaşa geneli 15 dakikada acil çilingir hizmeti. Lara, Şirinyalı, Meydan, Fener mahallelerinde 7/24 oto ve kapı çilingiri."
+      "title": "Muratpaşa Schlüsseldienst",
+      "slug": "muratpasa-schlusseldienst",
+      "seoTitle": "Muratpaşa Schlüsseldienst | 24/7 Notfall",
+      "seoDesc": "Notfall-Schlüsseldienst in 15 Minuten in Antalya Muratpaşa."
     },
     "kepez-cilingir": {
-      "title": "Kepez Çilingir",
-      "slug": "kepez-cilingir",
-      "seoTitle": "Kepez Çilingir | 7/24 Hızlı ve Kaliteli Kapı Açma",
-      "seoDesc": "Antalya Kepez 7/24 acil çilingir. Dokuma, Masadağı, Varsak bölgelerinde uygun fiyatlı, anında müdahale eden profesyonel çilingir."
+      "title": "Kepez Schlüsseldienst",
+      "slug": "kepez-schlusseldienst",
+      "seoTitle": "Kepez Schlüsseldienst | 24/7 Schnelle Türöffnung",
+      "seoDesc": "Antalya Kepez 24/7 Notfall-Schlüsseldienst."
     },
     "konyaalti-cilingir": {
-      "title": "Konyaaltı Çilingir",
-      "slug": "konyaalti-cilingir",
-      "seoTitle": "Konyaaltı Çilingir | 7/24 Hasarsız Kapı & Oto Açma",
-      "seoDesc": "Antalya Konyaaltı Hurma, Liman, Uncalı mahallelerine anında çilingir servisi. Aracınızda veya evinizde kilitli kalmayın, hemen arayın."
+      "title": "Konyaaltı Schlüsseldienst",
+      "slug": "konyaalti-schlusseldienst",
+      "seoTitle": "Konyaaltı Schlüsseldienst | 24/7 Beschädigungsfreie Öffnung",
+      "seoDesc": "Sofortiger Schlüsseldienst in Konyaaltı, Hurma, Liman, Uncalı."
     },
     "dosemealti-cilingir": {
-      "title": "Döşemealtı Çilingir",
-      "slug": "dosemealti-cilingir",
-      "seoTitle": "Döşemealtı Çilingir | Yeniköy Ev ve Oto Çilingir",
-      "seoDesc": "Antalya Döşemealtı organize, Yeniköy bölgelerine hızlı çilingir hizmeti. 7/24 profesyonel ekip."
+      "title": "Döşemealtı Schlüsseldienst",
+      "slug": "dosemealti-schlusseldienst",
+      "seoTitle": "Döşemealtı Schlüsseldienst | Wohn- & Auto-Service",
+      "seoDesc": "Schneller Schlüsseldienst in Döşemealtı. 24/7 Professionelles Team."
     },
     "aksu-cilingir": {
-      "title": "Aksu Çilingir",
-      "slug": "aksu-cilingir",
-      "seoTitle": "Aksu Çilingir | Lara Kundu Acil Kapı Açma",
-      "seoDesc": "Aksu Kundu oteller bölgesi, Macun ve çevre mahalleri için acil çilingir hizmetleri."
+      "title": "Aksu Schlüsseldienst",
+      "slug": "aksu-schlusseldienst",
+      "seoTitle": "Aksu Schlüsseldienst | Notfall Türöffnung",
+      "seoDesc": "Notfall-Schlüsseldienst für Aksu Kundu Hotelzone."
     },
     "lara-cilingir": {
-      "title": "Lara Çilingir",
-      "slug": "lara-cilingir",
-      "seoTitle": "Lara Çilingir | 7/24 Acil & Güvenilir Antalya Çilingir",
-      "seoDesc": "Antalya Lara bölgesinde 15 dakikada en yakın çilingir kapınızda. Ev, oto ve kasa açımı uzmanlıkla yapılır."
+      "title": "Lara Schlüsseldienst",
+      "slug": "lara-schlusseldienst",
+      "seoTitle": "Lara Schlüsseldienst | 24/7 Zuverlässiger Service",
+      "seoDesc": "Der nächste Schlüsseldienst in 15 Minuten in Lara."
     },
     "kundu-cilingir": {
-      "title": "Kundu Çilingir",
-      "slug": "kundu-cilingir",
-      "seoTitle": "Kundu Çilingir | Oteller Bölgesi 24 Saat Çilingir",
-      "seoDesc": "Kundu turizm merkezinde ev, araç ve iş yeri çilingir hizmetleri."
+      "title": "Kundu Schlüsseldienst",
+      "slug": "kundu-schlusseldienst",
+      "seoTitle": "Kundu Schlüsseldienst | Hotelzone 24h Service",
+      "seoDesc": "Schlüsseldienst im Kundu Tourismuszentrum."
     },
     "kemer-cilingir": {
-      "title": "Kemer Çilingir",
-      "slug": "kemer-cilingir",
-      "seoTitle": "Kemer Çilingir | 7/24 Beldibi, Göynük Çilingir",
-      "seoDesc": "Antalya Kemer bölgesi için profesyonel çilingir desteği. Kilitli kapı bırakmıyoruz."
+      "title": "Kemer Schlüsseldienst",
+      "slug": "kemer-schlusseldienst",
+      "seoTitle": "Kemer Schlüsseldienst | 24/7 Beldibi, Göynük",
+      "seoDesc": "Professioneller Schlüsseldienst in der Region Kemer."
     }
   },
   "Services": {
-    "title": "Hizmetlerimiz",
+    "title": "Unsere Dienstleistungen",
     "oto": {
-      "title": "Oto Çilingir",
+      "title": "Auto-Schlüsseldienst",
       "items": [
         {
-          "q": "Araç kapısı açma",
-          "a": "Antalya'da aracınızın kapısı kilitli kaldığında güvenli ve hızlı şekilde açıyoruz."
+          "q": "Autotür öffnen",
+          "a": "Wir öffnen Ihr verschlossenes Auto schnell und sicher in Antalya."
         },
         {
-          "q": "Acil durum araç kilidi açma",
-          "a": "Gece veya gündüz fark etmez, aracınızın anahtarını kaybettiyseniz dakikalar içinde yanınızdayız."
+          "q": "Notfall Autoschloß öffnen",
+          "a": "Tag oder Nacht, wenn Sie Ihre Autoschlüssel verlieren, sind wir in Minuten da."
         },
         {
-          "q": "Araç alarm sistemi kurulumu",
-          "a": "Otomobilinizin güvenliği için modern alarm sistemleri kurulumu ve bakımı yapıyoruz."
+          "q": "Autoalarmanlage Installation",
+          "a": "Wir installieren und warten moderne Alarmanlagen für die Sicherheit Ihres Fahrzeugs."
         }
       ]
     },
     "konut": {
-      "title": "Konut Çilingir",
+      "title": "Wohn-Schlüsseldienst",
       "items": [
         {
-          "q": "Kilitli ev kapısı açma",
-          "a": "Evde kaldığınızda çilingir ekibimiz dakikalar içinde kapınızı açar."
+          "q": "Verschlossene Haustür öffnen",
+          "a": "Wenn Sie ausgesperrt sind, öffnet unser Team Ihre Tür in Minuten."
         },
         {
-          "q": "Ev Güvenlik Sistemleri Kurulumu",
-          "a": "Kapı ve pencere kilitleri dahil olmak üzere ev güvenliği için profesyonel çözümler sunuyoruz."
+          "q": "Haussicherheitssysteme Installation",
+          "a": "Wir bieten professionelle Lösungen für Haussicherheit einschließlich Tür- und Fensterschlösser."
         },
         {
-          "q": "Acil Kapı Açma ve Kilit Değiştirme",
-          "a": "Geceleri veya tatil günlerinde bile 7/24 acil destek ile kapınızı açıp güvenliğinizi sağlıyoruz."
+          "q": "Notfall Türöffnung und Schlossaustausch",
+          "a": "24/7 Notfallunterstützung, auch nachts und an Feiertagen."
         }
       ]
     },
     "ticari": {
-      "title": "Ticari Çilingir",
+      "title": "Gewerbe-Schlüsseldienst",
       "items": [
         {
-          "q": "Ofis ve İş Yeri Acil Kilit Açma",
-          "a": "Anahtar kaybı ya da kilit arızasında işinizi aksatmadan hızlı çözüm sağlıyoruz."
+          "q": "Büro und Arbeitsplatz Notfall-Schlossöffnung",
+          "a": "Wir bieten schnelle Lösungen ohne Ihren Betrieb zu stören."
         },
         {
-          "q": "Giriş Kontrol Sistemleri Kurulumu",
-          "a": "Kartlı geçiş, elektronik kilit ve diğer güvenlik sistemlerini kuruyoruz."
+          "q": "Zugangskontrollsysteme Installation",
+          "a": "Wir installieren Kartenzugang, elektronische Schlösser und andere Sicherheitssysteme."
         },
         {
-          "q": "Güvenlik Kilidi ve Cihaz Montajı",
-          "a": "Yüksek güvenlikli kilit ve cihazlarla iş yerinizi daha güvenli hale getiriyoruz."
+          "q": "Sicherheitsschloss und Gerätemontage",
+          "a": "Wir machen Ihren Arbeitsplatz sicherer mit Hochsicherheitsschlössern."
         }
       ]
     }
   },
   "About": {
-    "titlePrefix": "Hakkımızda",
-    "title": "Antalya Çilingirci – 7/24 Güvenilir Çilingir Hizmeti",
-    "desc1": "Antalya Çilingirci olarak, yıllardır Antalya genelinde profesyonel çilingir hizmeti sunuyoruz. Kapıda kaldığınızda, aracınızın anahtarını kaybettiğinizde ya da iş yerinizin güvenliği için yeni bir sistem gerektiğinde güvenilir çözüm ortağınız biziz.",
-    "desc2": "Misyonumuz; müşterilerimize hızlı, güvenli ve uygun fiyatlı çilingir hizmeti sunmak, ev ve iş yerlerinin güvenliğini en üst düzeye çıkarmaktır.",
-    "offersTitle": "Neler Sunuyoruz?",
+    "titlePrefix": "Über Uns",
+    "title": "Antalya Schlüsseldienst – 24/7 Zuverlässiger Service",
+    "desc1": "Als Antalya Schlüsseldienst bieten wir seit Jahren professionelle Schlüsseldienste in ganz Antalya an. Wir sind Ihr zuverlässiger Partner, wenn Sie ausgesperrt sind, Ihre Autoschlüssel verlieren oder ein neues Sicherheitssystem benötigen.",
+    "desc2": "Unsere Mission ist es, schnelle, sichere und erschwingliche Schlüsseldienste anzubieten und die Sicherheit Ihres Zuhauses und Arbeitsplatzes zu maximieren.",
+    "offersTitle": "Was Wir Bieten:",
     "offers": [
-      "7/24 acil kapı açma hizmeti",
-      "Oto çilingir ve kasa kilidi açma",
-      "Kilit değiştirme ve güvenlik sistemleri montajı",
-      "Deneyimli, profesyonel ve güvenilir ekip"
+      "24/7 Notfall-Türöffnung",
+      "Auto-Schlüsseldienst und Tresoröffnung",
+      "Schlossaustausch und Sicherheitssysteme",
+      "Erfahrenes, professionelles und zuverlässiges Team"
     ],
-    "closing": "Antalya'da her an ulaşabileceğiniz, işini titizlikle yapan bir ekip arıyorsanız doğru adrestesiniz.",
-    "experience": "Yıllık",
-    "experienceSub": "Tecrübe"
+    "closing": "Wenn Sie ein erreichbares, sorgfältiges Team in Antalya suchen, sind Sie hier richtig.",
+    "experience": "Jahre",
+    "experienceSub": "Erfahrung"
   },
   "Regions": {
-    "title": "Hizmet Bölgelerimiz",
-    "subtitle": "Antalya'nın her yerine 15 dakikada ulaşıyoruz",
+    "title": "Servicegebiete",
+    "subtitle": "Wir erreichen jeden Ort in Antalya in 15 Minuten",
     "areas": [
       "Muratpaşa",
       "Kepez",
@@ -188,82 +188,82 @@
     ]
   },
   "WhyUs": {
-    "title": "Neden Biz?",
+    "title": "Warum Uns Wählen?",
     "items": [
       {
-        "title": "Yerel Güven",
-        "desc": "Antalya merkezli ekibimizle bulunduğumuz bölgeye hakim, hızlı ve güvenilir çilingir hizmeti sunuyoruz."
+        "title": "Lokales Vertrauen",
+        "desc": "In Antalya ansässig, kennen wir die Gegend und bieten schnellen Service."
       },
       {
-        "title": "Uzman Ekip",
-        "desc": "Deneyimli ustalarımız yılların bilgi birikimiyle size profesyonel ve kalıcı çözümler sunuyor."
+        "title": "Expertenteam",
+        "desc": "Erfahrene Meister bieten professionelle und dauerhafte Lösungen."
       },
       {
-        "title": "Geniş Hizmet",
-        "desc": "Araç, ev ve iş yerleri için acil kapı açma, kilit değişimi ve güvenlik sistemleri kuruyoruz."
+        "title": "Breites Angebot",
+        "desc": "Wir öffnen Autos, Häuser und Büros, wechseln Schlösser und installieren Sicherheitssysteme."
       },
       {
-        "title": "Acil Destek",
-        "desc": "Günün her saati, tatil günleri dahil bir telefonla dakikalar içinde yanınızdayız."
+        "title": "Notfall-Support",
+        "desc": "Rund um die Uhr verfügbar, auch an Feiertagen, wir sind in Minuten da."
       }
     ]
   },
   "Testimonials": {
-    "title": "Müşterilerimiz Ne Diyor?",
-    "ratingText": "4.8 / 5 memnuniyet oranı – 2.500'den fazla müşterimizin güvenini kazandık.",
+    "title": "Was Unsere Kunden Sagen",
+    "ratingText": "4,8 / 5 Zufriedenheitsrate – Über 2.500 zufriedene Kunden.",
     "items": [
       {
-        "text": "Evimizin kilidini değiştirdik. Hem uygun fiyatlı hem de çok profesyonel çalıştılar. Çok memnun kaldık.",
+        "text": "Unser Hausschloss wurde gewechselt. Sehr günstig und professionell. Sehr zufrieden.",
         "author": "Elif K.",
         "location": "Antalya - Lara"
       },
       {
-        "text": "Gece yarısı kapıda kaldım, dakikalar içinde geldiler. Çok teşekkürler!",
+        "text": "Um Mitternacht ausgesperrt, sie waren in Minuten da. Danke!",
         "author": "Ahmet Y.",
         "location": "Antalya - Kepez"
       },
       {
-        "text": "İşyerimizin kilit sistemlerini yenilediler, çok güvenilir ve temiz işçilik.",
+        "text": "Unsere Bürosicherheit erneuert. Zuverlässige und saubere Arbeit.",
         "author": "Mehmet T.",
         "location": "Antalya - Muratpaşa"
       }
     ]
   },
   "Contact": {
-    "title": "İletişim",
-    "callNow": "Hemen arayın:",
-    "email": "Mail:",
-    "phone": "0 546 855 86 80",
+    "title": "Kontakt",
+    "callNow": "Jetzt anrufen:",
+    "email": "E-Mail:",
+    "phone": "+90 546 855 86 80",
     "emailAddress": "info@antalyacilingirci.com",
-    "localBusiness": "Yerel ve bağımsız işletmeyiz: Antalya merkezli ekibimizle bölgeye hakim, güvenilir hizmet sunuyoruz.",
-    "alwaysOpen": "HER ZAMAN AÇIK : 7/24 Hizmetinizde"
+    "localBusiness": "Lokal und unabhängig: Ein in Antalya ansässiges Team mit regionaler Expertise.",
+    "alwaysOpen": "IMMER GEÖFFNET : 24/7 Zu Ihrem Service"
   },
   "FAQ": {
-    "title": "Sıkça Sorulan Sorular",
+    "title": "Häufig Gestellte Fragen",
     "items": [
       {
-        "q": "Antalya'da 7/24 çilingir hizmeti var mı?",
-        "a": "Evet, Antalya Çilingirci olarak 7 gün 24 saat, resmi tatiller dahil kesintisiz acil çilingir hizmeti sunuyoruz. Gece yarısı bile arayabilirsiniz."
+        "q": "Gibt es einen 24/7 Schlüsseldienst in Antalya?",
+        "a": "Ja, als Antalya Schlüsseldienst bieten wir einen 24/7 Notfall-Schlüsseldienst an, auch an Feiertagen und spät in der Nacht. Rufen Sie uns jederzeit an."
       },
       {
-        "q": "Çilingir kaç dakikada gelir?",
-        "a": "Antalya merkez ve ilçelerinde ortalama 15 dakika içinde adresinize ulaşıyoruz. Motorlu servis ekibimiz size en yakın noktadan hareket eder."
+        "q": "Wie schnell kommt der Schlüsseldienst?",
+        "a": "Wir erreichen Ihre Adresse durchschnittlich innerhalb von 15 Minuten im Zentrum und den Bezirken von Antalya."
       },
       {
-        "q": "Kapı açma ücreti ne kadar?",
-        "a": "Fiyatlarımız kilit tipine ve saate göre değişiklik gösterir. Telefonda ücretsiz bilgi alabilir, sürpriz fiyatla karşılaşmazsınız. Uygun fiyat garantisi veriyoruz."
+        "q": "Was kostet die Türöffnung?",
+        "a": "Unsere Preise variieren je nach Schlosstyp und Uhrzeit. Telefonisch erhalten Sie kostenlose Informationen und wir garantieren keine Überraschungsgebühren."
       },
       {
-        "q": "Araç kapısı açabilir misiniz?",
-        "a": "Evet, her marka ve model araç için oto çilingir hizmeti sunuyoruz. Hasarsız araç kapısı açma, yedek anahtar yapımı ve immobilizer programlama yapıyoruz."
+        "q": "Können Sie eine Autotür öffnen?",
+        "a": "Ja, wir bieten Auto-Schlüsseldienste für alle Automarken und -modelle an. Beschädigungsfreie Autotüröffnung, Ersatzschlüssel und Wegfahrsperren-Programmierung."
       },
       {
-        "q": "Kilit değişimi yapıyor musunuz?",
-        "a": "Evet, Mul-T-Lock, Kale Kilit ve diğer yüksek güvenlikli marka kilit sistemleri ile ev, iş yeri ve araç kilit değişimi yapıyoruz."
+        "q": "Machen Sie Schlossaustausch?",
+        "a": "Ja, wir tauschen Schlösser mit Hochsicherheitsmarken wie Mul-T-Lock und Kale Kilit für Wohnungen, Büros und Fahrzeuge."
       },
       {
-        "q": "Hangi bölgelere hizmet veriyorsunuz?",
-        "a": "Antalya'nın tüm merkez ilçelerine hizmet veriyoruz: Muratpaşa, Kepez, Konyaaltı, Döşemealtı, Aksu, Lara, Kundu ve Kemer."
+        "q": "Welche Gebiete bedienen Sie?",
+        "a": "Wir bedienen alle zentralen Bezirke von Antalya: Muratpaşa, Kepez, Konyaaltı, Döşemealtı, Aksu, Lara, Kundu und Kemer."
       }
     ]
   }

@@ -1,269 +1,269 @@
 {
   "Metadata": {
-    "title": "Antalya Çilingirci | 7/24 Acil Kapı Açma ve Kilit Değişimi",
-    "description": "Antalya genelinde profesyonel çilingir hizmeti. 7/24 oto çilingir, kasa açma, konut ve ticari kilit sistemleri. Hemen arayın: 0 546 855 86 80"
+    "title": "Анталья Слесарь | Круглосуточная Аварийная Служба Вскрытия Дверей",
+    "description": "Профессиональный слесарный сервис по всей Анталье. Круглосуточный автослесарь, вскрытие сейфов, замки для дома и бизнеса. Звоните сейчас: +90 546 855 86 80"
   },
   "Nav": {
-    "services": "Hizmetlerimiz",
-    "about": "Hakkımızda",
-    "whyUs": "Neden Biz",
-    "contact": "İletişim",
-    "quickLinks": "Hızlı Linkler",
-    "copyright": "Tüm hakları saklıdır.",
-    "details": "Detaylı Bilgi"
+    "services": "Услуги",
+    "about": "О Нас",
+    "whyUs": "Почему Мы",
+    "contact": "Контакт",
+    "quickLinks": "Быстрые Ссылки",
+    "copyright": "Все права защищены.",
+    "details": "Подробнее"
   },
   "Hero": {
-    "badge": "7/24 Kesintisiz Hizmet",
-    "titlePrefix": "Antalya",
-    "titleService": "Çilingir",
-    "titleSuffix": "Hizmeti",
-    "subtitle": "Acil Kapı Açma",
-    "title": "Antalya Çilingir Hizmeti – 7/24 Acil Kapı Açma",
-    "desc": "Antalya'nın her yerine 15 dakikada ulaşıyor, kapıda kalma derdinize hızlı, güvenli ve profesyonel çözümler üretiyoruz.",
-    "cta": "Hemen Ara : 0 546 855 86 80",
-    "whatsapp": "WhatsApp'tan Yaz"
+    "badge": "Круглосуточный Сервис 24/7",
+    "titlePrefix": "Анталья",
+    "titleService": "Слесарь",
+    "titleSuffix": "Сервис",
+    "subtitle": "Аварийное Вскрытие Дверей",
+    "title": "Анталья Слесарный Сервис – 24/7 Аварийное Вскрытие Дверей",
+    "desc": "Мы прибываем в любую точку Антальи в течение 15 минут, предоставляя быстрые, безопасные и профессиональные решения, когда вы заперты.",
+    "cta": "Позвоните Сейчас : +90 546 855 86 80",
+    "whatsapp": "Написать в WhatsApp"
   },
   "ServicesData": {
     "oto-cilingir": {
-      "title": "Antalya Oto Çilingir",
-      "slug": "oto-cilingir",
-      "seoTitle": "Antalya Oto Çilingir | 7/24 Araç Kapısı Açma & Kilit Yaptırma",
-      "seoDesc": "Antalya 7/24 oto çilingir hizmeti. Aracınızın kapısı mı kilitli kaldı? Anahtarınızı mı kaybettiniz? 15 dakikada yanınızdayız.",
-      "content": "Aracınızın markası veya modeli ne olursa olsun, Antalya genelinde 7/24 oto çilingir hizmeti sunuyoruz. Araç kapısı açma, hasarsız kilit açma, kayıp anahtar yapımı, immobilizer sorunları ve oto alarm sistemleri konulu ihtiyaçlarınızda uzman ekibimiz en kısa sürede adresinize ulaşır."
+      "title": "Анталья Автослесарь",
+      "slug": "avto-slesar",
+      "seoTitle": "Анталья Автослесарь | 24/7 Вскрытие Автомобильных Дверей",
+      "seoDesc": "Круглосуточный автослесарный сервис в Анталье. Заперлись в машине? Потеряли ключ? Мы будем у вас через 15 минут.",
+      "content": "Независимо от марки или модели вашего автомобиля, мы предоставляем круглосуточные автослесарные услуги по всей Анталье. Вскрытие автомобильных дверей, безповреждённое открытие, изготовление дубликатов ключей и программирование иммобилайзеров."
     },
     "kasa-acma": {
-      "title": "Çelik Kasa Açma",
-      "slug": "kasa-acma",
-      "seoTitle": "Antalya Kasa Çilingir | Çelik Kasa Açma Hizmeti",
-      "seoDesc": "Antalya çelik kasa açma ve şifre değiştirme. Unutulan şifreler veya kaybolan anahtarlar için profesyonel kasa çilingir hizmeti.",
-      "content": "Ev veya iş yerinizde kullandığınız çelik kasaların şifresini mi unuttunuz? Anahtarını mı kaybettiniz? Gelişmiş ekipmanlarımız ile her model çelik kasayı hasarsız şekilde açıyor, şifre değişim işlemlerini güvenle gerçekleştiriyoruz."
+      "title": "Вскрытие Сейфов",
+      "slug": "vskrytie-sejfov",
+      "seoTitle": "Анталья Сейфовый Слесарь | Вскрытие Стальных Сейфов",
+      "seoDesc": "Вскрытие стальных сейфов и смена паролей в Анталье. Профессиональный сейфовый слесарный сервис.",
+      "content": "Забыли пароль или потеряли ключ от стального сейфа? С помощью нашего современного оборудования мы вскрываем сейфы всех моделей без повреждений."
     },
     "konut-cilingir": {
-      "title": "Konut (Ev) Çilingir",
-      "slug": "konut-cilingir",
-      "seoTitle": "Antalya Ev Çilingiri | 7/24 Kapı Açma ve Kilit Değişimi",
-      "seoDesc": "Antalya merkez ve ilçelerinde 7/24 acil ev çilingiri. Kapıda mı kaldınız? Kilit değişimi, göbek değiştirme ve güvenlik sistemleri.",
-      "content": "Kapıda kalma durumlarında evinizin kapısını hasar vermeden uzmanlıkla açıyoruz. Ayrıca taşınma durumlarında veya güvenlik ihtiyacınızda, yüksek güvenlikli mult-t-lock, kale kilit gibi donanımlarla kilit ve barel değişim işlemlerinizi gerçekleştiriyoruz."
+      "title": "Жилищный Слесарь",
+      "slug": "zhilishchnyj-slesar",
+      "seoTitle": "Анталья Жилищный Слесарь | 24/7 Вскрытие и Замена Замков",
+      "seoDesc": "Круглосуточный аварийный слесарь для жилья в Анталье. Заперлись? Замена замков и системы безопасности.",
+      "content": "Когда вы заперты, мы профессионально откроем вашу дверь без повреждений. Мы также заменяем замки на высокозащитное оборудование Mul-T-Lock и Kale Kilit."
     },
     "ticari-cilingir": {
-      "title": "Ticari (İşyeri) Çilingir",
-      "slug": "ticari-cilingir",
-      "seoTitle": "Antalya İşyeri Çilingiri | Dükkan, Ofis ve Kepenk Kilidi Açma",
-      "seoDesc": "İşyeriniz için profesyonel çilingir çözümleri. Kepenk kilitleri, ofis kapıları, cam kapı kilitleri tamir ve bakımı.",
-      "content": "İşletmenizin güvenliği bizim için önemli. Cam kapı kilitleri, dükkan kepenkleri, ofis giriş sistemleri, master kilit sistemleri kurulumu ve acil kilit açma ihtiyaçlarınızda profesyonel çözümler sunarak işinizin aksamamasını sağlıyoruz."
+      "title": "Коммерческий Слесарь",
+      "slug": "kommercheskij-slesar",
+      "seoTitle": "Анталья Коммерческий Слесарь | Магазин, Офис и Замки Роллет",
+      "seoDesc": "Профессиональные слесарные решения для вашего бизнеса. Ремонт роллетных замков, офисных дверей.",
+      "content": "Безопасность вашего бизнеса важна для нас. Мы предоставляем профессиональные решения для замков стеклянных дверей, роллет, офисных систем входа и аварийного вскрытия."
     }
   },
   "RegionsData": {
     "muratpasa-cilingir": {
-      "title": "Muratpaşa Çilingir",
-      "slug": "muratpasa-cilingir",
-      "seoTitle": "Muratpaşa Çilingir | 7/24 Acil En Yakın Çilingir",
-      "seoDesc": "Antalya Muratpaşa geneli 15 dakikada acil çilingir hizmeti. Lara, Şirinyalı, Meydan, Fener mahallelerinde 7/24 oto ve kapı çilingiri."
+      "title": "Слесарь Муратпаша",
+      "slug": "slesar-muratpasha",
+      "seoTitle": "Слесарь Муратпаша | 24/7 Срочный Ближайший Слесарь",
+      "seoDesc": "Аварийный слесарный сервис за 15 минут в Муратпаша, Анталья."
     },
     "kepez-cilingir": {
-      "title": "Kepez Çilingir",
-      "slug": "kepez-cilingir",
-      "seoTitle": "Kepez Çilingir | 7/24 Hızlı ve Kaliteli Kapı Açma",
-      "seoDesc": "Antalya Kepez 7/24 acil çilingir. Dokuma, Masadağı, Varsak bölgelerinde uygun fiyatlı, anında müdahale eden profesyonel çilingir."
+      "title": "Слесарь Кепез",
+      "slug": "slesar-kepez",
+      "seoTitle": "Слесарь Кепез | 24/7 Быстрое Вскрытие",
+      "seoDesc": "Круглосуточный аварийный слесарь в Кепез, Анталья."
     },
     "konyaalti-cilingir": {
-      "title": "Konyaaltı Çilingir",
-      "slug": "konyaalti-cilingir",
-      "seoTitle": "Konyaaltı Çilingir | 7/24 Hasarsız Kapı & Oto Açma",
-      "seoDesc": "Antalya Konyaaltı Hurma, Liman, Uncalı mahallelerine anında çilingir servisi. Aracınızda veya evinizde kilitli kalmayın, hemen arayın."
+      "title": "Слесарь Коньяалты",
+      "slug": "slesar-konyaalti",
+      "seoTitle": "Слесарь Коньяалты | 24/7 Безповреждённое Вскрытие",
+      "seoDesc": "Мгновенный слесарный сервис в Коньяалты, Хурма, Лиман."
     },
     "dosemealti-cilingir": {
-      "title": "Döşemealtı Çilingir",
-      "slug": "dosemealti-cilingir",
-      "seoTitle": "Döşemealtı Çilingir | Yeniköy Ev ve Oto Çilingir",
-      "seoDesc": "Antalya Döşemealtı organize, Yeniköy bölgelerine hızlı çilingir hizmeti. 7/24 profesyonel ekip."
+      "title": "Слесарь Дёшемеалты",
+      "slug": "slesar-dosemealti",
+      "seoTitle": "Слесарь Дёшемеалты | Домашний и Авто Слесарь",
+      "seoDesc": "Быстрый слесарный сервис в Дёшемеалты. Круглосуточная профессиональная команда."
     },
     "aksu-cilingir": {
-      "title": "Aksu Çilingir",
-      "slug": "aksu-cilingir",
-      "seoTitle": "Aksu Çilingir | Lara Kundu Acil Kapı Açma",
-      "seoDesc": "Aksu Kundu oteller bölgesi, Macun ve çevre mahalleri için acil çilingir hizmetleri."
+      "title": "Слесарь Аксу",
+      "slug": "slesar-aksu",
+      "seoTitle": "Слесарь Аксу | Аварийное Вскрытие",
+      "seoDesc": "Аварийный слесарный сервис в зоне отелей Аксу Кунду."
     },
     "lara-cilingir": {
-      "title": "Lara Çilingir",
-      "slug": "lara-cilingir",
-      "seoTitle": "Lara Çilingir | 7/24 Acil & Güvenilir Antalya Çilingir",
-      "seoDesc": "Antalya Lara bölgesinde 15 dakikada en yakın çilingir kapınızda. Ev, oto ve kasa açımı uzmanlıkla yapılır."
+      "title": "Слесарь Лара",
+      "slug": "slesar-lara",
+      "seoTitle": "Слесарь Лара | 24/7 Надёжный Сервис",
+      "seoDesc": "Ближайший слесарь за 15 минут в районе Лара."
     },
     "kundu-cilingir": {
-      "title": "Kundu Çilingir",
-      "slug": "kundu-cilingir",
-      "seoTitle": "Kundu Çilingir | Oteller Bölgesi 24 Saat Çilingir",
-      "seoDesc": "Kundu turizm merkezinde ev, araç ve iş yeri çilingir hizmetleri."
+      "title": "Слесарь Кунду",
+      "slug": "slesar-kundu",
+      "seoTitle": "Слесарь Кунду | Зона Отелей 24ч Сервис",
+      "seoDesc": "Слесарные услуги в туристическом центре Кунду."
     },
     "kemer-cilingir": {
-      "title": "Kemer Çilingir",
-      "slug": "kemer-cilingir",
-      "seoTitle": "Kemer Çilingir | 7/24 Beldibi, Göynük Çilingir",
-      "seoDesc": "Antalya Kemer bölgesi için profesyonel çilingir desteği. Kilitli kapı bırakmıyoruz."
+      "title": "Слесарь Кемер",
+      "slug": "slesar-kemer",
+      "seoTitle": "Слесарь Кемер | 24/7 Бельдиби, Гёйнюк",
+      "seoDesc": "Профессиональная слесарная поддержка в регионе Кемер."
     }
   },
   "Services": {
-    "title": "Hizmetlerimiz",
+    "title": "Наши Услуги",
     "oto": {
-      "title": "Oto Çilingir",
+      "title": "Автослесарь",
       "items": [
         {
-          "q": "Araç kapısı açma",
-          "a": "Antalya'da aracınızın kapısı kilitli kaldığında güvenli ve hızlı şekilde açıyoruz."
+          "q": "Вскрытие автомобильной двери",
+          "a": "Мы быстро и безопасно откроем ваш заблокированный автомобиль в Анталье."
         },
         {
-          "q": "Acil durum araç kilidi açma",
-          "a": "Gece veya gündüz fark etmez, aracınızın anahtarını kaybettiyseniz dakikalar içinde yanınızdayız."
+          "q": "Аварийное вскрытие автозамка",
+          "a": "Днём или ночью, если вы потеряли ключи от машины, мы будем через несколько минут."
         },
         {
-          "q": "Araç alarm sistemi kurulumu",
-          "a": "Otomobilinizin güvenliği için modern alarm sistemleri kurulumu ve bakımı yapıyoruz."
+          "q": "Установка автосигнализации",
+          "a": "Мы устанавливаем и обслуживаем современные системы сигнализации для безопасности вашего автомобиля."
         }
       ]
     },
     "konut": {
-      "title": "Konut Çilingir",
+      "title": "Жилищный Слесарь",
       "items": [
         {
-          "q": "Kilitli ev kapısı açma",
-          "a": "Evde kaldığınızda çilingir ekibimiz dakikalar içinde kapınızı açar."
+          "q": "Вскрытие запертой двери дома",
+          "a": "Когда вы заперты, наша команда откроет вашу дверь за считанные минуты."
         },
         {
-          "q": "Ev Güvenlik Sistemleri Kurulumu",
-          "a": "Kapı ve pencere kilitleri dahil olmak üzere ev güvenliği için profesyonel çözümler sunuyoruz."
+          "q": "Установка систем домашней безопасности",
+          "a": "Мы предлагаем профессиональные решения для домашней безопасности, включая замки дверей и окон."
         },
         {
-          "q": "Acil Kapı Açma ve Kilit Değiştirme",
-          "a": "Geceleri veya tatil günlerinde bile 7/24 acil destek ile kapınızı açıp güvenliğinizi sağlıyoruz."
+          "q": "Аварийное вскрытие и замена замков",
+          "a": "Круглосуточная аварийная поддержка, даже ночью и в праздничные дни."
         }
       ]
     },
     "ticari": {
-      "title": "Ticari Çilingir",
+      "title": "Коммерческий Слесарь",
       "items": [
         {
-          "q": "Ofis ve İş Yeri Acil Kilit Açma",
-          "a": "Anahtar kaybı ya da kilit arızasında işinizi aksatmadan hızlı çözüm sağlıyoruz."
+          "q": "Аварийное вскрытие офиса",
+          "a": "Мы предоставляем быстрые решения, не нарушая работу вашего бизнеса."
         },
         {
-          "q": "Giriş Kontrol Sistemleri Kurulumu",
-          "a": "Kartlı geçiş, elektronik kilit ve diğer güvenlik sistemlerini kuruyoruz."
+          "q": "Установка систем контроля доступа",
+          "a": "Мы устанавливаем карточный доступ, электронные замки и другие системы безопасности."
         },
         {
-          "q": "Güvenlik Kilidi ve Cihaz Montajı",
-          "a": "Yüksek güvenlikli kilit ve cihazlarla iş yerinizi daha güvenli hale getiriyoruz."
+          "q": "Монтаж замков безопасности",
+          "a": "Мы делаем ваше рабочее место безопаснее с помощью замков высокой безопасности."
         }
       ]
     }
   },
   "About": {
-    "titlePrefix": "Hakkımızda",
-    "title": "Antalya Çilingirci – 7/24 Güvenilir Çilingir Hizmeti",
-    "desc1": "Antalya Çilingirci olarak, yıllardır Antalya genelinde profesyonel çilingir hizmeti sunuyoruz. Kapıda kaldığınızda, aracınızın anahtarını kaybettiğinizde ya da iş yerinizin güvenliği için yeni bir sistem gerektiğinde güvenilir çözüm ortağınız biziz.",
-    "desc2": "Misyonumuz; müşterilerimize hızlı, güvenli ve uygun fiyatlı çilingir hizmeti sunmak, ev ve iş yerlerinin güvenliğini en üst düzeye çıkarmaktır.",
-    "offersTitle": "Neler Sunuyoruz?",
+    "titlePrefix": "О Нас",
+    "title": "Анталья Слесарь – 24/7 Надёжный Сервис",
+    "desc1": "Как Анталья Слесарь, мы уже много лет предоставляем профессиональные слесарные услуги по всей Анталье. Мы ваш надёжный партнёр, когда вы заперты, потеряли ключи от машины или нуждаетесь в новой системе безопасности.",
+    "desc2": "Наша миссия — предоставлять быстрые, безопасные и доступные слесарные услуги и максимально повышать безопасность вашего дома и рабочего места.",
+    "offersTitle": "Что Мы Предлагаем:",
     "offers": [
-      "7/24 acil kapı açma hizmeti",
-      "Oto çilingir ve kasa kilidi açma",
-      "Kilit değiştirme ve güvenlik sistemleri montajı",
-      "Deneyimli, profesyonel ve güvenilir ekip"
+      "Круглосуточное аварийное вскрытие дверей",
+      "Автослесарь и вскрытие сейфов",
+      "Замена замков и установка систем безопасности",
+      "Опытная, профессиональная и надёжная команда"
     ],
-    "closing": "Antalya'da her an ulaşabileceğiniz, işini titizlikle yapan bir ekip arıyorsanız doğru adrestesiniz.",
-    "experience": "Yıllık",
-    "experienceSub": "Tecrübe"
+    "closing": "Если вы ищете доступную и тщательную команду в Анталье, вы по адресу.",
+    "experience": "Лет",
+    "experienceSub": "Опыта"
   },
   "Regions": {
-    "title": "Hizmet Bölgelerimiz",
-    "subtitle": "Antalya'nın her yerine 15 dakikada ulaşıyoruz",
+    "title": "Зоны Обслуживания",
+    "subtitle": "Мы прибываем в любую точку Антальи за 15 минут",
     "areas": [
-      "Muratpaşa",
-      "Kepez",
-      "Konyaaltı",
-      "Döşemealtı",
-      "Aksu",
-      "Lara",
-      "Kundu",
-      "Kemer"
+      "Муратпаша",
+      "Кепез",
+      "Коньяалты",
+      "Дёшемеалты",
+      "Аксу",
+      "Лара",
+      "Кунду",
+      "Кемер"
     ]
   },
   "WhyUs": {
-    "title": "Neden Biz?",
+    "title": "Почему Выбирают Нас?",
     "items": [
       {
-        "title": "Yerel Güven",
-        "desc": "Antalya merkezli ekibimizle bulunduğumuz bölgeye hakim, hızlı ve güvenilir çilingir hizmeti sunuyoruz."
+        "title": "Местное Доверие",
+        "desc": "Базируемся в Анталье, знаем район и обеспечиваем быстрый сервис."
       },
       {
-        "title": "Uzman Ekip",
-        "desc": "Deneyimli ustalarımız yılların bilgi birikimiyle size profesyonel ve kalıcı çözümler sunuyor."
+        "title": "Команда Экспертов",
+        "desc": "Опытные мастера предлагают профессиональные и долговечные решения."
       },
       {
-        "title": "Geniş Hizmet",
-        "desc": "Araç, ev ve iş yerleri için acil kapı açma, kilit değişimi ve güvenlik sistemleri kuruyoruz."
+        "title": "Широкий Спектр",
+        "desc": "Мы открываем авто, дома и офисы, меняем замки и устанавливаем системы безопасности."
       },
       {
-        "title": "Acil Destek",
-        "desc": "Günün her saati, tatil günleri dahil bir telefonla dakikalar içinde yanınızdayız."
+        "title": "Аварийная Поддержка",
+        "desc": "Доступны в любое время суток, включая праздники, прибываем за считанные минуты."
       }
     ]
   },
   "Testimonials": {
-    "title": "Müşterilerimiz Ne Diyor?",
-    "ratingText": "4.8 / 5 memnuniyet oranı – 2.500'den fazla müşterimizin güvenini kazandık.",
+    "title": "Что Говорят Наши Клиенты",
+    "ratingText": "4,8 / 5 уровень удовлетворённости – Нам доверяют более 2 500 клиентов.",
     "items": [
       {
-        "text": "Evimizin kilidini değiştirdik. Hem uygun fiyatlı hem de çok profesyonel çalıştılar. Çok memnun kaldık.",
-        "author": "Elif K.",
-        "location": "Antalya - Lara"
+        "text": "Заменили замок в доме. Очень доступно и профессионально. Очень довольны.",
+        "author": "Элиф К.",
+        "location": "Анталья - Лара"
       },
       {
-        "text": "Gece yarısı kapıda kaldım, dakikalar içinde geldiler. Çok teşekkürler!",
-        "author": "Ahmet Y.",
-        "location": "Antalya - Kepez"
+        "text": "Заперлись в полночь, приехали за считанные минуты. Спасибо!",
+        "author": "Ахмет Й.",
+        "location": "Анталья - Кепез"
       },
       {
-        "text": "İşyerimizin kilit sistemlerini yenilediler, çok güvenilir ve temiz işçilik.",
-        "author": "Mehmet T.",
-        "location": "Antalya - Muratpaşa"
+        "text": "Обновили безопасность офиса. Надёжная и аккуратная работа.",
+        "author": "Мехмет Т.",
+        "location": "Анталья - Муратпаша"
       }
     ]
   },
   "Contact": {
-    "title": "İletişim",
-    "callNow": "Hemen arayın:",
-    "email": "Mail:",
-    "phone": "0 546 855 86 80",
+    "title": "Контакт",
+    "callNow": "Позвоните сейчас:",
+    "email": "Эл. почта:",
+    "phone": "+90 546 855 86 80",
     "emailAddress": "info@antalyacilingirci.com",
-    "localBusiness": "Yerel ve bağımsız işletmeyiz: Antalya merkezli ekibimizle bölgeye hakim, güvenilir hizmet sunuyoruz.",
-    "alwaysOpen": "HER ZAMAN AÇIK : 7/24 Hizmetinizde"
+    "localBusiness": "Местная и независимая компания: Базирующаяся в Анталье команда с региональной экспертизой.",
+    "alwaysOpen": "ВСЕГДА ОТКРЫТЫ : К вашим услугам 24/7"
   },
   "FAQ": {
-    "title": "Sıkça Sorulan Sorular",
+    "title": "Часто Задаваемые Вопросы",
     "items": [
       {
-        "q": "Antalya'da 7/24 çilingir hizmeti var mı?",
-        "a": "Evet, Antalya Çilingirci olarak 7 gün 24 saat, resmi tatiller dahil kesintisiz acil çilingir hizmeti sunuyoruz. Gece yarısı bile arayabilirsiniz."
+        "q": "Есть ли круглосуточный слесарный сервис в Анталье?",
+        "a": "Да, как Анталья Слесарь мы предоставляем круглосуточный аварийный слесарный сервис, включая праздники и поздние ночи. Вы можете позвонить нам в любое время."
       },
       {
-        "q": "Çilingir kaç dakikada gelir?",
-        "a": "Antalya merkez ve ilçelerinde ortalama 15 dakika içinde adresinize ulaşıyoruz. Motorlu servis ekibimiz size en yakın noktadan hareket eder."
+        "q": "Как быстро приезжает слесарь?",
+        "a": "Мы прибываем по вашему адресу в среднем в течение 15 минут в центре Антальи и районах."
       },
       {
-        "q": "Kapı açma ücreti ne kadar?",
-        "a": "Fiyatlarımız kilit tipine ve saate göre değişiklik gösterir. Telefonda ücretsiz bilgi alabilir, sürpriz fiyatla karşılaşmazsınız. Uygun fiyat garantisi veriyoruz."
+        "q": "Сколько стоит вскрытие двери?",
+        "a": "Наши цены зависят от типа замка и времени. По телефону вы получите бесплатную информацию, и мы гарантируем отсутствие скрытых платежей."
       },
       {
-        "q": "Araç kapısı açabilir misiniz?",
-        "a": "Evet, her marka ve model araç için oto çilingir hizmeti sunuyoruz. Hasarsız araç kapısı açma, yedek anahtar yapımı ve immobilizer programlama yapıyoruz."
+        "q": "Вы можете открыть дверь автомобиля?",
+        "a": "Да, мы предоставляем автослесарные услуги для всех марок и моделей автомобилей. Безповреждённое вскрытие, изготовление запасных ключей и программирование иммобилайзеров."
       },
       {
-        "q": "Kilit değişimi yapıyor musunuz?",
-        "a": "Evet, Mul-T-Lock, Kale Kilit ve diğer yüksek güvenlikli marka kilit sistemleri ile ev, iş yeri ve araç kilit değişimi yapıyoruz."
+        "q": "Вы делаете замену замков?",
+        "a": "Да, мы заменяем замки на высокозащитные бренды, такие как Mul-T-Lock и Kale Kilit для домов, офисов и транспортных средств."
       },
       {
-        "q": "Hangi bölgelere hizmet veriyorsunuz?",
-        "a": "Antalya'nın tüm merkez ilçelerine hizmet veriyoruz: Muratpaşa, Kepez, Konyaaltı, Döşemealtı, Aksu, Lara, Kundu ve Kemer."
+        "q": "Какие районы вы обслуживаете?",
+        "a": "Мы обслуживаем все центральные районы Антальи: Муратпаша, Кепез, Коньяалты, Дёшемеалты, Аксу, Лара, Кунду и Кемер."
       }
     ]
   }
