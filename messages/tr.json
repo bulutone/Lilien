@@ -29,28 +29,156 @@
       "slug": "oto-cilingir",
       "seoTitle": "Antalya Oto Çilingir | 7/24 Araç Kapısı Açma & Kilit Yaptırma",
       "seoDesc": "Antalya 7/24 oto çilingir hizmeti. Aracınızın kapısı mı kilitli kaldı? Anahtarınızı mı kaybettiniz? 15 dakikada yanınızdayız.",
-      "content": "Aracınızın markası veya modeli ne olursa olsun, Antalya genelinde 7/24 oto çilingir hizmeti sunuyoruz. Araç kapısı açma, hasarsız kilit açma, kayıp anahtar yapımı, immobilizer sorunları ve oto alarm sistemleri konulu ihtiyaçlarınızda uzman ekibimiz en kısa sürede adresinize ulaşır."
+      "content": "Aracınızın markası veya modeli ne olursa olsun, Antalya genelinde 7/24 oto çilingir hizmeti sunuyoruz. Araç kapısı açma, hasarsız kilit açma, kayıp anahtar yapımı, immobilizer sorunları ve oto alarm sistemleri konulu ihtiyaçlarınızda uzman ekibimiz en kısa sürede adresinize ulaşır.",
+      "steps": [
+        {
+          "title": "Bizi Arayın",
+          "desc": "7/24 hattımızı arayın, konumunuzu ve aracınızın markasını bildirin."
+        },
+        {
+          "title": "Ekip Yola Çıkar",
+          "desc": "En yakın motorlu çilingir ekibimiz ortalama 15 dakikada yanınızda."
+        },
+        {
+          "title": "Hasarsız Açılım",
+          "desc": "Aracınızın kapısı özel aletlerle hasarsız şekilde açılır."
+        },
+        {
+          "title": "Kontrol ve Teslim",
+          "desc": "İşlem sonrası aracınız kontrol edilir, memnuniyetiniz sağlanır."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Hangi araç markaları için hizmet veriyorsunuz?",
+          "a": "Tüm yerli ve ithal araç markaları için oto çilingir hizmeti sunuyoruz. BMW, Mercedes, Audi, Toyota, Honda, Hyundai, Renault başta olmak üzere tüm modellere müdahale edebiliyoruz."
+        },
+        {
+          "q": "Araç kapısı açma sırasında araca zarar verir misiniz?",
+          "a": "Hayır. Profesyonel ekibimiz özel oto çilingir aletleri kullanarak aracınıza kesinlikle zarar vermeden kapı açma işlemi gerçekleştirir."
+        },
+        {
+          "q": "Yedek araç anahtarı yapabiliyor musunuz?",
+          "a": "Evet. İmmobilizer programlama dahil her türlü yedek araç anahtarı yapımı hizmetimiz bulunmaktadır."
+        }
+      ]
     },
     "kasa-acma": {
       "title": "Çelik Kasa Açma",
       "slug": "kasa-acma",
       "seoTitle": "Antalya Kasa Çilingir | Çelik Kasa Açma Hizmeti",
       "seoDesc": "Antalya çelik kasa açma ve şifre değiştirme. Unutulan şifreler veya kaybolan anahtarlar için profesyonel kasa çilingir hizmeti.",
-      "content": "Ev veya iş yerinizde kullandığınız çelik kasaların şifresini mi unuttunuz? Anahtarını mı kaybettiniz? Gelişmiş ekipmanlarımız ile her model çelik kasayı hasarsız şekilde açıyor, şifre değişim işlemlerini güvenle gerçekleştiriyoruz."
+      "content": "Ev veya iş yerinizde kullandığınız çelik kasaların şifresini mi unuttunuz? Anahtarını mı kaybettiniz? Gelişmiş ekipmanlarımız ile her model çelik kasayı hasarsız şekilde açıyor, şifre değişim işlemlerini güvenle gerçekleştiriyoruz.",
+      "steps": [
+        {
+          "title": "İhtiyacınızı Bildirin",
+          "desc": "Kasanızın markasını ve modelini belirtin, sorunuzu anlatın."
+        },
+        {
+          "title": "Uzman Gelir",
+          "desc": "Kasa uzmanımız gerekli ekipmanlarla adresinize gelir."
+        },
+        {
+          "title": "Güvenli Açım",
+          "desc": "Kasanız hasarsız şekilde açılır, içerik güvenle teslim edilir."
+        },
+        {
+          "title": "Şifre Yenileme",
+          "desc": "İsterseniz yeni şifre belirlenir veya kilit sistemi değiştirilir."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Her marka kasayı açabiliyor musunuz?",
+          "a": "Evet. Dijital, mekanik ve elektronik tüm kasa modellerini açabiliyoruz. Yerli ve ithal fark etmez."
+        },
+        {
+          "q": "Kasa açma sırasında içerik zarar görür mü?",
+          "a": "Hayır. Profesyonel ekipmanlarımız sayesinde kasanız ve içeriği tamamen güvende kalır."
+        },
+        {
+          "q": "Şifre değiştirme hizmeti var mı?",
+          "a": "Evet. Kasa açma işlemi sonrasında yeni şifre belirleme ve kilit mekanizması değişim hizmeti sunuyoruz."
+        }
+      ]
     },
     "konut-cilingir": {
       "title": "Konut (Ev) Çilingir",
       "slug": "konut-cilingir",
       "seoTitle": "Antalya Ev Çilingiri | 7/24 Kapı Açma ve Kilit Değişimi",
       "seoDesc": "Antalya merkez ve ilçelerinde 7/24 acil ev çilingiri. Kapıda mı kaldınız? Kilit değişimi, göbek değiştirme ve güvenlik sistemleri.",
-      "content": "Kapıda kalma durumlarında evinizin kapısını hasar vermeden uzmanlıkla açıyoruz. Ayrıca taşınma durumlarında veya güvenlik ihtiyacınızda, yüksek güvenlikli Mul-T-Lock, Kale Kilit gibi donanımlarla kilit ve barel değişim işlemlerinizi gerçekleştiriyoruz."
+      "content": "Kapıda kalma durumlarında evinizin kapısını hasar vermeden uzmanlıkla açıyoruz. Ayrıca taşınma durumlarında veya güvenlik ihtiyacınızda, yüksek güvenlikli Mul-T-Lock, Kale Kilit gibi donanımlarla kilit ve barel değişim işlemlerinizi gerçekleştiriyoruz.",
+      "steps": [
+        {
+          "title": "Hemen Arayın",
+          "desc": "Kapıda kaldığınız anda bizi arayın, adresinizi bildirin."
+        },
+        {
+          "title": "Hızlı Müdahale",
+          "desc": "Motorlu servis ekibimiz 15 dakikada kapınızda."
+        },
+        {
+          "title": "Hasar Vermeden Açma",
+          "desc": "Kapınız özel aletlerle hasarsız şekilde açılır."
+        },
+        {
+          "title": "Kilit Kontrolü",
+          "desc": "İşlem sonrası kilitleriniz kontrol edilir, gerekirse yenisi takılır."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Çelik kapıyı açabilir misiniz?",
+          "a": "Evet. Her marka ve model çelik kapıyı hasarsız şekilde açıyoruz. Mul-T-Lock, Kale, Yale gibi tüm kilit sistemlerine hakimiz."
+        },
+        {
+          "q": "Kapı açma sonrası kilit değiştirebilir misiniz?",
+          "a": "Evet. Kapı açma işlemi sonrasında yüksek güvenlikli kilit montajı yapabiliyoruz."
+        },
+        {
+          "q": "Gece yarısı da gelir misiniz?",
+          "a": "Evet. 7/24 hizmet veriyoruz. Gece, hafta sonu, resmi tatil fark etmez."
+        }
+      ]
     },
     "ticari-cilingir": {
       "title": "Ticari (İşyeri) Çilingir",
       "slug": "ticari-cilingir",
       "seoTitle": "Antalya İşyeri Çilingiri | Dükkan, Ofis ve Kepenk Kilidi Açma",
       "seoDesc": "İşyeriniz için profesyonel çilingir çözümleri. Kepenk kilitleri, ofis kapıları, cam kapı kilitleri tamir ve bakımı.",
-      "content": "İşletmenizin güvenliği bizim için önemli. Cam kapı kilitleri, dükkan kepenkleri, ofis giriş sistemleri, master kilit sistemleri kurulumu ve acil kilit açma ihtiyaçlarınızda profesyonel çözümler sunarak işinizin aksamamasını sağlıyoruz."
+      "content": "İşletmenizin güvenliği bizim için önemli. Cam kapı kilitleri, dükkan kepenkleri, ofis giriş sistemleri, master kilit sistemleri kurulumu ve acil kilit açma ihtiyaçlarınızda profesyonel çözümler sunarak işinizin aksamamasını sağlıyoruz.",
+      "steps": [
+        {
+          "title": "Durumu Bildirin",
+          "desc": "İşyerinizin kilit sorununu bize anlatın, ekibimiz yönlendirilir."
+        },
+        {
+          "title": "Profesyonel Ekip",
+          "desc": "Ticari kilit uzmanımız tüm ekipmanlarla gelir."
+        },
+        {
+          "title": "Hızlı Çözüm",
+          "desc": "İşinizi aksatmadan kapınız açılır veya kilidiniz değiştirilir."
+        },
+        {
+          "title": "Güvenlik Danışmanlığı",
+          "desc": "İşletmeniz için güvenlik sistemi önerileri sunulur."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Kepenk kilidi tamiri yapıyor musunuz?",
+          "a": "Evet. Her türlü kepenk kilidi tamiri, değişimi ve bakımı yapıyoruz."
+        },
+        {
+          "q": "Master kilit sistemi kurabilir misiniz?",
+          "a": "Evet. İşyerleri ve siteler için tek anahtarla tüm kapıları açan master kilit sistemleri kuruyoruz."
+        },
+        {
+          "q": "Kartlı giriş sistemi kurulumu var mı?",
+          "a": "Evet. Modern kartlı geçiş ve elektronik kilit sistemleri kurulum ve bakımı yapıyoruz."
+        }
+      ]
     }
   },
   "RegionsData": {
@@ -462,6 +590,8 @@
   "ServicePage": {
     "ctaTitle": "Acil Çilingir İhtiyacınız mı Var?",
     "ctaDesc": "7/24 kesintisiz hizmet için hemen bizi arayın, 15 dakikada yanınızdayız.",
-    "ctaBtn": "Hemen Ara: 0 546 855 86 80"
+    "ctaBtn": "Hemen Ara: 0 546 855 86 80",
+    "stepsTitle": "Nasıl Çalışıyoruz?",
+    "faqTitle": "Sıkça Sorulan Sorular"
   }
 }

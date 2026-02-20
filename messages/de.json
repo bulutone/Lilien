@@ -29,28 +29,156 @@
       "slug": "auto-schlusseldienst",
       "seoTitle": "Antalya Auto-Schlüsseldienst | 24/7 Autotür Öffnung",
       "seoDesc": "24/7 Auto-Schlüsseldienst in Antalya. Aus dem Auto ausgesperrt? Schlüssel verloren? Wir sind in 15 Minuten bei Ihnen.",
-      "content": "Unabhängig von Marke oder Modell Ihres Fahrzeugs bieten wir rund um die Uhr Auto-Schlüsseldienste in ganz Antalya an. Unser Expertenteam kommt schnell für Autotüröffnung, beschädigungsfreie Entriegelung, Ersatzschlüssel und Wegfahrsperrenprobleme."
+      "content": "Unabhängig von Marke oder Modell Ihres Fahrzeugs bieten wir rund um die Uhr Auto-Schlüsseldienste in ganz Antalya an. Unser Expertenteam kommt schnell für Autotüröffnung, beschädigungsfreie Entriegelung, Ersatzschlüssel und Wegfahrsperrenprobleme.",
+      "steps": [
+        {
+          "title": "Rufen Sie uns an",
+          "desc": "Rufen Sie unsere 24/7-Hotline an, teilen Sie Standort und Automarke mit."
+        },
+        {
+          "title": "Team unterwegs",
+          "desc": "Unser nächstes mobiles Team ist in 15 Minuten da."
+        },
+        {
+          "title": "Schadensfreie Öffnung",
+          "desc": "Ihre Autotür wird mit Spezialwerkzeug schadensfrei geöffnet."
+        },
+        {
+          "title": "Kontrolle & Übergabe",
+          "desc": "Ihr Fahrzeug wird nach der Arbeit kontrolliert."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Welche Automarken bedienen Sie?",
+          "a": "Wir bedienen alle Marken: BMW, Mercedes, Audi, Toyota, Honda, Hyundai, Renault und mehr."
+        },
+        {
+          "q": "Wird mein Auto beschädigt?",
+          "a": "Nein. Unser Team verwendet Spezialwerkzeuge für schadensfreie Öffnung."
+        },
+        {
+          "q": "Können Sie Ersatzschlüssel anfertigen?",
+          "a": "Ja, inklusive Immobilizer-Programmierung."
+        }
+      ]
     },
     "kasa-acma": {
       "title": "Tresoröffnung",
       "slug": "tresoroffnung",
       "seoTitle": "Antalya Tresor-Schlüsseldienst | Stahltresor Öffnungsservice",
       "seoDesc": "Antalya Stahltresoröffnung und Passwortwechsel. Professioneller Tresor-Schlüsseldienst.",
-      "content": "Passwort vergessen oder Schlüssel zum Stahltresor verloren? Mit unserer hochmodernen Ausrüstung öffnen wir alle Tresormodelle beschädigungsfrei."
+      "content": "Passwort vergessen oder Schlüssel zum Stahltresor verloren? Mit unserer hochmodernen Ausrüstung öffnen wir alle Tresormodelle beschädigungsfrei.",
+      "steps": [
+        {
+          "title": "Bedarf melden",
+          "desc": "Nennen Sie Tresormarke/-modell und beschreiben Sie das Problem."
+        },
+        {
+          "title": "Experte kommt",
+          "desc": "Unser Tresorspezialist kommt mit der nötigen Ausrüstung."
+        },
+        {
+          "title": "Sichere Öffnung",
+          "desc": "Ihr Tresor wird schadensfrei geöffnet."
+        },
+        {
+          "title": "Passwort-Reset",
+          "desc": "Ein neues Passwort wird gesetzt oder das Schloss ausgetauscht."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Können Sie alle Tresormarken öffnen?",
+          "a": "Ja — digitale, mechanische und elektronische Modelle."
+        },
+        {
+          "q": "Wird der Tresorinhalt beschädigt?",
+          "a": "Nein. Mit unserer professionellen Ausrüstung bleibt alles sicher."
+        },
+        {
+          "q": "Bieten Sie Passwortänderung an?",
+          "a": "Ja, nach der Öffnung setzen wir ein neues Passwort."
+        }
+      ]
     },
     "konut-cilingir": {
       "title": "Wohn-Schlüsseldienst",
       "slug": "wohn-schlusseldienst",
       "seoTitle": "Antalya Wohn-Schlüsseldienst | 24/7 Türöffnung & Schlossaustausch",
       "seoDesc": "24/7 Notfall-Schlüsseldienst für Wohnungen in Antalya. Ausgesperrt? Schlossaustausch und Sicherheitssysteme.",
-      "content": "Wenn Sie ausgesperrt sind, öffnen wir Ihre Haustür fachmännisch ohne Beschädigung. Wir tauschen auch Schlösser und Zylinder mit Hochsicherheitstechnik von Mul-T-Lock und Kale Kilit."
+      "content": "Wenn Sie ausgesperrt sind, öffnen wir Ihre Haustür fachmännisch ohne Beschädigung. Wir tauschen auch Schlösser und Zylinder mit Hochsicherheitstechnik von Mul-T-Lock und Kale Kilit.",
+      "steps": [
+        {
+          "title": "Sofort anrufen",
+          "desc": "Rufen Sie uns an, sobald Sie ausgesperrt sind."
+        },
+        {
+          "title": "Schnelle Reaktion",
+          "desc": "Unser Team ist in 15 Minuten bei Ihnen."
+        },
+        {
+          "title": "Schadensfreier Eintritt",
+          "desc": "Ihre Tür wird schadensfrei mit Spezialwerkzeug geöffnet."
+        },
+        {
+          "title": "Schlosskontrolle",
+          "desc": "Schlösser werden kontrolliert und bei Bedarf ausgetauscht."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Können Sie eine Stahltür öffnen?",
+          "a": "Ja. Alle Marken und Modelle schadensfrei, inkl. Mul-T-Lock und Kale."
+        },
+        {
+          "q": "Können Sie das Schloss danach austauschen?",
+          "a": "Ja, wir installieren sofort Hochsicherheitsschlösser."
+        },
+        {
+          "q": "Kommen Sie auch nachts?",
+          "a": "Ja. Wir arbeiten 24/7, auch an Feiertagen."
+        }
+      ]
     },
     "ticari-cilingir": {
       "title": "Gewerbe-Schlüsseldienst",
       "slug": "gewerbe-schlusseldienst",
       "seoTitle": "Antalya Gewerbe-Schlüsseldienst | Geschäft, Büro & Rollladenschloss",
       "seoDesc": "Professionelle Schlüsseldienst-Lösungen für Ihr Unternehmen. Rollladenschlösser, Bürotüren und Glastürschlösser.",
-      "content": "Die Sicherheit Ihres Unternehmens ist uns wichtig. Wir bieten professionelle Lösungen für Glastürschlösser, Rollladen, Bürozugangssysteme und Notfall-Entriegelung."
+      "content": "Die Sicherheit Ihres Unternehmens ist uns wichtig. Wir bieten professionelle Lösungen für Glastürschlösser, Rollladen, Bürozugangssysteme und Notfall-Entriegelung.",
+      "steps": [
+        {
+          "title": "Problem melden",
+          "desc": "Beschreiben Sie Ihr Schlossproblem, unser Team wird entsandt."
+        },
+        {
+          "title": "Professionelles Team",
+          "desc": "Unser Gewerbe-Schlossspezialist kommt mit voller Ausrüstung."
+        },
+        {
+          "title": "Schnelle Lösung",
+          "desc": "Türöffnung oder Schlossaustausch ohne Betriebsstörung."
+        },
+        {
+          "title": "Sicherheitsberatung",
+          "desc": "Empfehlungen für Sicherheitssysteme für Ihr Unternehmen."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Reparieren Sie Rollladenschlösser?",
+          "a": "Ja — Reparatur, Austausch und Wartung aller Rollladenschlösser."
+        },
+        {
+          "q": "Installieren Sie Master-Schlosssysteme?",
+          "a": "Ja — ein Schlüssel für alle Türen."
+        },
+        {
+          "q": "Installieren Sie Kartenzugangssysteme?",
+          "a": "Ja. Moderne Kartenzugangs- und elektronische Schlosssysteme."
+        }
+      ]
     }
   },
   "RegionsData": {
@@ -462,6 +590,8 @@
   "ServicePage": {
     "ctaTitle": "Brauchen Sie einen Notfall-Schlüsseldienst?",
     "ctaDesc": "Rufen Sie uns jetzt an, wir sind in 15 Minuten bei Ihnen.",
-    "ctaBtn": "Jetzt Anrufen: +90 546 855 86 80"
+    "ctaBtn": "Jetzt Anrufen: +90 546 855 86 80",
+    "stepsTitle": "So funktioniert es",
+    "faqTitle": "Häufig gestellte Fragen"
   }
 }

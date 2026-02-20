@@ -29,28 +29,156 @@
       "slug": "auto-locksmith",
       "seoTitle": "Antalya Auto Locksmith | 24/7 Car Door Opening & Key Making",
       "seoDesc": "24/7 auto locksmith service in Antalya. Locked out of your car? Lost your key? We'll be there in 15 minutes.",
-      "content": "Regardless of your vehicle's make or model, we provide 24/7 auto locksmith services across Antalya. Our expert team arrives quickly for car door opening, damage-free unlocking, lost key replacement, immobilizer issues, and auto alarm systems."
+      "content": "Regardless of your vehicle's make or model, we provide 24/7 auto locksmith services across Antalya. Our expert team arrives quickly for car door opening, damage-free unlocking, lost key replacement, immobilizer issues, and auto alarm systems.",
+      "steps": [
+        {
+          "title": "Call Us",
+          "desc": "Call our 24/7 line, share your location and vehicle brand."
+        },
+        {
+          "title": "Team Dispatched",
+          "desc": "Our nearest mobile locksmith team arrives in 15 minutes."
+        },
+        {
+          "title": "Damage-Free Opening",
+          "desc": "Your car door is opened with specialized tools without damage."
+        },
+        {
+          "title": "Inspection & Handover",
+          "desc": "Your vehicle is inspected after the job and satisfaction is ensured."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Which car brands do you service?",
+          "a": "We service all domestic and imported car brands including BMW, Mercedes, Audi, Toyota, Honda, Hyundai, Renault, and more."
+        },
+        {
+          "q": "Will you damage my car during door opening?",
+          "a": "No. Our professional team uses specialized auto locksmith tools to open your car door without any damage."
+        },
+        {
+          "q": "Can you make spare car keys?",
+          "a": "Yes. We offer all types of spare car key services including immobilizer programming."
+        }
+      ]
     },
     "kasa-acma": {
       "title": "Safe Opening",
       "slug": "safe-opening",
       "seoTitle": "Antalya Safe Locksmith | Steel Safe Opening Service",
       "seoDesc": "Antalya steel safe opening and password changing. Professional safe locksmith service for forgotten passwords or lost keys.",
-      "content": "Forgot the password or lost the key to your home or office steel safe? With our advanced equipment, we open all models of steel safes without damage and securely handle password changes."
+      "content": "Forgot the password or lost the key to your home or office steel safe? With our advanced equipment, we open all models of steel safes without damage and securely handle password changes.",
+      "steps": [
+        {
+          "title": "Report Your Need",
+          "desc": "Specify your safe brand/model and describe the issue."
+        },
+        {
+          "title": "Expert Arrives",
+          "desc": "Our safe specialist comes with required equipment."
+        },
+        {
+          "title": "Safe Opening",
+          "desc": "Your safe is opened without damage and contents delivered safely."
+        },
+        {
+          "title": "Password Reset",
+          "desc": "A new password is set or the lock system is replaced if needed."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can you open all safe brands?",
+          "a": "Yes. We can open all digital, mechanical, and electronic safe models, domestic and imported."
+        },
+        {
+          "q": "Will the safe contents be damaged?",
+          "a": "No. Thanks to our professional equipment, your safe and its contents remain completely safe."
+        },
+        {
+          "q": "Do you offer password change service?",
+          "a": "Yes. After opening, we offer new password setup and lock mechanism replacement."
+        }
+      ]
     },
     "konut-cilingir": {
       "title": "Residential Locksmith",
       "slug": "residential-locksmith",
       "seoTitle": "Antalya Residential Locksmith | 24/7 Door Opening & Lock Replacement",
       "seoDesc": "24/7 emergency residential locksmith in Antalya center and districts. Locked out? Lock replacement, cylinder changing, and security systems.",
-      "content": "When you're locked out, we expertly open your home's door without causing damage. We also replace locks and cylinders with high-security hardware like Mul-T-Lock and Kale Kilit for moving or security upgrades."
+      "content": "When you're locked out, we expertly open your home's door without causing damage. We also replace locks and cylinders with high-security hardware like Mul-T-Lock and Kale Kilit for moving or security upgrades.",
+      "steps": [
+        {
+          "title": "Call Immediately",
+          "desc": "Call us as soon as you are locked out and share your address."
+        },
+        {
+          "title": "Quick Response",
+          "desc": "Our mobile service team is at your door in 15 minutes."
+        },
+        {
+          "title": "Damage-Free Entry",
+          "desc": "Your door is opened with specialized tools without damage."
+        },
+        {
+          "title": "Lock Check",
+          "desc": "Locks are inspected after the job and replaced if necessary."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Can you open a steel door?",
+          "a": "Yes. We open all brands and models of steel doors without damage, including Mul-T-Lock, Kale, and Yale systems."
+        },
+        {
+          "q": "Can you replace the lock after opening?",
+          "a": "Yes. We can install high-security locks immediately after door opening."
+        },
+        {
+          "q": "Do you come at midnight?",
+          "a": "Yes. We operate 24/7 — nights, weekends, and public holidays included."
+        }
+      ]
     },
     "ticari-cilingir": {
       "title": "Commercial Locksmith",
       "slug": "commercial-locksmith",
       "seoTitle": "Antalya Commercial Locksmith | Shop, Office & Shutter Lock Opening",
       "seoDesc": "Professional locksmith solutions for your business. Repair and maintenance of shutter locks, office doors, and glass door locks.",
-      "content": "Your business's security is important to us. We provide professional solutions for glass door locks, shop shutters, office entry systems, master lock system installations, and emergency unlocking needs, ensuring your business runs smoothly."
+      "content": "Your business's security is important to us. We provide professional solutions for glass door locks, shop shutters, office entry systems, master lock system installations, and emergency unlocking needs, ensuring your business runs smoothly.",
+      "steps": [
+        {
+          "title": "Report the Issue",
+          "desc": "Describe your workplace lock issue and our team is dispatched."
+        },
+        {
+          "title": "Professional Team",
+          "desc": "Our commercial lock specialist arrives with full equipment."
+        },
+        {
+          "title": "Quick Solution",
+          "desc": "Your door is opened or lock replaced without disrupting business."
+        },
+        {
+          "title": "Security Consulting",
+          "desc": "Security system recommendations are provided for your business."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Do you repair shutter locks?",
+          "a": "Yes. We provide all types of shutter lock repair, replacement, and maintenance."
+        },
+        {
+          "q": "Can you install a master lock system?",
+          "a": "Yes. We install master lock systems for workplaces and complexes — one key for all doors."
+        },
+        {
+          "q": "Do you install card entry systems?",
+          "a": "Yes. We install and maintain modern card access and electronic lock systems."
+        }
+      ]
     }
   },
   "RegionsData": {
@@ -462,6 +590,8 @@
   "ServicePage": {
     "ctaTitle": "Need an Emergency Locksmith?",
     "ctaDesc": "Call us now for 24/7 service, we will be at your location within 15 minutes.",
-    "ctaBtn": "Call Now: +90 546 855 86 80"
+    "ctaBtn": "Call Now: +90 546 855 86 80",
+    "stepsTitle": "How We Work",
+    "faqTitle": "Frequently Asked Questions"
   }
 }
