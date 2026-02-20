@@ -58,49 +58,65 @@
       "title": "Muratpaşa Schlüsseldienst",
       "slug": "muratpasa-schlusseldienst",
       "seoTitle": "Muratpaşa Schlüsseldienst | 24/7 Notfall",
-      "seoDesc": "Notfall-Schlüsseldienst in 15 Minuten in Antalya Muratpaşa."
+      "seoDesc": "Notfall-Schlüsseldienst in 15 Minuten in Antalya Muratpaşa.",
+      "shortDesc": "Schneller Service in Lara, Şirinyalı, Meydan, Fener.",
+      "responseTime": "~10 Min"
     },
     "kepez-cilingir": {
       "title": "Kepez Schlüsseldienst",
       "slug": "kepez-schlusseldienst",
       "seoTitle": "Kepez Schlüsseldienst | 24/7 Schnelle Türöffnung",
-      "seoDesc": "Antalya Kepez 24/7 Notfall-Schlüsseldienst."
+      "seoDesc": "Antalya Kepez 24/7 Notfall-Schlüsseldienst.",
+      "shortDesc": "Günstiger Schlüsseldienst in Dokuma, Masadağı, Varsak.",
+      "responseTime": "~12 Min"
     },
     "konyaalti-cilingir": {
       "title": "Konyaaltı Schlüsseldienst",
       "slug": "konyaalti-schlusseldienst",
       "seoTitle": "Konyaaltı Schlüsseldienst | 24/7 Beschädigungsfreie Öffnung",
-      "seoDesc": "Sofortiger Schlüsseldienst in Konyaaltı, Hurma, Liman, Uncalı."
+      "seoDesc": "Sofortiger Schlüsseldienst in Konyaaltı, Hurma, Liman, Uncalı.",
+      "shortDesc": "Sofortiger Schlüsseldienst in Hurma, Liman, Uncalı.",
+      "responseTime": "~12 Min"
     },
     "dosemealti-cilingir": {
       "title": "Döşemealtı Schlüsseldienst",
       "slug": "dosemealti-schlusseldienst",
       "seoTitle": "Döşemealtı Schlüsseldienst | Wohn- & Auto-Service",
-      "seoDesc": "Schneller Schlüsseldienst in Döşemealtı. 24/7 Professionelles Team."
+      "seoDesc": "Schneller Schlüsseldienst in Döşemealtı. 24/7 Professionelles Team.",
+      "shortDesc": "Schnelle Reaktion in Industriezone und Yeniköy.",
+      "responseTime": "~15 Min"
     },
     "aksu-cilingir": {
       "title": "Aksu Schlüsseldienst",
       "slug": "aksu-schlusseldienst",
       "seoTitle": "Aksu Schlüsseldienst | Notfall Türöffnung",
-      "seoDesc": "Notfall-Schlüsseldienst für Aksu Kundu Hotelzone."
+      "seoDesc": "Notfall-Schlüsseldienst für Aksu Kundu Hotelzone.",
+      "shortDesc": "Notfalldienst für Kundu Hotelzone und Macun.",
+      "responseTime": "~15 Min"
     },
     "lara-cilingir": {
       "title": "Lara Schlüsseldienst",
       "slug": "lara-schlusseldienst",
       "seoTitle": "Lara Schlüsseldienst | 24/7 Zuverlässiger Service",
-      "seoDesc": "Der nächste Schlüsseldienst in 15 Minuten in Lara."
+      "seoDesc": "Der nächste Schlüsseldienst in 15 Minuten in Lara.",
+      "shortDesc": "Professionelle Haus-, Auto- und Tresoröffnung in Lara.",
+      "responseTime": "~10 Min"
     },
     "kundu-cilingir": {
       "title": "Kundu Schlüsseldienst",
       "slug": "kundu-schlusseldienst",
       "seoTitle": "Kundu Schlüsseldienst | Hotelzone 24h Service",
-      "seoDesc": "Schlüsseldienst im Kundu Tourismuszentrum."
+      "seoDesc": "Schlüsseldienst im Kundu Tourismuszentrum.",
+      "shortDesc": "Haus-, Fahrzeug- und Arbeitsplatz-Schlüsseldienst in Kundu.",
+      "responseTime": "~15 Min"
     },
     "kemer-cilingir": {
       "title": "Kemer Schlüsseldienst",
       "slug": "kemer-schlusseldienst",
       "seoTitle": "Kemer Schlüsseldienst | 24/7 Beldibi, Göynük",
-      "seoDesc": "Professioneller Schlüsseldienst in der Region Kemer."
+      "seoDesc": "Professioneller Schlüsseldienst in der Region Kemer.",
+      "shortDesc": "Professioneller Schlüsseldienst in Beldibi, Göynük, Kemer.",
+      "responseTime": "~20 Min"
     }
   },
   "Services": {
@@ -185,7 +201,9 @@
       "Lara",
       "Kundu",
       "Kemer"
-    ]
+    ],
+    "ctaText": "Brauchen Sie einen Notfall-Schlüsseldienst? Rufen Sie jetzt an, wir sind in Minuten da!",
+    "ctaBtn": "+90 546 855 86 80"
   },
   "WhyUs": {
     "title": "Warum Uns Wählen?",

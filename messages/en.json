@@ -1,270 +1,288 @@
 {
-    "Metadata": {
-        "title": "Antalya Locksmith | 24/7 Emergency Door Opening & Lock Change",
-        "description": "Professional locksmith service across Antalya. 24/7 auto locksmith, safe opening, residential and commercial locks. Call now: +90 546 855 86 80"
+  "Metadata": {
+    "title": "Antalya Locksmith | 24/7 Emergency Door Opening & Lock Change",
+    "description": "Professional locksmith service across Antalya. 24/7 auto locksmith, safe opening, residential and commercial locks. Call now: +90 546 855 86 80"
+  },
+  "Nav": {
+    "services": "Our Services",
+    "about": "About Us",
+    "whyUs": "Why Us",
+    "contact": "Contact",
+    "quickLinks": "Quick Links",
+    "copyright": "All rights reserved.",
+    "details": "Learn More"
+  },
+  "Hero": {
+    "badge": "24/7 Non-Stop Service",
+    "titlePrefix": "Antalya",
+    "titleService": "Locksmith",
+    "titleSuffix": "Service",
+    "subtitle": "Emergency Door Opening",
+    "title": "Antalya Locksmith Service – 24/7 Emergency Door Opening",
+    "desc": "We reach anywhere in Antalya within 15 minutes, providing fast, secure and professional solutions when you're locked out.",
+    "cta": "Call Now : +90 546 855 86 80",
+    "whatsapp": "Message on WhatsApp"
+  },
+  "ServicesData": {
+    "oto-cilingir": {
+      "title": "Antalya Auto Locksmith",
+      "slug": "auto-locksmith",
+      "seoTitle": "Antalya Auto Locksmith | 24/7 Car Door Opening & Key Making",
+      "seoDesc": "24/7 auto locksmith service in Antalya. Locked out of your car? Lost your key? We'll be there in 15 minutes.",
+      "content": "Regardless of your vehicle's make or model, we provide 24/7 auto locksmith services across Antalya. Our expert team arrives quickly for car door opening, damage-free unlocking, lost key replacement, immobilizer issues, and auto alarm systems."
     },
-    "Nav": {
-        "services": "Our Services",
-        "about": "About Us",
-        "whyUs": "Why Us",
-        "contact": "Contact",
-        "quickLinks": "Quick Links",
-        "copyright": "All rights reserved.",
-        "details": "Learn More"
+    "kasa-acma": {
+      "title": "Safe Opening",
+      "slug": "safe-opening",
+      "seoTitle": "Antalya Safe Locksmith | Steel Safe Opening Service",
+      "seoDesc": "Antalya steel safe opening and password changing. Professional safe locksmith service for forgotten passwords or lost keys.",
+      "content": "Forgot the password or lost the key to your home or office steel safe? With our advanced equipment, we open all models of steel safes without damage and securely handle password changes."
     },
-    "Hero": {
-        "badge": "24/7 Non-Stop Service",
-        "titlePrefix": "Antalya",
-        "titleService": "Locksmith",
-        "titleSuffix": "Service",
-        "subtitle": "Emergency Door Opening",
-        "title": "Antalya Locksmith Service – 24/7 Emergency Door Opening",
-        "desc": "We reach anywhere in Antalya within 15 minutes, providing fast, secure and professional solutions when you're locked out.",
-        "cta": "Call Now : +90 546 855 86 80",
-        "whatsapp": "Message on WhatsApp"
+    "konut-cilingir": {
+      "title": "Residential Locksmith",
+      "slug": "residential-locksmith",
+      "seoTitle": "Antalya Residential Locksmith | 24/7 Door Opening & Lock Replacement",
+      "seoDesc": "24/7 emergency residential locksmith in Antalya center and districts. Locked out? Lock replacement, cylinder changing, and security systems.",
+      "content": "When you're locked out, we expertly open your home's door without causing damage. We also replace locks and cylinders with high-security hardware like Mul-T-Lock and Kale Kilit for moving or security upgrades."
     },
-    "ServicesData": {
-        "oto-cilingir": {
-            "title": "Antalya Auto Locksmith",
-            "slug": "auto-locksmith",
-            "seoTitle": "Antalya Auto Locksmith | 24/7 Car Door Opening & Key Making",
-            "seoDesc": "24/7 auto locksmith service in Antalya. Locked out of your car? Lost your key? We'll be there in 15 minutes.",
-            "content": "Regardless of your vehicle's make or model, we provide 24/7 auto locksmith services across Antalya. Our expert team arrives quickly for car door opening, damage-free unlocking, lost key replacement, immobilizer issues, and auto alarm systems."
-        },
-        "kasa-acma": {
-            "title": "Safe Opening",
-            "slug": "safe-opening",
-            "seoTitle": "Antalya Safe Locksmith | Steel Safe Opening Service",
-            "seoDesc": "Antalya steel safe opening and password changing. Professional safe locksmith service for forgotten passwords or lost keys.",
-            "content": "Forgot the password or lost the key to your home or office steel safe? With our advanced equipment, we open all models of steel safes without damage and securely handle password changes."
-        },
-        "konut-cilingir": {
-            "title": "Residential Locksmith",
-            "slug": "residential-locksmith",
-            "seoTitle": "Antalya Residential Locksmith | 24/7 Door Opening & Lock Replacement",
-            "seoDesc": "24/7 emergency residential locksmith in Antalya center and districts. Locked out? Lock replacement, cylinder changing, and security systems.",
-            "content": "When you're locked out, we expertly open your home's door without causing damage. We also replace locks and cylinders with high-security hardware like Mul-T-Lock and Kale Kilit for moving or security upgrades."
-        },
-        "ticari-cilingir": {
-            "title": "Commercial Locksmith",
-            "slug": "commercial-locksmith",
-            "seoTitle": "Antalya Commercial Locksmith | Shop, Office & Shutter Lock Opening",
-            "seoDesc": "Professional locksmith solutions for your business. Repair and maintenance of shutter locks, office doors, and glass door locks.",
-            "content": "Your business's security is important to us. We provide professional solutions for glass door locks, shop shutters, office entry systems, master lock system installations, and emergency unlocking needs, ensuring your business runs smoothly."
-        }
-    },
-    "RegionsData": {
-        "muratpasa-cilingir": {
-            "title": "Muratpaşa Locksmith",
-            "slug": "muratpasa-locksmith",
-            "seoTitle": "Muratpaşa Locksmith | 24/7 Urgent Nearest Locksmith",
-            "seoDesc": "Emergency locksmith service within 15 minutes across Antalya Muratpaşa."
-        },
-        "kepez-cilingir": {
-            "title": "Kepez Locksmith",
-            "slug": "kepez-locksmith",
-            "seoTitle": "Kepez Locksmith | 24/7 Fast & Quality Door Opening",
-            "seoDesc": "Antalya Kepez 24/7 emergency locksmith."
-        },
-        "konyaalti-cilingir": {
-            "title": "Konyaaltı Locksmith",
-            "slug": "konyaalti-locksmith",
-            "seoTitle": "Konyaaltı Locksmith | 24/7 Damage-Free Door & Auto Opening",
-            "seoDesc": "Instant locksmith service in Konyaaltı, Hurma, Liman, Uncalı."
-        },
-        "dosemealti-cilingir": {
-            "title": "Döşemealtı Locksmith",
-            "slug": "dosemealti-locksmith",
-            "seoTitle": "Döşemealtı Locksmith | Yeniköy Home & Auto Locksmith",
-            "seoDesc": "Fast locksmith service in Döşemealtı. 24/7 professional team."
-        },
-        "aksu-cilingir": {
-            "title": "Aksu Locksmith",
-            "slug": "aksu-locksmith",
-            "seoTitle": "Aksu Locksmith | Lara Kundu Emergency Door Opening",
-            "seoDesc": "Emergency locksmith for Aksu Kundu hotels zone."
-        },
-        "lara-cilingir": {
-            "title": "Lara Locksmith",
-            "slug": "lara-locksmith",
-            "seoTitle": "Lara Locksmith | 24/7 Emergency & Reliable Antalya Locksmith",
-            "seoDesc": "The nearest locksmith in 15 minutes in Lara."
-        },
-        "kundu-cilingir": {
-            "title": "Kundu Locksmith",
-            "slug": "kundu-locksmith",
-            "seoTitle": "Kundu Locksmith | Hotels Zone 24 Hour Locksmith",
-            "seoDesc": "Locksmith services in Kundu tourism center."
-        },
-        "kemer-cilingir": {
-            "title": "Kemer Locksmith",
-            "slug": "kemer-locksmith",
-            "seoTitle": "Kemer Locksmith | 24/7 Beldibi, Göynük Locksmith",
-            "seoDesc": "Professional locksmith support in Kemer."
-        }
-    },
-    "Services": {
-        "title": "Our Services",
-        "oto": {
-            "title": "Auto Locksmith",
-            "items": [
-                {
-                    "q": "Car door opening",
-                    "a": "We open your locked car quickly and securely in Antalya."
-                },
-                {
-                    "q": "Emergency car lock opening",
-                    "a": "Day or night, if you lose your car keys, we are there in minutes."
-                },
-                {
-                    "q": "Car alarm system installation",
-                    "a": "We install and maintain modern alarm systems for your car's security."
-                }
-            ]
-        },
-        "konut": {
-            "title": "Residential Locksmith",
-            "items": [
-                {
-                    "q": "Locked house door opening",
-                    "a": "When you are locked out, our team opens your door in minutes."
-                },
-                {
-                    "q": "Home Security Systems Installation",
-                    "a": "We offer professional solutions for home security including door and window locks."
-                },
-                {
-                    "q": "Emergency Door Opening and Lock Changing",
-                    "a": "24/7 emergency support, even at night or holidays."
-                }
-            ]
-        },
-        "ticari": {
-            "title": "Commercial Locksmith",
-            "items": [
-                {
-                    "q": "Office and Workplace Emergency Lock Opening",
-                    "a": "We provide quick solutions without disrupting your business."
-                },
-                {
-                    "q": "Access Control Systems Installation",
-                    "a": "We install card access, electronic locks and other security systems."
-                },
-                {
-                    "q": "Security Lock and Device Assembly",
-                    "a": "We make your workplace safer with high security locks."
-                }
-            ]
-        }
-    },
-    "About": {
-        "titlePrefix": "About Us",
-        "title": "Antalya Locksmith – 24/7 Reliable Service",
-        "desc1": "As Antalya Locksmith, we have been providing professional locksmith services across Antalya for years. We are your reliable partner when you are locked out, lose your car keys, or need a new security system.",
-        "desc2": "Our mission is to provide fast, secure, and affordable locksmith services and to maximize the security of your home and workplace.",
-        "offersTitle": "What We Offer:",
-        "offers": [
-            "24/7 emergency door opening",
-            "Auto locksmith and safe lock opening",
-            "Lock changing and security systems installation",
-            "Experienced, professional, and reliable team"
-        ],
-        "closing": "If you are looking for an accessible, meticulous team in Antalya, you are at the right place.",
-        "experience": "Years of",
-        "experienceSub": "Experience"
-    },
-    "Regions": {
-        "title": "Service Areas",
-        "subtitle": "We reach anywhere in Antalya in 15 minutes",
-        "areas": [
-            "Muratpaşa",
-            "Kepez",
-            "Konyaaltı",
-            "Döşemealtı",
-            "Aksu",
-            "Lara",
-            "Kundu",
-            "Kemer"
-        ]
-    },
-    "WhyUs": {
-        "title": "Why Choose Us?",
-        "items": [
-            {
-                "title": "Local Trust",
-                "desc": "Based in Antalya, we know the area and provide fast service."
-            },
-            {
-                "title": "Expert Team",
-                "desc": "Experienced masters offer professional and permanent solutions."
-            },
-            {
-                "title": "Wide Range",
-                "desc": "We open cars, homes, and businesses, change locks and install security systems."
-            },
-            {
-                "title": "Emergency Support",
-                "desc": "Available any hour of the day, including holidays, we arrive in minutes."
-            }
-        ]
-    },
-    "Testimonials": {
-        "title": "What Our Clients Say",
-        "ratingText": "4.8 / 5 satisfaction rate – Trusted by over 2,500 clients.",
-        "items": [
-            {
-                "text": "Changed our house lock. Very affordable and professional. Highly satisfied.",
-                "author": "Elif K.",
-                "location": "Antalya - Lara"
-            },
-            {
-                "text": "Locked out at midnight, they arrived in minutes. Thank you!",
-                "author": "Ahmet Y.",
-                "location": "Antalya - Kepez"
-            },
-            {
-                "text": "Renewed our office security. Reliable and clean workmanship.",
-                "author": "Mehmet T.",
-                "location": "Antalya - Muratpaşa"
-            }
-        ]
-    },
-    "Contact": {
-        "title": "Contact",
-        "callNow": "Call now:",
-        "email": "Email:",
-        "phone": "+90 546 855 86 80",
-        "emailAddress": "info@antalyacilingirci.com",
-        "localBusiness": "Local and independent: An Antalya-based team dominating the region.",
-        "alwaysOpen": "ALWAYS OPEN : At your service 24/7"
-    },
-    "FAQ": {
-        "title": "Frequently Asked Questions",
-        "items": [
-            {
-                "q": "Is there a 24/7 locksmith service in Antalya?",
-                "a": "Yes, as Antalya Locksmith we provide 24/7 emergency locksmith service, including holidays and late nights. You can call us anytime."
-            },
-            {
-                "q": "How fast does the locksmith arrive?",
-                "a": "We reach your address within an average of 15 minutes in Antalya center and districts. Our mobile team departs from the nearest point."
-            },
-            {
-                "q": "How much does door opening cost?",
-                "a": "Our prices vary depending on the lock type and time. You can get free information by phone and we guarantee no surprise fees."
-            },
-            {
-                "q": "Can you open a car door?",
-                "a": "Yes, we provide auto locksmith services for all car brands and models. Damage-free car door opening, spare key making, and immobilizer programming."
-            },
-            {
-                "q": "Do you do lock replacement?",
-                "a": "Yes, we replace locks with high-security brands like Mul-T-Lock and Kale Kilit for homes, offices, and vehicles."
-            },
-            {
-                "q": "Which areas do you serve?",
-                "a": "We serve all central districts of Antalya: Muratpaşa, Kepez, Konyaaltı, Döşemealtı, Aksu, Lara, Kundu, and Kemer."
-            }
-        ]
+    "ticari-cilingir": {
+      "title": "Commercial Locksmith",
+      "slug": "commercial-locksmith",
+      "seoTitle": "Antalya Commercial Locksmith | Shop, Office & Shutter Lock Opening",
+      "seoDesc": "Professional locksmith solutions for your business. Repair and maintenance of shutter locks, office doors, and glass door locks.",
+      "content": "Your business's security is important to us. We provide professional solutions for glass door locks, shop shutters, office entry systems, master lock system installations, and emergency unlocking needs, ensuring your business runs smoothly."
     }
+  },
+  "RegionsData": {
+    "muratpasa-cilingir": {
+      "title": "Muratpaşa Locksmith",
+      "slug": "muratpasa-locksmith",
+      "seoTitle": "Muratpaşa Locksmith | 24/7 Urgent Nearest Locksmith",
+      "seoDesc": "Emergency locksmith service within 15 minutes across Antalya Muratpaşa.",
+      "shortDesc": "Fast service in Lara, Şirinyalı, Meydan, Fener neighborhoods.",
+      "responseTime": "~10 min"
+    },
+    "kepez-cilingir": {
+      "title": "Kepez Locksmith",
+      "slug": "kepez-locksmith",
+      "seoTitle": "Kepez Locksmith | 24/7 Fast & Quality Door Opening",
+      "seoDesc": "Antalya Kepez 24/7 emergency locksmith.",
+      "shortDesc": "Affordable professional locksmith in Dokuma, Masadağı, Varsak.",
+      "responseTime": "~12 min"
+    },
+    "konyaalti-cilingir": {
+      "title": "Konyaaltı Locksmith",
+      "slug": "konyaalti-locksmith",
+      "seoTitle": "Konyaaltı Locksmith | 24/7 Damage-Free Door & Auto Opening",
+      "seoDesc": "Instant locksmith service in Konyaaltı, Hurma, Liman, Uncalı.",
+      "shortDesc": "Instant locksmith service in Hurma, Liman, Uncalı.",
+      "responseTime": "~12 min"
+    },
+    "dosemealti-cilingir": {
+      "title": "Döşemealtı Locksmith",
+      "slug": "dosemealti-locksmith",
+      "seoTitle": "Döşemealtı Locksmith | Yeniköy Home & Auto Locksmith",
+      "seoDesc": "Fast locksmith service in Döşemealtı. 24/7 professional team.",
+      "shortDesc": "Quick response to industrial zone and Yeniköy.",
+      "responseTime": "~15 min"
+    },
+    "aksu-cilingir": {
+      "title": "Aksu Locksmith",
+      "slug": "aksu-locksmith",
+      "seoTitle": "Aksu Locksmith | Lara Kundu Emergency Door Opening",
+      "seoDesc": "Emergency locksmith for Aksu Kundu hotels zone.",
+      "shortDesc": "Emergency support for Kundu hotels zone and Macun.",
+      "responseTime": "~15 min"
+    },
+    "lara-cilingir": {
+      "title": "Lara Locksmith",
+      "slug": "lara-locksmith",
+      "seoTitle": "Lara Locksmith | 24/7 Emergency & Reliable Antalya Locksmith",
+      "seoDesc": "The nearest locksmith in 15 minutes in Lara.",
+      "shortDesc": "Expert home, auto, and safe opening in Lara coast.",
+      "responseTime": "~10 min"
+    },
+    "kundu-cilingir": {
+      "title": "Kundu Locksmith",
+      "slug": "kundu-locksmith",
+      "seoTitle": "Kundu Locksmith | Hotels Zone 24 Hour Locksmith",
+      "seoDesc": "Locksmith services in Kundu tourism center.",
+      "shortDesc": "Home, vehicle, and workplace locksmith in Kundu.",
+      "responseTime": "~15 min"
+    },
+    "kemer-cilingir": {
+      "title": "Kemer Locksmith",
+      "slug": "kemer-locksmith",
+      "seoTitle": "Kemer Locksmith | 24/7 Beldibi, Göynük Locksmith",
+      "seoDesc": "Professional locksmith support in Kemer.",
+      "shortDesc": "Professional locksmith in Beldibi, Göynük, and Kemer center.",
+      "responseTime": "~20 min"
+    }
+  },
+  "Services": {
+    "title": "Our Services",
+    "oto": {
+      "title": "Auto Locksmith",
+      "items": [
+        {
+          "q": "Car door opening",
+          "a": "We open your locked car quickly and securely in Antalya."
+        },
+        {
+          "q": "Emergency car lock opening",
+          "a": "Day or night, if you lose your car keys, we are there in minutes."
+        },
+        {
+          "q": "Car alarm system installation",
+          "a": "We install and maintain modern alarm systems for your car's security."
+        }
+      ]
+    },
+    "konut": {
+      "title": "Residential Locksmith",
+      "items": [
+        {
+          "q": "Locked house door opening",
+          "a": "When you are locked out, our team opens your door in minutes."
+        },
+        {
+          "q": "Home Security Systems Installation",
+          "a": "We offer professional solutions for home security including door and window locks."
+        },
+        {
+          "q": "Emergency Door Opening and Lock Changing",
+          "a": "24/7 emergency support, even at night or holidays."
+        }
+      ]
+    },
+    "ticari": {
+      "title": "Commercial Locksmith",
+      "items": [
+        {
+          "q": "Office and Workplace Emergency Lock Opening",
+          "a": "We provide quick solutions without disrupting your business."
+        },
+        {
+          "q": "Access Control Systems Installation",
+          "a": "We install card access, electronic locks and other security systems."
+        },
+        {
+          "q": "Security Lock and Device Assembly",
+          "a": "We make your workplace safer with high security locks."
+        }
+      ]
+    }
+  },
+  "About": {
+    "titlePrefix": "About Us",
+    "title": "Antalya Locksmith – 24/7 Reliable Service",
+    "desc1": "As Antalya Locksmith, we have been providing professional locksmith services across Antalya for years. We are your reliable partner when you are locked out, lose your car keys, or need a new security system.",
+    "desc2": "Our mission is to provide fast, secure, and affordable locksmith services and to maximize the security of your home and workplace.",
+    "offersTitle": "What We Offer:",
+    "offers": [
+      "24/7 emergency door opening",
+      "Auto locksmith and safe lock opening",
+      "Lock changing and security systems installation",
+      "Experienced, professional, and reliable team"
+    ],
+    "closing": "If you are looking for an accessible, meticulous team in Antalya, you are at the right place.",
+    "experience": "Years of",
+    "experienceSub": "Experience"
+  },
+  "Regions": {
+    "title": "Service Areas",
+    "subtitle": "We reach anywhere in Antalya in 15 minutes",
+    "areas": [
+      "Muratpaşa",
+      "Kepez",
+      "Konyaaltı",
+      "Döşemealtı",
+      "Aksu",
+      "Lara",
+      "Kundu",
+      "Kemer"
+    ],
+    "ctaText": "Need an emergency locksmith in your area? Call now, we will be at your door in minutes!",
+    "ctaBtn": "+90 546 855 86 80"
+  },
+  "WhyUs": {
+    "title": "Why Choose Us?",
+    "items": [
+      {
+        "title": "Local Trust",
+        "desc": "Based in Antalya, we know the area and provide fast service."
+      },
+      {
+        "title": "Expert Team",
+        "desc": "Experienced masters offer professional and permanent solutions."
+      },
+      {
+        "title": "Wide Range",
+        "desc": "We open cars, homes, and businesses, change locks and install security systems."
+      },
+      {
+        "title": "Emergency Support",
+        "desc": "Available any hour of the day, including holidays, we arrive in minutes."
+      }
+    ]
+  },
+  "Testimonials": {
+    "title": "What Our Clients Say",
+    "ratingText": "4.8 / 5 satisfaction rate – Trusted by over 2,500 clients.",
+    "items": [
+      {
+        "text": "Changed our house lock. Very affordable and professional. Highly satisfied.",
+        "author": "Elif K.",
+        "location": "Antalya - Lara"
+      },
+      {
+        "text": "Locked out at midnight, they arrived in minutes. Thank you!",
+        "author": "Ahmet Y.",
+        "location": "Antalya - Kepez"
+      },
+      {
+        "text": "Renewed our office security. Reliable and clean workmanship.",
+        "author": "Mehmet T.",
+        "location": "Antalya - Muratpaşa"
+      }
+    ]
+  },
+  "Contact": {
+    "title": "Contact",
+    "callNow": "Call now:",
+    "email": "Email:",
+    "phone": "+90 546 855 86 80",
+    "emailAddress": "info@antalyacilingirci.com",
+    "localBusiness": "Local and independent: An Antalya-based team dominating the region.",
+    "alwaysOpen": "ALWAYS OPEN : At your service 24/7"
+  },
+  "FAQ": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "q": "Is there a 24/7 locksmith service in Antalya?",
+        "a": "Yes, as Antalya Locksmith we provide 24/7 emergency locksmith service, including holidays and late nights. You can call us anytime."
+      },
+      {
+        "q": "How fast does the locksmith arrive?",
+        "a": "We reach your address within an average of 15 minutes in Antalya center and districts. Our mobile team departs from the nearest point."
+      },
+      {
+        "q": "How much does door opening cost?",
+        "a": "Our prices vary depending on the lock type and time. You can get free information by phone and we guarantee no surprise fees."
+      },
+      {
+        "q": "Can you open a car door?",
+        "a": "Yes, we provide auto locksmith services for all car brands and models. Damage-free car door opening, spare key making, and immobilizer programming."
+      },
+      {
+        "q": "Do you do lock replacement?",
+        "a": "Yes, we replace locks with high-security brands like Mul-T-Lock and Kale Kilit for homes, offices, and vehicles."
+      },
+      {
+        "q": "Which areas do you serve?",
+        "a": "We serve all central districts of Antalya: Muratpaşa, Kepez, Konyaaltı, Döşemealtı, Aksu, Lara, Kundu, and Kemer."
+      }
+    ]
+  }
 }

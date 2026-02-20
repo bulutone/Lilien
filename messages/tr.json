@@ -43,7 +43,7 @@
       "slug": "konut-cilingir",
       "seoTitle": "Antalya Ev Çilingiri | 7/24 Kapı Açma ve Kilit Değişimi",
       "seoDesc": "Antalya merkez ve ilçelerinde 7/24 acil ev çilingiri. Kapıda mı kaldınız? Kilit değişimi, göbek değiştirme ve güvenlik sistemleri.",
-      "content": "Kapıda kalma durumlarında evinizin kapısını hasar vermeden uzmanlıkla açıyoruz. Ayrıca taşınma durumlarında veya güvenlik ihtiyacınızda, yüksek güvenlikli mult-t-lock, kale kilit gibi donanımlarla kilit ve barel değişim işlemlerinizi gerçekleştiriyoruz."
+      "content": "Kapıda kalma durumlarında evinizin kapısını hasar vermeden uzmanlıkla açıyoruz. Ayrıca taşınma durumlarında veya güvenlik ihtiyacınızda, yüksek güvenlikli Mul-T-Lock, Kale Kilit gibi donanımlarla kilit ve barel değişim işlemlerinizi gerçekleştiriyoruz."
     },
     "ticari-cilingir": {
       "title": "Ticari (İşyeri) Çilingir",
@@ -57,51 +57,83 @@
     "muratpasa-cilingir": {
       "title": "Muratpaşa Çilingir",
       "slug": "muratpasa-cilingir",
+      "shortDesc": "Lara, Şirinyalı, Meydan ve Fener mahallelerinde hızlı çilingir hizmeti.",
+      "responseTime": "~10 dk",
       "seoTitle": "Muratpaşa Çilingir | 7/24 Acil En Yakın Çilingir",
       "seoDesc": "Antalya Muratpaşa geneli 15 dakikada acil çilingir hizmeti. Lara, Şirinyalı, Meydan, Fener mahallelerinde 7/24 oto ve kapı çilingiri."
     },
     "kepez-cilingir": {
       "title": "Kepez Çilingir",
       "slug": "kepez-cilingir",
+      "shortDesc": "Dokuma, Masadağı, Varsak bölgelerinde uygun fiyatlı profesyonel çilingir.",
+      "responseTime": "~12 dk",
       "seoTitle": "Kepez Çilingir | 7/24 Hızlı ve Kaliteli Kapı Açma",
-      "seoDesc": "Antalya Kepez 7/24 acil çilingir. Dokuma, Masadağı, Varsak bölgelerinde uygun fiyatlı, anında müdahale eden profesyonel çilingir."
+      "seoDesc": "Antalya Kepez 7/24 acil çilingir. Dokuma, Masadağı, Varsak bölgelerinde uygun fiyatlı çilingir."
     },
     "konyaalti-cilingir": {
       "title": "Konyaaltı Çilingir",
       "slug": "konyaalti-cilingir",
+      "shortDesc": "Hurma, Liman, Uncalı mahallelerine anında çilingir servisi.",
+      "responseTime": "~12 dk",
       "seoTitle": "Konyaaltı Çilingir | 7/24 Hasarsız Kapı & Oto Açma",
-      "seoDesc": "Antalya Konyaaltı Hurma, Liman, Uncalı mahallelerine anında çilingir servisi. Aracınızda veya evinizde kilitli kalmayın, hemen arayın."
+      "seoDesc": "Antalya Konyaaltı Hurma, Liman, Uncalı mahallelerine anında çilingir servisi."
     },
     "dosemealti-cilingir": {
       "title": "Döşemealtı Çilingir",
       "slug": "dosemealti-cilingir",
+      "shortDesc": "Organize sanayi ve Yeniköy bölgelerine hızlı müdahale.",
+      "responseTime": "~15 dk",
       "seoTitle": "Döşemealtı Çilingir | Yeniköy Ev ve Oto Çilingir",
-      "seoDesc": "Antalya Döşemealtı organize, Yeniköy bölgelerine hızlı çilingir hizmeti. 7/24 profesyonel ekip."
+      "seoDesc": "Antalya Döşemealtı organize, Yeniköy bölgelerine hızlı çilingir hizmeti."
     },
     "aksu-cilingir": {
       "title": "Aksu Çilingir",
       "slug": "aksu-cilingir",
+      "shortDesc": "Kundu oteller bölgesi ve Macun mahallesi için acil destek.",
+      "responseTime": "~15 dk",
       "seoTitle": "Aksu Çilingir | Lara Kundu Acil Kapı Açma",
       "seoDesc": "Aksu Kundu oteller bölgesi, Macun ve çevre mahalleri için acil çilingir hizmetleri."
     },
     "lara-cilingir": {
       "title": "Lara Çilingir",
       "slug": "lara-cilingir",
+      "shortDesc": "Lara sahil bölgesinde ev, oto ve kasa açımı uzmanlıkla.",
+      "responseTime": "~10 dk",
       "seoTitle": "Lara Çilingir | 7/24 Acil & Güvenilir Antalya Çilingir",
-      "seoDesc": "Antalya Lara bölgesinde 15 dakikada en yakın çilingir kapınızda. Ev, oto ve kasa açımı uzmanlıkla yapılır."
+      "seoDesc": "Antalya Lara bölgesinde 15 dakikada en yakın çilingir kapınızda."
     },
     "kundu-cilingir": {
       "title": "Kundu Çilingir",
       "slug": "kundu-cilingir",
+      "shortDesc": "Turizm merkezi Kundu'da ev, araç ve iş yeri çilingiri.",
+      "responseTime": "~15 dk",
       "seoTitle": "Kundu Çilingir | Oteller Bölgesi 24 Saat Çilingir",
       "seoDesc": "Kundu turizm merkezinde ev, araç ve iş yeri çilingir hizmetleri."
     },
     "kemer-cilingir": {
       "title": "Kemer Çilingir",
       "slug": "kemer-cilingir",
+      "shortDesc": "Beldibi, Göynük ve Kemer merkezde profesyonel çilingir desteği.",
+      "responseTime": "~20 dk",
       "seoTitle": "Kemer Çilingir | 7/24 Beldibi, Göynük Çilingir",
-      "seoDesc": "Antalya Kemer bölgesi için profesyonel çilingir desteği. Kilitli kapı bırakmıyoruz."
+      "seoDesc": "Antalya Kemer bölgesi için profesyonel çilingir desteği."
     }
+  },
+  "Regions": {
+    "title": "Hizmet Bölgelerimiz",
+    "subtitle": "Antalya'nın her yerine 15 dakikada ulaşıyoruz",
+    "ctaText": "Bölgenizde acil çilingir mi lazım? Hemen arayın, dakikalar içinde kapınızda olalım!",
+    "ctaBtn": "0 546 855 86 80",
+    "areas": [
+      "Muratpaşa",
+      "Kepez",
+      "Konyaaltı",
+      "Döşemealtı",
+      "Aksu",
+      "Lara",
+      "Kundu",
+      "Kemer"
+    ]
   },
   "Services": {
     "title": "Hizmetlerimiz",
@@ -173,20 +205,6 @@
     "experience": "Yıllık",
     "experienceSub": "Tecrübe"
   },
-  "Regions": {
-    "title": "Hizmet Bölgelerimiz",
-    "subtitle": "Antalya'nın her yerine 15 dakikada ulaşıyoruz",
-    "areas": [
-      "Muratpaşa",
-      "Kepez",
-      "Konyaaltı",
-      "Döşemealtı",
-      "Aksu",
-      "Lara",
-      "Kundu",
-      "Kemer"
-    ]
-  },
   "WhyUs": {
     "title": "Neden Biz?",
     "items": [
@@ -251,7 +269,7 @@
       },
       {
         "q": "Kapı açma ücreti ne kadar?",
-        "a": "Fiyatlarımız kilit tipine ve saate göre değişiklik gösterir. Telefonda ücretsiz bilgi alabilir, sürpriz fiyatla karşılaşmazsınız. Uygun fiyat garantisi veriyoruz."
+        "a": "Fiyatlarımız kilit tipine ve saate göre değişiklik gösterir. Telefonda ücretsiz bilgi alabilir, sürpriz fiyatla karşılaşmazsınız."
       },
       {
         "q": "Araç kapısı açabilir misiniz?",
