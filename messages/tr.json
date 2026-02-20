@@ -1,0 +1,170 @@
+{
+  "Metadata": {
+    "title": "Antalya Çilingirci | 7/24 Acil Kapı Açma ve Kilit Değişimi",
+    "description": "Antalya genelinde profesyonel çilingir hizmeti. 7/24 oto çilingir, kasa açma, konut ve ticari kilit sistemleri. Hemen arayın: 0 546 855 86 80"
+  },
+  "Hero": {
+    "titlePrefix": "Antalya",
+    "title": "Antalya Çilingir Hizmeti – 7/24 Acil Kapı Açma",
+    "cta": "Hemen Ara : 0 546 855 86 80"
+  },
+  "ServicesData": {
+    "oto-cilingir": {
+      "title": "Antalya Oto Çilingir",
+      "slug": "oto-cilingir",
+      "seoTitle": "Antalya Oto Çilingir | 7/24 Araç Kapısı Açma & Kilit Yaptırma",
+      "seoDesc": "Antalya 7/24 oto çilingir hizmeti. Aracınızın kapısı mı kilitli kaldı? Anahtarınızı mı kaybettiniz? 15 dakikada yanınızdayız.",
+      "content": "Aracınızın markası veya modeli ne olursa olsun, Antalya genelinde 7/24 oto çilingir hizmeti sunuyoruz. Araç kapısı açma, hasarsız kilit açma, kayıp anahtar yapımı, immobilizer sorunları ve oto alarm sistemleri konulu ihtiyaçlarınızda uzman ekibimiz en kısa sürede adresinize ulaşır."
+    },
+    "kasa-acma": {
+      "title": "Çelik Kasa Açma",
+      "slug": "kasa-acma",
+      "seoTitle": "Antalya Kasa Çilingir | Çelik Kasa Açma Hizmeti",
+      "seoDesc": "Antalya çelik kasa açma ve şifre değiştirme. Unutulan şifreler veya kaybolan anahtarlar için profesyonel kasa çilingir hizmeti.",
+      "content": "Ev veya iş yerinizde kullandığınız çelik kasaların şifresini mi unuttunuz? Anahtarını mı kaybettiniz? Gelişmiş ekipmanlarımız ile her model çelik kasayı hasarsız şekilde açıyor, şifre değişim işlemlerini güvenle gerçekleştiriyoruz."
+    },
+    "konut-cilingir": {
+      "title": "Konut (Ev) Çilingir",
+      "slug": "konut-cilingir",
+      "seoTitle": "Antalya Ev Çilingiri | 7/24 Kapı Açma ve Kilit Değişimi",
+      "seoDesc": "Antalya merkez ve ilçelerinde 7/24 acil ev çilingiri. Kapıda mı kaldınız? Kilit değişimi, göbek değiştirme ve güvenlik sistemleri.",
+      "content": "Kapıda kalma durumlarında evinizin kapısını hasar vermeden uzmanlıkla açıyoruz. Ayrıca taşınma durumlarında veya güvenlik ihtiyacınızda, yüksek güvenlikli mult-t-lock, kale kilit gibi donanımlarla kilit ve barel değişim işlemlerinizi gerçekleştiriyoruz."
+    },
+    "ticari-cilingir": {
+      "title": "Ticari (İşyeri) Çilingir",
+      "slug": "ticari-cilingir",
+      "seoTitle": "Antalya İşyeri Çilingiri | Dükkan, Ofis ve Kepenk Kilidi Açma",
+      "seoDesc": "İşyeriniz için profesyonel çilingir çözümleri. Kepenk kilitleri, ofis kapıları, cam kapı kilitleri tamir ve bakımı.",
+      "content": "İşletmenizin güvenliği bizim için önemli. Cam kapı kilitleri, dükkan kepenkleri, ofis giriş sistemleri, master kilit sistemleri kurulumu ve acil kilit açma ihtiyaçlarınızda profesyonel çözümler sunarak işinizin aksamamasını sağlıyoruz."
+    }
+  },
+  "RegionsData": {
+    "muratpasa-cilingir": {
+      "title": "Muratpaşa Çilingir",
+      "slug": "muratpasa-cilingir",
+      "seoTitle": "Muratpaşa Çilingir | 7/24 Acil En Yakın Çilingir",
+      "seoDesc": "Antalya Muratpaşa geneli 15 dakikada acil çilingir hizmeti. Lara, Şirinyalı, Meydan, Fener mahallelerinde 7/24 oto ve kapı çilingiri."
+    },
+    "kepez-cilingir": {
+      "title": "Kepez Çilingir",
+      "slug": "kepez-cilingir",
+      "seoTitle": "Kepez Çilingir | 7/24 Hızlı ve Kaliteli Kapı Açma",
+      "seoDesc": "Antalya Kepez 7/24 acil çilingir. Dokuma, Masadağı, Varsak bölgelerinde uygun fiyatlı, anında müdahale eden profesyonel çilingir."
+    },
+    "konyaalti-cilingir": {
+      "title": "Konyaaltı Çilingir",
+      "slug": "konyaalti-cilingir",
+      "seoTitle": "Konyaaltı Çilingir | 7/24 Hasarsız Kapı & Oto Açma",
+      "seoDesc": "Antalya Konyaaltı Hurma, Liman, Uncalı mahallelerine anında çilingir servisi. Aracınızda veya evinizde kilitli kalmayın, hemen arayın."
+    },
+    "dosemealti-cilingir": {
+      "title": "Döşemealtı Çilingir",
+      "slug": "dosemealti-cilingir",
+      "seoTitle": "Döşemealtı Çilingir | Yeniköy Ev ve Oto Çilingir",
+      "seoDesc": "Antalya Döşemealtı organize, Yeniköy bölgelerine hızlı çilingir hizmeti. 7/24 profesyonel ekip."
+    },
+    "aksu-cilingir": {
+      "title": "Aksu Çilingir",
+      "slug": "aksu-cilingir",
+      "seoTitle": "Aksu Çilingir | Lara Kundu Acil Kapı Açma",
+      "seoDesc": "Aksu Kundu oteller bölgesi, Macun ve çevre mahalleri için acil çilingir hizmetleri."
+    },
+    "lara-cilingir": {
+      "title": "Lara Çilingir",
+      "slug": "lara-cilingir",
+      "seoTitle": "Lara Çilingir | 7/24 Acil & Güvenilir Antalya Çilingir",
+      "seoDesc": "Antalya Lara bölgesinde 15 dakikada en yakın çilingir kapınızda. Ev, oto ve kasa açımı uzmanlıkla yapılır."
+    },
+    "kundu-cilingir": {
+      "title": "Kundu Çilingir",
+      "slug": "kundu-cilingir",
+      "seoTitle": "Kundu Çilingir | Oteller Bölgesi 24 Saat Çilingir",
+      "seoDesc": "Kundu turizm merkezinde ev, araç ve iş yeri çilingir hizmetleri."
+    },
+    "kemer-cilingir": {
+      "title": "Kemer Çilingir",
+      "slug": "kemer-cilingir",
+      "seoTitle": "Kemer Çilingir | 7/24 Beldibi, Göynük Çilingir",
+      "seoDesc": "Antalya Kemer bölgesi için profesyonel çilingir desteği. Kilitli kapı bırakmıyoruz."
+    }
+  },
+  "About": {
+    "titlePrefix": "Hakkımızda",
+    "title": "Antalya Çilingirci – 7/24 Güvenilir Çilingir Hizmeti",
+    "desc1": "Antalya Çilingirci olarak, yıllardır Antalya genelinde profesyonel çilingir hizmeti sunuyoruz. Kapıda kaldığınızda, aracınızın anahtarını kaybettiğinizde ya da iş yerinizin güvenliği için yeni bir sistem gerektiğinde güvenilir çözüm ortağınız biziz.",
+    "desc2": "Misyonumuz; müşterilerimize hızlı, güvenli ve uygun fiyatlı çilingir hizmeti sunmak, ev ve iş yerlerinin güvenliğini en üst düzeye çıkarmaktır.",
+    "offersTitle": "Neler Sunuyoruz?",
+    "offers": [
+      "7/24 acil kapı açma hizmeti",
+      "Oto çilingir ve kasa kilidi açma",
+      "Kilit değiştirme ve güvenlik sistemleri montajı",
+      "Deneyimli, profesyonel ve güvenilir ekip"
+    ],
+    "closing": "Antalya’da her an ulaşabileceğiniz, işini titizlikle yapan bir ekip arıyorsanız doğru adrestesiniz."
+  },
+  "Regions": {
+    "title": "Hizmet Bölgelerimiz",
+    "subtitle": "Antalya'nın her yerine 15 dakikada ulaşıyoruz",
+    "areas": [
+      "Muratpaşa",
+      "Kepez",
+      "Konyaaltı",
+      "Döşemealtı",
+      "Aksu",
+      "Lara",
+      "Kundu",
+      "Kemer"
+    ]
+  },
+  "WhyUs": {
+    "title": "Neden Biz?",
+    "items": [
+      {
+        "title": "Yerel Güven",
+        "desc": "Antalya merkezli ekibimizle bulunduğumuz bölgeye hakim, hızlı ve güvenilir çilingir hizmeti sunuyoruz."
+      },
+      {
+        "title": "Uzman Ekip",
+        "desc": "Deneyimli ustalarımız yılların bilgi birikimiyle size profesyonel ve kalıcı çözümler sunuyor."
+      },
+      {
+        "title": "Geniş Hizmet",
+        "desc": "Araç, ev ve iş yerleri için acil kapı açma, kilit değişimi ve güvenlik sistemleri kuruyoruz."
+      },
+      {
+        "title": "Acil Destek",
+        "desc": "Günün her saati, tatil günleri dahil bir telefonla dakikalar içinde yanınızdayız."
+      }
+    ]
+  },
+  "Testimonials": {
+    "title": "Müşterilerimiz Ne Diyor?",
+    "ratingText": "4.8 / 5 memnuniyet oranı – 2.500’den fazla müşterimizin güvenini kazandık.",
+    "items": [
+      {
+        "text": "Evimizin kilidini değiştirdik. Hem uygun fiyatlı hem de çok profesyonel çalıştılar. Çok memnun kaldık.",
+        "author": "Elif K.",
+        "location": "Antalya - Lara"
+      },
+      {
+        "text": "Gece yarısı kapıda kaldım, dakikalar içinde geldiler. Çok teşekkürler!",
+        "author": "Ahmet Y.",
+        "location": "Antalya - Kepez"
+      },
+      {
+        "text": "İşyerimizin kilit sistemlerini yenilediler, çok güvenilir ve temiz işçilik.",
+        "author": "Mehmet T.",
+        "location": "Antalya - Muratpaşa"
+      }
+    ]
+  },
+  "Contact": {
+    "title": "İletişim",
+    "callNow": "Hemen arayın:",
+    "email": "Mail:",
+    "phone": "0 546 855 86 80",
+    "emailAddress": "info@antalyacilingirci.com",
+    "localBusiness": "Yerel ve bağımsız işletmeyiz: Antalya merkezli ekibimizle bölgeye hakim, güvenilir hizmet sunuyoruz.",
+    "alwaysOpen": "HER ZAMAN AÇIK : 7/24 Hizmetinizde"
+  }
+}
