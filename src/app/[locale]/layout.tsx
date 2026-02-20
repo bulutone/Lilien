@@ -3,7 +3,15 @@ import { getMessages, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import Script from 'next/script';
+import { Inter } from 'next/font/google';
 import '../globals.css';
+
+const inter = Inter({
+    subsets: ['latin', 'cyrillic', 'latin-ext'],
+    display: 'swap',
+    variable: '--font-inter'
+});
+
 
 const BASE_URL = 'https://antalyacilingirci.com';
 
@@ -226,7 +234,7 @@ export default async function LocaleLayout({
     };
 
     return (
-        <html lang={locale}>
+        <html lang={locale} className={inter.className}>
             <head>
                 {/* Google Tag Manager */}
                 <Script id="google-tag-manager" strategy="afterInteractive">
