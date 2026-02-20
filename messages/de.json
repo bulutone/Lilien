@@ -284,5 +284,16 @@
         "a": "Wir bedienen alle zentralen Bezirke von Antalya: Muratpaşa, Kepez, Konyaaltı, Döşemealtı, Aksu, Lara, Kundu und Kemer."
       }
     ]
+  },
+  "RegionPage": {
+    "bodyText": "Nach Ihrer Notfall-Schlüsseldienst-Anfrage für den Bereich Antalya {region} erreicht unser nächster mobiler Schlüsseldienst Ihre Adresse innerhalb von durchschnittlich 15 Minuten. Wir sind für Sie da – nicht nur für Türöffnungen, sondern auch für Schlossaustausch, Tresoröffnung, Auto-Schlüsseldienst und Sicherheitsdienste.",
+    "ctaTitle": "Schlüsseldienst {region} anrufen",
+    "ctaDesc": "Rufen Sie uns jetzt an für 24/7 ununterbrochenen Service.",
+    "ctaBtn": "Jetzt Anrufen: +90 546 855 86 80"
+  },
+  "ServicePage": {
+    "ctaTitle": "Brauchen Sie einen Notfall-Schlüsseldienst?",
+    "ctaDesc": "Rufen Sie uns jetzt an, wir sind in 15 Minuten bei Ihnen.",
+    "ctaBtn": "Jetzt Anrufen: +90 546 855 86 80"
   }
 }

@@ -284,5 +284,16 @@
         "a": "We serve all central districts of Antalya: Muratpaşa, Kepez, Konyaaltı, Döşemealtı, Aksu, Lara, Kundu, and Kemer."
       }
     ]
+  },
+  "RegionPage": {
+    "bodyText": "After your emergency locksmith request for the Antalya {region} area, our nearest mobile locksmith service will reach your address within an average of 15 minutes. We are here for you with not only door opening, but also lock replacement, safe opening, auto locksmith, and security services.",
+    "ctaTitle": "Call a {region} Locksmith",
+    "ctaDesc": "Call us now for 24/7 uninterrupted service.",
+    "ctaBtn": "Call Now: +90 546 855 86 80"
+  },
+  "ServicePage": {
+    "ctaTitle": "Need an Emergency Locksmith?",
+    "ctaDesc": "Call us now for 24/7 service, we will be at your location within 15 minutes.",
+    "ctaBtn": "Call Now: +90 546 855 86 80"
   }
 }

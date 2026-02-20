@@ -284,5 +284,16 @@
         "a": "Antalya'nın tüm merkez ilçelerine hizmet veriyoruz: Muratpaşa, Kepez, Konyaaltı, Döşemealtı, Aksu, Lara, Kundu ve Kemer."
       }
     ]
+  },
+  "RegionPage": {
+    "bodyText": "Antalya {region} bölgesi için acil çilingir hizmeti talebiniz alındıktan sonra, size en yakın konumda bulunan motorlu mobil çilingir servisimiz ortalama 15 dakika içerisinde adresinize ulaşır. Yalnızca kapı açma değil, kilit değişimi, kasa açma, oto çilingir ve güvenlik hizmetlerimizle yanınızdayız.",
+    "ctaTitle": "{region} Çilingir Çağırın",
+    "ctaDesc": "7/24 kesintisiz hizmet için hemen bizi arayın.",
+    "ctaBtn": "Hemen Ara: 0 546 855 86 80"
+  },
+  "ServicePage": {
+    "ctaTitle": "Acil Çilingir İhtiyacınız mı Var?",
+    "ctaDesc": "7/24 kesintisiz hizmet için hemen bizi arayın, 15 dakikada yanınızdayız.",
+    "ctaBtn": "Hemen Ara: 0 546 855 86 80"
   }
 }
