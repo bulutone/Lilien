@@ -1,5 +1,3 @@
-import { useTranslations } from 'next-intl';
-import { setRequestLocale } from 'next-intl/server';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import Services from '@/components/Services';
@@ -10,10 +8,8 @@ import Testimonials from '@/components/Testimonials';
 import Footer from '@/components/Footer';
 import FloatingContact from '@/components/FloatingContact';
 
-export default function HomePage({ params }: { params: { locale: string } }) {
-    // To enable static rendering
-    setRequestLocale(params.locale);
-    const t = useTranslations();
+export default async function HomePage({ params }: any) {
+    const { locale } = await params;
 
     return (
         <>

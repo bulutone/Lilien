@@ -88,6 +88,60 @@
       "seoDesc": "Antalya Kemer bölgesi için profesyonel çilingir desteği. Kilitli kapı bırakmıyoruz."
     }
   },
+  "Services": {
+    "title": "Hizmetlerimiz",
+    "oto": {
+      "title": "Oto Çilingir",
+      "items": [
+        {
+          "q": "Araç kapısı açma",
+          "a": "Antalya'da aracınızın kapısı kilitli kaldığında güvenli ve hızlı şekilde açıyoruz."
+        },
+        {
+          "q": "Acil durum araç kilidi açma",
+          "a": "Gece veya gündüz fark etmez, aracınızın anahtarını kaybettiyseniz dakikalar içinde yanınızdayız."
+        },
+        {
+          "q": "Araç alarm sistemi kurulumu",
+          "a": "Otomobilinizin güvenliği için modern alarm sistemleri kurulumu ve bakımı yapıyoruz."
+        }
+      ]
+    },
+    "konut": {
+      "title": "Konut Çilingir",
+      "items": [
+        {
+          "q": "Kilitli ev kapısı açma",
+          "a": "Evde kaldığınızda çilingir ekibimiz dakikalar içinde kapınızı açar."
+        },
+        {
+          "q": "Ev Güvenlik Sistemleri Kurulumu",
+          "a": "Kapı ve pencere kilitleri dahil olmak üzere ev güvenliği için profesyonel çözümler sunuyoruz."
+        },
+        {
+          "q": "Acil Kapı Açma ve Kilit Değiştirme",
+          "a": "Geceleri veya tatil günlerinde bile 7/24 acil destek ile kapınızı açıp güvenliğinizi sağlıyoruz."
+        }
+      ]
+    },
+    "ticari": {
+      "title": "Ticari Çilingir",
+      "items": [
+        {
+          "q": "Ofis ve İş Yeri Acil Kilit Açma",
+          "a": "Anahtar kaybı ya da kilit arızasında işinizi aksatmadan hızlı çözüm sağlıyoruz."
+        },
+        {
+          "q": "Giriş Kontrol Sistemleri Kurulumu",
+          "a": "Kartlı geçiş, elektronik kilit ve diğer güvenlik sistemlerini kuruyoruz."
+        },
+        {
+          "q": "Güvenlik Kilidi ve Cihaz Montajı",
+          "a": "Yüksek güvenlikli kilit ve cihazlarla iş yerinizi daha güvenli hale getiriyoruz."
+        }
+      ]
+    }
+  },
   "About": {
     "titlePrefix": "Hakkımızda",
     "title": "Antalya Çilingirci – 7/24 Güvenilir Çilingir Hizmeti",
