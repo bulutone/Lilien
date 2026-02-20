@@ -593,5 +593,48 @@
     "ctaBtn": "Call Now: +90 546 855 86 80",
     "stepsTitle": "How We Work",
     "faqTitle": "Frequently Asked Questions"
+  },
+  "ContactForm": {
+    "title": "Contact Us",
+    "subtitle": "Can't call? Leave your details and we'll call you back.",
+    "name": "Your Name",
+    "namePlaceholder": "Enter your name",
+    "phone": "Phone",
+    "phonePlaceholder": "+90 5XX XXX XX XX",
+    "message": "Message (Optional)",
+    "messagePlaceholder": "Briefly describe your issue...",
+    "submit": "Send My Info",
+    "success": "Message received! We will call you as soon as possible."
+  },
+  "GoogleReviews": {
+    "title": "Google Reviews",
+    "rating": "4.8 / 5",
+    "items": [
+      {
+        "name": "Elif K.",
+        "text": "They changed our home locks. Both affordable and very professional. We are very satisfied.",
+        "time": "2 weeks ago"
+      },
+      {
+        "name": "Ahmet Y.",
+        "text": "I was locked out at midnight, they came in 10 minutes. Thank you so much!",
+        "time": "1 month ago"
+      },
+      {
+        "name": "Mehmet T.",
+        "text": "They renewed our workplace lock systems. Very reliable and clean workmanship.",
+        "time": "3 weeks ago"
+      },
+      {
+        "name": "Fatma S.",
+        "text": "I lost my car key, they made a new one in half an hour. Super service!",
+        "time": "1 week ago"
+      },
+      {
+        "name": "Ali D.",
+        "text": "We needed an emergency locksmith in Konyaaltı. They arrived very quickly and the price was reasonable.",
+        "time": "2 months ago"
+      }
+    ]
   }
 }

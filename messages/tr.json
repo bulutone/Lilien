@@ -593,5 +593,48 @@
     "ctaBtn": "Hemen Ara: 0 546 855 86 80",
     "stepsTitle": "Nasıl Çalışıyoruz?",
     "faqTitle": "Sıkça Sorulan Sorular"
+  },
+  "ContactForm": {
+    "title": "Bize Ulaşın",
+    "subtitle": "Telefon açamıyorsanız bilgilerinizi bırakın, sizi biz arayalım.",
+    "name": "Adınız",
+    "namePlaceholder": "Adınızı girin",
+    "phone": "Telefon",
+    "phonePlaceholder": "05XX XXX XX XX",
+    "message": "Mesajınız (Opsiyonel)",
+    "messagePlaceholder": "Sorununuzu kısaca anlatın...",
+    "submit": "Bilgilerimi Gönder",
+    "success": "Mesajınız alındı! En kısa sürede sizi arayacağız."
+  },
+  "GoogleReviews": {
+    "title": "Google Yorumları",
+    "rating": "4.8 / 5",
+    "items": [
+      {
+        "name": "Elif K.",
+        "text": "Evimizin kilidini değiştirdik. Hem uygun fiyatlı hem de çok profesyonel çalıştılar. Çok memnun kaldık.",
+        "time": "2 hafta önce"
+      },
+      {
+        "name": "Ahmet Y.",
+        "text": "Gece yarısı kapıda kaldım, 10 dakikada geldiler. Çok teşekkürler!",
+        "time": "1 ay önce"
+      },
+      {
+        "name": "Mehmet T.",
+        "text": "İşyerimizin kilit sistemlerini yenilediler, çok güvenilir ve temiz işçilik.",
+        "time": "3 hafta önce"
+      },
+      {
+        "name": "Fatma S.",
+        "text": "Arabanın anahtarını kaybettim, yarım saatte yeni anahtar yaptılar. Süper hizmet!",
+        "time": "1 hafta önce"
+      },
+      {
+        "name": "Ali D.",
+        "text": "Konyaaltı'nda acil çilingir aradık, çok hızlı geldiler. Fiyat da makul.",
+        "time": "2 ay önce"
+      }
+    ]
   }
 }

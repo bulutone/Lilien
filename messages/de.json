@@ -593,5 +593,48 @@
     "ctaBtn": "Jetzt Anrufen: +90 546 855 86 80",
     "stepsTitle": "So funktioniert es",
     "faqTitle": "Häufig gestellte Fragen"
+  },
+  "ContactForm": {
+    "title": "Kontaktieren Sie Uns",
+    "subtitle": "Können Sie nicht anrufen? Hinterlassen Sie Ihre Daten, wir rufen Sie zurück.",
+    "name": "Ihr Name",
+    "namePlaceholder": "Geben Sie Ihren Namen ein",
+    "phone": "Telefon",
+    "phonePlaceholder": "+90 5XX XXX XX XX",
+    "message": "Nachricht (Optional)",
+    "messagePlaceholder": "Beschreiben Sie Ihr Problem kurz...",
+    "submit": "Meine Daten senden",
+    "success": "Nachricht erhalten! Wir rufen Sie so schnell wie möglich an."
+  },
+  "GoogleReviews": {
+    "title": "Google Bewertungen",
+    "rating": "4.8 / 5",
+    "items": [
+      {
+        "name": "Elif K.",
+        "text": "Sie haben unsere Schlösser gewechselt. Sowohl günstig als auch sehr professionell. Wir sind sehr zufrieden.",
+        "time": "vor 2 Wochen"
+      },
+      {
+        "name": "Ahmet Y.",
+        "text": "Um Mitternacht ausgesperrt, in 10 Minuten waren sie da. Vielen Dank!",
+        "time": "vor 1 Monat"
+      },
+      {
+        "name": "Mehmet T.",
+        "text": "Unser Arbeitsplatz-Schlosssystem erneuert. Sehr zuverlässige und saubere Arbeit.",
+        "time": "vor 3 Wochen"
+      },
+      {
+        "name": "Fatma S.",
+        "text": "Autoschlüssel verloren, in einer halben Stunde einen neuen gemacht. Super Service!",
+        "time": "vor 1 Woche"
+      },
+      {
+        "name": "Ali D.",
+        "text": "Notfall-Schlüsseldienst in Konyaaltı gebraucht. Sehr schnell da und fairer Preis.",
+        "time": "vor 2 Monaten"
+      }
+    ]
   }
 }
