@@ -9,28 +9,28 @@
         "cta": "Call Now : +90 546 855 86 80"
     },
     "ServicesData": {
-        "auto-locksmith": {
+        "oto-cilingir": {
             "title": "Antalya Auto Locksmith",
             "slug": "auto-locksmith",
             "seoTitle": "Antalya Auto Locksmith | 24/7 Car Door Opening & Key Making",
             "seoDesc": "24/7 auto locksmith service in Antalya. Locked out of your car? Lost your key? We'll be there in 15 minutes.",
             "content": "Regardless of your vehicle's make or model, we provide 24/7 auto locksmith services across Antalya. Our expert team arrives quickly for car door opening, damage-free unlocking, lost key replacement, immobilizer issues, and auto alarm systems."
         },
-        "safe-opening": {
+        "kasa-acma": {
             "title": "Safe Opening",
             "slug": "safe-opening",
             "seoTitle": "Antalya Safe Locksmith | Steel Safe Opening Service",
             "seoDesc": "Antalya steel safe opening and password changing. Professional safe locksmith service for forgotten passwords or lost keys.",
             "content": "Forgot the password or lost the key to your home or office steel safe? With our advanced equipment, we open all models of steel safes without damage and securely handle password changes."
         },
-        "residential-locksmith": {
+        "konut-cilingir": {
             "title": "Residential Locksmith",
             "slug": "residential-locksmith",
             "seoTitle": "Antalya Residential Locksmith | 24/7 Door Opening & Lock Replacement",
             "seoDesc": "24/7 emergency residential locksmith in Antalya center and districts. Locked out? Lock replacement, cylinder changing, and security systems.",
             "content": "When you're locked out, we expertly open your home's door without causing damage. We also replace locks and cylinders with high-security hardware like Mul-T-Lock and Kale Kilit for moving or security upgrades."
         },
-        "commercial-locksmith": {
+        "ticari-cilingir": {
             "title": "Commercial Locksmith",
             "slug": "commercial-locksmith",
             "seoTitle": "Antalya Commercial Locksmith | Shop, Office & Shutter Lock Opening",
@@ -39,49 +39,49 @@
         }
     },
     "RegionsData": {
-        "muratpasa-locksmith": {
+        "muratpasa-cilingir": {
             "title": "Muratpaşa Locksmith",
             "slug": "muratpasa-locksmith",
             "seoTitle": "Muratpaşa Locksmith | 24/7 Urgent Nearest Locksmith",
             "seoDesc": "Emergency locksmith service within 15 minutes across Antalya Muratpaşa. 24/7 auto and door locksmith in Lara, Şirinyalı, Meydan, and Fener."
         },
-        "kepez-locksmith": {
+        "kepez-cilingir": {
             "title": "Kepez Locksmith",
             "slug": "kepez-locksmith",
             "seoTitle": "Kepez Locksmith | 24/7 Fast & Quality Door Opening",
             "seoDesc": "Antalya Kepez 24/7 emergency locksmith. Affordable, quick-response professional locksmith in Dokuma, Masadağı, and Varsak areas."
         },
-        "konyaalti-locksmith": {
+        "konyaalti-cilingir": {
             "title": "Konyaaltı Locksmith",
             "slug": "konyaalti-locksmith",
             "seoTitle": "Konyaaltı Locksmith | 24/7 Damage-Free Door & Auto Opening",
             "seoDesc": "Instant locksmith service to Antalya Konyaaltı, Hurma, Liman, and Uncalı neighborhoods. Don't stay locked out of your car or home, call now."
         },
-        "dosemealti-locksmith": {
+        "dosemealti-cilingir": {
             "title": "Döşemealtı Locksmith",
             "slug": "dosemealti-locksmith",
             "seoTitle": "Döşemealtı Locksmith | Yeniköy Home & Auto Locksmith",
             "seoDesc": "Fast locksmith service to Antalya Döşemealtı organized industrial and Yeniköy districts. 24/7 professional team."
         },
-        "aksu-locksmith": {
+        "aksu-cilingir": {
             "title": "Aksu Locksmith",
             "slug": "aksu-locksmith",
             "seoTitle": "Aksu Locksmith | Lara Kundu Emergency Door Opening",
             "seoDesc": "Emergency locksmith services for Aksu Kundu hotels zone, Macun, and surrounding neighborhoods."
         },
-        "lara-locksmith": {
+        "lara-cilingir": {
             "title": "Lara Locksmith",
             "slug": "lara-locksmith",
             "seoTitle": "Lara Locksmith | 24/7 Emergency & Reliable Antalya Locksmith",
             "seoDesc": "The nearest locksmith is at your door in 15 minutes in the Antalya Lara region. Expert opening of homes, cars, and safes."
         },
-        "kundu-locksmith": {
+        "kundu-cilingir": {
             "title": "Kundu Locksmith",
             "slug": "kundu-locksmith",
             "seoTitle": "Kundu Locksmith | Hotels Zone 24 Hour Locksmith",
             "seoDesc": "Home, vehicle, and workplace locksmith services in the Kundu tourism center."
         },
-        "kemer-locksmith": {
+        "kemer-cilingir": {
             "title": "Kemer Locksmith",
             "slug": "kemer-locksmith",
             "seoTitle": "Kemer Locksmith | 24/7 Beldibi, Göynük Locksmith",
