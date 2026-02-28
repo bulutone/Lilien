@@ -112,23 +112,42 @@ export default async function RegionPage({ params }: any) {
                                 gridTemplateColumns: 'repeat(auto-fill, minmax(180px, 1fr))',
                                 gap: '0.75rem'
                             }}>
-                                {neighborhoods.map((n: string, i: number) => (
-                                    <div key={i} style={{
-                                        background: '#f8fafc',
-                                        border: '1px solid #e2e8f0',
-                                        borderRadius: '0.75rem',
-                                        padding: '0.75rem 1rem',
-                                        fontSize: '0.95rem',
-                                        fontWeight: 500,
-                                        color: '#334155',
-                                        display: 'flex',
-                                        alignItems: 'center',
-                                        gap: '0.5rem'
-                                    }}>
-                                        <span style={{ color: '#ff6b35' }}>●</span>
-                                        {n}
-                                    </div>
-                                ))}
+                                {neighborhoods.map((n: string, i: number) => {
+                                    // Try to find if this neighborhood has a dedicated page
+                                    const nPageKey = Object.keys(region.neighborhoodPages || {}).find(
+                                        key => region.neighborhoodPages[key].title.includes(n) || n.includes(region.neighborhoodPages[key].title)
+                                    );
+
+                                    const content = (
+                                        <div style={{
+                                            background: '#f8fafc',
+                                            border: '1px solid #e2e8f0',
+                                            borderRadius: '0.75rem',
+                                            padding: '0.75rem 1rem',
+                                            fontSize: '0.95rem',
+                                            fontWeight: 500,
+                                            color: '#334155',
+                                            display: 'flex',
+                                            alignItems: 'center',
+                                            gap: '0.5rem',
+                                            height: '100%',
+                                            transition: 'all 0.2s ease'
+                                        }}>
+                                            <span style={{ color: '#ff6b35' }}>●</span>
+                                            {n}
+                                        </div>
+                                    );
+
+                                    if (nPageKey) {
+                                        return (
+                                            <a key={i} href={`/${locale}/bolgeler/${slug}/${nPageKey}`} style={{ textDecoration: 'none' }}>
+                                                {content}
+                                            </a>
+                                        );
+                                    }
+
+                                    return <div key={i}>{content}</div>;
+                                })}
                             </div>
                         </div>
                     )}

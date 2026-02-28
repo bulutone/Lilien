@@ -216,7 +216,15 @@
         "Tresoröffnung",
         "Zylinderwechsel",
         "Stahltürschloss"
-      ]
+      ],
+      "neighborhoodPages": {
+        "fener-cilingir": {
+          "title": "Fener Schlüsseldienst",
+          "seoTitle": "Fener Schlüsseldienst | 24/7 Notdienst Muratpaşa",
+          "seoDesc": "24/7 Notfall-Schlüsseldienst in Fener, Muratpaşa. Türöffnung und Schlosswechsel.",
+          "content": "In Fener ausgesperrt? Unser Team ist in 10 Minuten für eine schadenfreie Türöffnung bei Ihnen."
+        }
+      }
     },
     "lara-cilingir": {
       "title": "Lara Schlüsseldienst",

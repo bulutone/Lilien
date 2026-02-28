@@ -77,5 +77,35 @@ export default function sitemap(): MetadataRoute.Sitemap {
         });
     });
 
+    // 4. Neighborhood Pages — hardcoded for now or we could import if possible
+    // For simplicity and to avoid complex async in sitemap, I'll add the main ones
+    const neighborhoodKeys = [
+        'fener-cilingir', 'sirinyali-cilingir', 'yesilbahce-cilingir',
+        'genclik-cilingir', 'guzeloluk-cilingir', 'kircami-cilingir',
+        'meydankavagi-cilingir', 'demircikara-cilingir', 'caglayan-cilingir',
+        'guzeloba-cilingir', 'ermenek-cilingir', 'yenigol-cilingir',
+        'kundu-oteller-cilingir', 'tarim-cilingir', 'yesilova-cilingir',
+        'topcular-cilingir', 'gebizli-cilingir', 'mehmetcik-cilingir',
+        'guzelbag-cilingir'
+    ];
+
+    routing.locales.forEach(locale => {
+        const prefix = locale === routing.defaultLocale ? '' : `/${locale}`;
+        neighborhoodKeys.forEach(nKey => {
+            // Determine region slug based on neighborhood
+            let rKey = 'muratpasa';
+            if (['caglayan-cilingir', 'guzeloba-cilingir', 'ermenek-cilingir', 'yenigol-cilingir'].includes(nKey)) rKey = 'lara';
+            if (nKey === 'kundu-oteller-cilingir') rKey = 'kundu';
+
+            const rSlug = getSlug('regions', rKey, locale);
+            entries.push({
+                url: `${host}${prefix}/bolgeler/${rSlug}/${nKey}`,
+                lastModified: new Date(),
+                changeFrequency: 'monthly',
+                priority: 0.6
+            });
+        });
+    });
+
     return entries;
 }

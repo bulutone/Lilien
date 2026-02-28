@@ -211,12 +211,26 @@
       ],
       "availableServices": [
         "Door Opening",
-        "Lock Replacement",
+        "Lock Change",
         "Auto Locksmith",
         "Safe Opening",
-        "Cylinder Replacement",
-        "Steel Door Lock"
-      ]
+        "Cylinder Change",
+        "Security Systems"
+      ],
+      "neighborhoodPages": {
+        "fener-cilingir": {
+          "title": "Fener Locksmith",
+          "seoTitle": "Fener Locksmith | 24/7 Emergency Service Muratpaşa",
+          "seoDesc": "24/7 emergency locksmith in Fener, Muratpaşa. Door opening and lock change.",
+          "content": "Locked out in Fener? Our team arrives in 10 minutes for damage-free door opening."
+        },
+        "sirinyali-cilingir": {
+          "title": "Sirinyali Locksmith",
+          "seoTitle": "Sirinyali Locksmith | 24/7 Emergency Muratpasa Service",
+          "seoDesc": "Fast locksmith in Sirinyali. Door opening, auto locksmith, and safe opening.",
+          "content": "Locksmith services for homes and offices in Sirinyali. Emergency arrival in 10 mins."
+        }
+      }
     },
     "lara-cilingir": {
       "title": "Lara Locksmith",
@@ -242,7 +256,15 @@
         "Hotel Lock Maintenance",
         "Shutter Lock",
         "Safe Opening"
-      ]
+      ],
+      "neighborhoodPages": {
+        "caglayan-cilingir": {
+          "title": "Caglayan Locksmith",
+          "seoTitle": "Caglayan Locksmith Lara | 24/7 Fast Service",
+          "seoDesc": "Locksmith in Caglayan, Lara within 10 minutes. Door opening and lock change.",
+          "content": "Need an emergency locksmith in Caglayan? Our Lara team is with you in 10 mins."
+        }
+      }
     },
     "kundu-cilingir": {
       "title": "Kundu Locksmith",

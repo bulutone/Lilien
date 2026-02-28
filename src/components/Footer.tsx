@@ -101,7 +101,7 @@ export default function Footer() {
         }
         .brand-desc {
           margin-top: 1.5rem;
-          color: var(--text-muted);
+          color: rgba(255, 255, 255, 0.7);
           max-width: 300px;
         }
         .always-open-badge {
@@ -154,7 +154,7 @@ export default function Footer() {
         }
         .contact-label {
           display: block;
-          color: var(--text-muted);
+          color: rgba(255, 255, 255, 0.6);
           font-size: 0.875rem;
           margin-bottom: 0.25rem;
         }
@@ -173,7 +173,7 @@ export default function Footer() {
           gap: 1rem;
         }
         .footer-nav a {
-          color: var(--text-muted);
+          color: rgba(255, 255, 255, 0.7);
           transition: all var(--transition-fast);
         }
         .footer-nav a:hover {
@@ -185,7 +185,7 @@ export default function Footer() {
           padding-top: 2rem;
           border-top: 1px solid rgba(255, 255, 255, 0.1);
           text-align: center;
-          color: var(--text-muted);
+          color: rgba(255, 255, 255, 0.5);
           font-size: 0.875rem;
         }
         

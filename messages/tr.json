@@ -211,14 +211,86 @@
         "Demircikara",
         "Aksu Kundu"
       ],
-      "availableServices": [
-        "Kapı Açma",
-        "Kilit Değişimi",
-        "Oto Çilingir",
-        "Kasa Açma",
-        "Barel Değişimi",
-        "Çelik Kapı Kilidi"
-      ]
+      "neighborhoodPages": {
+        "fener-cilingir": {
+          "title": "Fener Çilingir",
+          "seoTitle": "Fener Çilingir | 7/24 Acil En Yakın Çilingir Muratpaşa",
+          "seoDesc": "Muratpaşa Fener mahallesinde 7/24 acil çilingir. Kapı açma, kilit değişimi ve oto çilingir hizmeti.",
+          "content": "Fener mahallesinde kapıda mı kaldınız? Antalya Çilingirci olarak Fener bölgesine 10 dakikada ulaşıyor, hasarsız kapı açma ve kilit değişimi hizmeti sunuyoruz."
+        },
+        "sirinyali-cilingir": {
+          "title": "Şirinyalı Çilingir",
+          "seoTitle": "Şirinyalı Çilingir | Muratpaşa 7/24 Acil Çilingir Servisi",
+          "seoDesc": "Şirinyalı mahallesinde hızlı çilingir. Kapı açma, oto çilingir ve kasa açma hizmetleri.",
+          "content": "Şirinyalı mahallesindeki ev ve iş yerleri için 10 dakikada çilingir kapınızda. Güvenli kilit sistemleri ve acil servis."
+        },
+        "yesilbahce-cilingir": {
+          "title": "Yeşilbahçe Çilingir",
+          "seoTitle": "Yeşilbahçe Çilingir | 7/24 Acil Kilit Değişimi & Kapı Açma",
+          "seoDesc": "Yeşilbahçe mahallesinde profesyonel çilingir hizmeti. 10 dakikada hızlı ulaşım.",
+          "content": "Yeşilbahçe sakinlerine özel 7/24 acil çilingir. Barel değişimi, çelik kapı kilidi ve oto anahtar çözümleri."
+        },
+        "genclik-cilingir": {
+          "title": "Gençlik Mahallesi Çilingir",
+          "seoTitle": "Gençlik Mahallesi Çilingir | Muratpaşa 7/24 Acil Servis",
+          "seoDesc": "Gençlik mahallesinde hızlı ve güvenilir çilingir. Kapı açma ve kilit değişimi.",
+          "content": "Gençlik mahallesindeki ev ve iş yerleri için profesyonel çilingir desteği. 10 dakikada servis."
+        },
+        "guzeloluk-cilingir": {
+          "title": "Güzeloluk Çilingir",
+          "seoTitle": "Güzeloluk Çilingir | 7/24 Acil En Yakın Çilingir",
+          "seoDesc": "Güzeloluk mahallesinde oto ve ev çilingir hizmetleri.",
+          "content": "Güzeloluk bölgesinde kilitli kalan kapıları hasarsız açıyoruz. 7/24 hizmet."
+        },
+        "kircami-cilingir": {
+          "title": "Kırcami Çilingir",
+          "seoTitle": "Kırcami Çilingir | Muratpaşa Hızlı Çilingir Kapınızda",
+          "seoDesc": "Kırcami mahallesinde uygun fiyatlı çilingir servisleri.",
+          "content": "Kırcami mahallesindeki tüm çilingir ihtiyaçlarınız için profesyonel ve hızlı çözüm."
+        },
+        "meydankavagi-cilingir": {
+          "title": "Meydankavağı Çilingir",
+          "seoTitle": "Meydankavağı Çilingir | 7/24 Acil Muratpaşa Çilingir",
+          "seoDesc": "Meydankavağı mahallesinde kapı açma ve kilit değişimi.",
+          "content": "Meydankavağı bölgesinde güvenliğiniz için en hızlı çilingir hizmetini sunuyoruz."
+        },
+        "demircikara-cilingir": {
+          "title": "Demircikara Çilingir",
+          "seoTitle": "Demircikara Çilingir | Muratpaşa 7/24 Acil Servis",
+          "seoDesc": "Demircikara mahallesinde profesyonel çilingir desteği.",
+          "content": "Demircikara mahallesinde kilit değişimi ve kapı açma için uzman ekibimiz emrinizde."
+        },
+        "tarim-cilingir": {
+          "title": "Tarım Mahallesi Çilingir",
+          "seoTitle": "Tarım Mahallesi Çilingir | Muratpaşa 7/24 Acil",
+          "seoDesc": "Tarım mahallesinde hızlı çilingir hizmeti.",
+          "content": "Tarım mahallesi sakinlerine 7/24 acil çilingir ve kilit servisimiz mevcuttur."
+        },
+        "yesilova-cilingir": {
+          "title": "Yeşilova Çilingir",
+          "seoTitle": "Yeşilova Çilingir | Muratpaşa Hızlı Çilingir",
+          "seoDesc": "Yeşilova mahallesinde profesyonel çilingir.",
+          "content": "Yeşilova mahallesinde kilitli kalan kapıları kısa sürede açıyoruz."
+        },
+        "topcular-cilingir": {
+          "title": "Topçular Çilingir",
+          "seoTitle": "Topçular Çilingir | Muratpaşa 7/24 Servis",
+          "seoDesc": "Topçular mahallesinde acil çilingir.",
+          "content": "Topçular bölgesinde ev, iş yeri ve araç çilingir hizmetleri sunuyoruz."
+        },
+        "gebizli-cilingir": {
+          "title": "Gebizli Çilingir",
+          "seoTitle": "Gebizli Çilingir | Muratpaşa Hızlı Çilingir",
+          "seoDesc": "Gebizli mahallesinde kilit değişimi ve kapı açma.",
+          "content": "Gebizli mahallesinde profesyonel çilingir desteği."
+        },
+        "mehmetcik-cilingir": {
+          "title": "Mehmetçik Mahallesi Çilingir",
+          "seoTitle": "Mehmetçik Mahallesi Çilingir | Muratpaşa 7/24",
+          "seoDesc": "Mehmetçik mahallesinde hızlı çilingir.",
+          "content": "Mehmetçik mahallesinde acil kapı açma ve kilit değişimi."
+        }
+      }
     },
     "kepez-cilingir": {
       "title": "Kepez Çilingir",
@@ -357,14 +429,38 @@
         "Fener",
         "Barlar Sokağı"
       ],
-      "availableServices": [
-        "Villa Kapısı Açma",
-        "Akıllı Kilit",
-        "Oto Çilingir",
-        "Otel Kilit Bakımı",
-        "Kepenk Kilidi",
-        "Kasa Açma"
-      ]
+      "neighborhoodPages": {
+        "caglayan-cilingir": {
+          "title": "Çağlayan Çilingir",
+          "seoTitle": "Çağlayan Çilingir Lara | 7/24 Acil Hızlı Servis",
+          "seoDesc": "Lara Çağlayan mahallesinde 10 dakikada çilingir. Kapı açma ve kilit değişimi.",
+          "content": "Çağlayan mahallesinde acil çilingir mi lazım? Lara bölgesindeki ekibimiz 10 dakikada yanınızda."
+        },
+        "guzeloba-cilingir": {
+          "title": "Güzeloba Çilingir",
+          "seoTitle": "Güzeloba Çilingir | Lara 7/24 Acil En Yakın Çilingir",
+          "seoDesc": "Güzeloba mahallesinde oto ve ev çilingir hizmetleri. 15 dakikada hızlı müdahale.",
+          "content": "Güzeloba mahallesindeki konut ve ticari alanlar için profesyonel çilingir çözümleri."
+        },
+        "ermenek-cilingir": {
+          "title": "Ermenek Çilingir",
+          "seoTitle": "Ermenek Çilingir | 7/24 Acil Lara Çilingir",
+          "seoDesc": "Ermenek mahallesinde hızlı ve güvenilir çilingir servisleri.",
+          "content": "Ermenek bölgesindeki tüm kilit sorunlarınız için 15 dakikada yanınızdayız."
+        },
+        "yenigol-cilingir": {
+          "title": "Yenigöl Çilingir",
+          "seoTitle": "Yenigöl Çilingir | Lara 7/24 Acil Servis",
+          "seoDesc": "Yenigöl mahallesinde profesyonel çilingir desteği.",
+          "content": "Yenigöl mahallesinde kapı açma ve kilit değişimi hizmetlerini en hızlı şekilde alabilirsiniz."
+        },
+        "guzelbag-cilingir": {
+          "title": "Güzelbağ Çilingir",
+          "seoTitle": "Güzelbağ Çilingir | Lara 7/24 Acil Servis",
+          "seoDesc": "Güzelbağ mahallesinde hızlı çilingir hizmeti.",
+          "content": "Güzelbağ bölgesinde acil çilingir ve kilit değişim hizmeti için bize ulaşın."
+        }
+      }
     },
     "kundu-cilingir": {
       "title": "Kundu Çilingir",
@@ -381,14 +477,14 @@
         "Çalkaya",
         "Altıntaş"
       ],
-      "availableServices": [
-        "Otel Kilit Sistemi",
-        "Oto Çilingir",
-        "Kapı Açma",
-        "Kepenk Kilidi",
-        "Güvenlik Danışmanlığı",
-        "Kasa Açma"
-      ]
+      "neighborhoodPages": {
+        "kundu-oteller-cilingir": {
+          "title": "Kundu Oteller Bölgesi Çilingir",
+          "seoTitle": "Kundu Oteller Bölgesi Çilingir | 7/24 Acil Servis",
+          "seoDesc": "Kundu oteller bölgesinde turistler ve işletmeler için hızlı çilingir çözümleri.",
+          "content": "Kundu oteller bölgesinde kilit sorunlarına profesyonel müdahale. 7/24 aktif servis."
+        }
+      }
     }
   },
   "Regions": {
