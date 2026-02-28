@@ -2,11 +2,12 @@
 
 export default function FloatingContact() {
   const trackClick = (type: 'whatsapp' | 'call') => {
-    if (typeof window !== 'undefined' && (window as any).dataLayer) {
-      (window as any).dataLayer.push({
-        event: 'contact_click',
-        contact_method: type,
-        location: 'floating_widget'
+    if (typeof window !== 'undefined' && (window as any).gtag) {
+      (window as any).gtag('event', 'contact_click', {
+        'contact_method': type,
+        'location': 'floating_widget',
+        'event_category': 'Engagement',
+        'event_label': type === 'whatsapp' ? 'WhatsApp Floating' : 'Call Floating'
       });
     }
   };

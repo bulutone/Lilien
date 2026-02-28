@@ -6,11 +6,12 @@ export default function Hero() {
   const t = useTranslations('Hero');
 
   const trackClick = (type: 'whatsapp' | 'call') => {
-    if (typeof window !== 'undefined' && (window as any).dataLayer) {
-      (window as any).dataLayer.push({
-        event: 'contact_click',
-        contact_method: type,
-        location: 'hero_section'
+    if (typeof window !== 'undefined' && (window as any).gtag) {
+      (window as any).gtag('event', 'contact_click', {
+        'contact_method': type,
+        'location': 'hero_section',
+        'event_category': 'Engagement',
+        'event_label': type === 'whatsapp' ? 'WhatsApp Hero' : 'Call Hero'
       });
     }
   };

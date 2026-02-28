@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Antalya Schlüsseldienst | 24/7 Notfall Türöffnung & Schlossaustausch",
-    "description": "Professioneller Schlüsseldienst in ganz Antalya. 24/7 Auto-Schlüsseldienst, Tresoröffnung, Wohn- und Gewerbeschlösser. Jetzt anrufen: +90 546 855 86 80"
+    "title": "Lara & Muratpaşa Schlüsseldienst | 24/7 Notfall Türöffnung",
+    "description": "Professioneller Schlüsseldienst in Lara, Muratpaşa und Kundu. 24/7 Auto-Schlüsseldienst, Tresoröffnung, Wohn- und Gewerbeschlösser. Jetzt anrufen: +90 546 855 86 80"
   },
   "Nav": {
     "services": "Dienstleistungen",
@@ -19,7 +19,7 @@
     "titleSuffix": "Service",
     "subtitle": "Notfall Türöffnung",
     "title": "Antalya Schlüsseldienst – 24/7 Notfall Türöffnung",
-    "desc": "Wir erreichen jeden Ort in Antalya innerhalb von 15 Minuten und bieten schnelle, sichere und professionelle Lösungen, wenn Sie ausgesperrt sind.",
+    "desc": "Wir erreichen Lara und Muratpaşa innerhalb von 15 Minuten und bieten schnelle, sichere und professionelle Lösungen, wenn Sie ausgesperrt sind.",
     "cta": "Jetzt Anrufen : +90 546 855 86 80",
     "whatsapp": "WhatsApp Nachricht"
   },
@@ -185,26 +185,29 @@
     "muratpasa-cilingir": {
       "title": "Muratpaşa Schlüsseldienst",
       "slug": "muratpasa-schlusseldienst",
-      "seoTitle": "Muratpaşa Schlüsseldienst | 24/7 Notfall",
-      "seoDesc": "Notfall-Schlüsseldienst in 15 Minuten in Antalya Muratpaşa.",
-      "shortDesc": "Schneller Service in Lara, Şirinyalı, Meydan, Fener.",
+      "shortDesc": "Schneller Service in Fener, Şirinyalı, Yeşilbahçe und Umgebung.",
       "responseTime": "~10 Min",
-      "longDesc": "Muratpaşa ist der zentrale Bezirk Antalyas und das geschäftigste und bevölkerungsreichste Gebiet der Stadt. Von der Lara-Küste bis zum historischen Kaleiçi, vom modernen Şirinyalı bis zum traditionellen Meydan-Viertel erstreckt es sich über ein weites Gebiet. Tausende von Wohnungen, Geschäften, Hotels und Fahrzeugbesitzern in Muratpaşa benötigen täglich zuverlässige Schließsysteme. Als Antalya Schlüsseldienst erreichen wir jedes Viertel in Muratpaşa innerhalb von durchschnittlich 10 Minuten und bieten rund um die Uhr Türöffnung, Schlossaustausch, Auto-Schlüsseldienst und Tresoröffnung an. Unser professionelles Team arbeitet mit Hochsicherheitsmarken wie Mul-T-Lock, Kale Kilit und Yale.",
+      "longDesc": "Die Stadtteile, die wir im Bezirk Muratpaşa bedienen, sind hauptsächlich die Region Lara. Wir bieten 24/7 ununterbrochenen Service in den Stadtteilen Fener, Şirinyalı, Yeşilbahçe, Gençlik, Güzeloluk, Kırcami, Meydankavağı, Tarım, Yeşilova, Topçular, Gebizli, Mehmetçik, Çağlayan, Ermenek, Güzelbağ, Güzeloba, Yenigöl und Demircikara. Als Antalya Schlüsseldienst erreichen wir diese Stadtteile in durchschnittlich 10 Minuten.",
       "neighborhoods": [
-        "Lara",
-        "Şirinyalı",
-        "Meydan",
         "Fener",
-        "Kaleiçi",
-        "Memurevleri",
-        "Güzeloba",
-        "Altıntaş",
-        "Kızıltoprak",
-        "Bahçelievler",
+        "Şirinyalı",
+        "Yeşilbahçe",
+        "Gençlik",
+        "Güzeloluk",
+        "Kırcami",
+        "Meydankavağı",
+        "Tarım",
+        "Yeşilova",
+        "Topçular",
+        "Gebizli",
+        "Mehmetçik",
         "Çağlayan",
-        "Yeşildere",
-        "Etiler",
-        "Tahılpazarı"
+        "Ermenek",
+        "Güzelbağ",
+        "Güzeloba",
+        "Yenigöl",
+        "Demircikara",
+        "Aksu Kundu"
       ],
       "availableServices": [
         "Türöffnung",
@@ -213,126 +216,6 @@
         "Tresoröffnung",
         "Zylinderwechsel",
         "Stahltürschloss"
-      ]
-    },
-    "kepez-cilingir": {
-      "title": "Kepez Schlüsseldienst",
-      "slug": "kepez-schlusseldienst",
-      "seoTitle": "Kepez Schlüsseldienst | 24/7 Schnelle Türöffnung",
-      "seoDesc": "Antalya Kepez 24/7 Notfall-Schlüsseldienst.",
-      "shortDesc": "Günstiger Schlüsseldienst in Dokuma, Masadağı, Varsak.",
-      "responseTime": "~12 Min",
-      "longDesc": "Kepez ist der bevölkerungsreichste Bezirk Antalyas mit Wohngebieten wie Dokuma, Varsak, Masadağı und Emek. Dichte Wohnsiedlungen, Industrieanlagen und Handelszentren prägen das Gebiet. Wir reagieren innerhalb von 12 Minuten auf Notfälle in Kepez. Stahltürschloss-Austausch, Wartung von Wohnanlagen-Eingangstüren und gewerbliche Rollladenschloss-Reparaturen gehören zu unseren gefragtesten Leistungen. Auch für die Kepez Industriezone bieten wir Firmenlösungen.",
-      "neighborhoods": [
-        "Dokuma",
-        "Varsak",
-        "Masadağı",
-        "Fabrikalar",
-        "Emek",
-        "Sütçüler",
-        "Göçerler",
-        "Düden",
-        "Santral",
-        "Teomanpaşa",
-        "Şafak",
-        "Ünsal",
-        "Gülveren"
-      ],
-      "availableServices": [
-        "Türöffnung",
-        "Schlossaustausch",
-        "Rollladenschloss",
-        "Auto-Schlüsseldienst",
-        "Torschloss",
-        "Industriesicherheit"
-      ]
-    },
-    "konyaalti-cilingir": {
-      "title": "Konyaaltı Schlüsseldienst",
-      "slug": "konyaalti-schlusseldienst",
-      "seoTitle": "Konyaaltı Schlüsseldienst | 24/7 Beschädigungsfreie Öffnung",
-      "seoDesc": "Sofortiger Schlüsseldienst in Konyaaltı, Hurma, Liman, Uncalı.",
-      "shortDesc": "Sofortiger Schlüsseldienst in Hurma, Liman, Uncalı.",
-      "responseTime": "~12 Min",
-      "longDesc": "Konyaaltı ist einer der beliebtesten Küstenbezirke Antalyas mit modernen Wohngebieten wie Hurma, Liman, Uncalı und Arapsuyu. Hochhäuser, Villen und Einkaufszentren ziehen Investoren an. Wir erreichen Konyaaltı in 12 Minuten. Villa-Türöffnung, Smart-Lock-Installation, Residenz-Eingangssystem-Wartung und Notfall-Türöffnung für ausländische Eigentümer sind unsere häufigsten Anfragen. Wir bieten Deutsch-, Englisch- und Russischsprachige Unterstützung.",
-      "neighborhoods": [
-        "Hurma",
-        "Liman",
-        "Uncalı",
-        "Sarısu",
-        "Arapsuyu",
-        "Altınkum",
-        "Siteler",
-        "Gürsu",
-        "Kuşkavağı",
-        "Çakırlar",
-        "Mollayusuf",
-        "Doyran"
-      ],
-      "availableServices": [
-        "Türöffnung",
-        "Smart-Lock",
-        "Villa-Schloss",
-        "Auto-Schlüsseldienst",
-        "Tresoröffnung",
-        "Residenz-System"
-      ]
-    },
-    "dosemealti-cilingir": {
-      "title": "Döşemealtı Schlüsseldienst",
-      "slug": "dosemealti-schlusseldienst",
-      "seoTitle": "Döşemealtı Schlüsseldienst | Wohn- & Auto-Service",
-      "seoDesc": "Schneller Schlüsseldienst in Döşemealtı. 24/7 Professionelles Team.",
-      "shortDesc": "Schnelle Reaktion in Industriezone und Yeniköy.",
-      "responseTime": "~15 Min",
-      "longDesc": "Döşemealtı liegt im Norden Antalyas inmitten der Natur. Es umfasst Wohngebiete wie Yeniköy, Çıplaklı, Nebiler und Kovanlık. Mit dem Wachstum der Industriezone hat auch der gewerbliche Schlüsseldienst-Bedarf zugenommen. Wir erreichen Döşemealtı in 15 Minuten. Häufige Anfragen: Einfamilienhaus-Türöffnung, Bauernhof-Schlossaustausch, Fabriktor-Reparatur und Auto-Schlüsseldienst.",
-      "neighborhoods": [
-        "Yeniköy",
-        "Çıplaklı",
-        "Nebiler",
-        "Kovanlık",
-        "Kömürcüler",
-        "Çığlık",
-        "Bahçeyaka",
-        "Karatepe",
-        "Ilıca",
-        "Altınova"
-      ],
-      "availableServices": [
-        "Türöffnung",
-        "Villa-Schloss",
-        "Rollladenschloss",
-        "Auto-Schlüsseldienst",
-        "Fabriksicherheit",
-        "Hoftor-Schloss"
-      ]
-    },
-    "aksu-cilingir": {
-      "title": "Aksu Schlüsseldienst",
-      "slug": "aksu-schlusseldienst",
-      "seoTitle": "Aksu Schlüsseldienst | Notfall Türöffnung",
-      "seoDesc": "Notfall-Schlüsseldienst für Aksu Kundu Hotelzone.",
-      "shortDesc": "Notfalldienst für Kundu Hotelzone und Macun.",
-      "responseTime": "~15 Min",
-      "longDesc": "Aksu liegt im Osten Antalyas und ist besonders für die Kundu-Tourismuszone bekannt. Fünf-Sterne-Hotels und Ferienanlagen sorgen für hohe Schlüsseldienst-Nachfrage. Wir erreichen Aksu in 15 Minuten. Hotel-Schlosssystem-Wartung, Ferienwohnung-Türöffnung, Auto-Schlüsseldienst und Sicherheitssysteminstallation sind unsere häufigsten Leistungen. Im Sommer bieten wir auch schnelle Lösungen für Touristen mit Hotelzimmer- oder Mietwagen-Schlüsselproblemen.",
-      "neighborhoods": [
-        "Kundu",
-        "Macun",
-        "Pınarbaşı",
-        "Karaöz",
-        "Çalkaya",
-        "Mandırlar",
-        "Kurşunlu",
-        "Fettahlı",
-        "Barutçu"
-      ],
-      "availableServices": [
-        "Hotel-Schlosssystem",
-        "Türöffnung",
-        "Auto-Schlüsseldienst",
-        "Torschloss",
-        "Sicherheitssystem",
-        "Tresoröffnung"
       ]
     },
     "lara-cilingir": {
@@ -383,33 +266,6 @@
         "Rollladenschloss",
         "Sicherheitsberatung",
         "Tresoröffnung"
-      ]
-    },
-    "kemer-cilingir": {
-      "title": "Kemer Schlüsseldienst",
-      "slug": "kemer-schlusseldienst",
-      "seoTitle": "Kemer Schlüsseldienst | 24/7 Beldibi, Göynük",
-      "seoDesc": "Professioneller Schlüsseldienst in der Region Kemer.",
-      "shortDesc": "Professioneller Schlüsseldienst in Beldibi, Göynük, Kemer.",
-      "responseTime": "~20 Min",
-      "longDesc": "Kemer ist ein berühmter Tourismusbezirk westlich von Antalya mit Ferienorten wie Beldibi, Göynük, Kiriş, Çamyuva und Tekirova. Wir erreichen Kemer in 20 Minuten. Hotel- und Resort-Schlosssystem-Wartung, Villa-Türöffnung, Boot- und Yacht-Schlosslösungen sowie Auto-Schlüsseldienst gehören zu unserem Angebot. Wir positionieren ein dediziertes Team für Kemer während der Tourismussaison.",
-      "neighborhoods": [
-        "Beldibi",
-        "Göynük",
-        "Kemer-Zentrum",
-        "Kiriş",
-        "Çamyuva",
-        "Tekirova",
-        "Arslanbucak",
-        "Kuzdere"
-      ],
-      "availableServices": [
-        "Hotel-Schlosssystem",
-        "Villa-Türöffnung",
-        "Auto-Schlüsseldienst",
-        "Boot-Schlosslösung",
-        "Türöffnung",
-        "Master-Schlosssystem"
       ]
     }
   },
@@ -485,18 +341,13 @@
   },
   "Regions": {
     "title": "Servicegebiete",
-    "subtitle": "Wir erreichen jeden Ort in Antalya in 15 Minuten",
+    "subtitle": "Wir erreichen Lara und Muratpaşa in 15 Minuten",
     "areas": [
       "Muratpaşa",
-      "Kepez",
-      "Konyaaltı",
-      "Döşemealtı",
-      "Aksu",
       "Lara",
-      "Kundu",
-      "Kemer"
+      "Kundu"
     ],
-    "ctaText": "Brauchen Sie einen Notfall-Schlüsseldienst? Rufen Sie jetzt an, wir sind in Minuten da!",
+    "ctaText": "Brauchen Sie einen Notfall-Schlüsseldienst in Lara? Rufen Sie jetzt an, wir sind in Minuten da!",
     "ctaBtn": "+90 546 855 86 80"
   },
   "WhyUs": {
@@ -575,7 +426,7 @@
       },
       {
         "q": "Welche Gebiete bedienen Sie?",
-        "a": "Wir bedienen alle zentralen Bezirke von Antalya: Muratpaşa, Kepez, Konyaaltı, Döşemealtı, Aksu, Lara, Kundu und Kemer."
+        "a": "Wir bedienen hauptsächlich die Region Lara und alle Stadtteile des Bezirks Muratpaşa sowie die Region Aksu Kundu."
       }
     ]
   },

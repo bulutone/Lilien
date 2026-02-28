@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Antalya Çilingirci | 7/24 Acil Kapı Açma ve Kilit Değişimi",
-    "description": "Antalya genelinde profesyonel çilingir hizmeti. 7/24 oto çilingir, kasa açma, konut ve ticari kilit sistemleri. Hemen arayın: 0 546 855 86 80"
+    "title": "Lara & Muratpaşa Çilingir | 7/24 Acil Kapı Açma",
+    "description": "Lara, Muratpaşa ve Kundu bölgelerinde profesyonel çilingir hizmeti. 7/24 oto çilingir, kasa açma, konut ve ticari kilit sistemleri. Hemen arayın: 0 546 855 86 80"
   },
   "Nav": {
     "services": "Hizmetlerimiz",
@@ -19,7 +19,7 @@
     "titleSuffix": "Hizmeti",
     "subtitle": "Acil Kapı Açma",
     "title": "Antalya Çilingir Hizmeti – 7/24 Acil Kapı Açma",
-    "desc": "Antalya'nın her yerine 15 dakikada ulaşıyor, kapıda kalma derdinize hızlı, güvenli ve profesyonel çözümler üretiyoruz.",
+    "desc": "Lara ve Muratpaşa bölgelerine 15 dakikada ulaşıyor, kapıda kalma derdinize hızlı, güvenli ve profesyonel çözümler üretiyoruz.",
     "cta": "Hemen Ara : 0 546 855 86 80",
     "whatsapp": "WhatsApp'tan Yaz"
   },
@@ -185,26 +185,31 @@
     "muratpasa-cilingir": {
       "title": "Muratpaşa Çilingir",
       "slug": "muratpasa-cilingir",
-      "shortDesc": "Lara, Şirinyalı, Meydan ve Fener mahallelerinde hızlı çilingir hizmeti.",
+      "shortDesc": "Fener, Şirinyalı, Yeşilbahçe, Gençlik, Güzeloluk ve çevre mahallelerde 7/24 hızlı çilingir.",
       "responseTime": "~10 dk",
-      "seoTitle": "Muratpaşa Çilingir | 7/24 Acil En Yakın Çilingir",
-      "seoDesc": "Antalya Muratpaşa geneli 15 dakikada acil çilingir hizmeti. Lara, Şirinyalı, Meydan, Fener mahallelerinde 7/24 oto ve kapı çilingiri.",
-      "longDesc": "Antalya'nın merkez ilçesi Muratpaşa, şehrin en kalabalık ve en hareketli bölgesidir. Lara sahil şeridinden eski Kaleiçi'ne, modern Şirinyalı'dan tarihi Meydan bölgesine kadar geniş bir alanı kapsar. Muratpaşa bölgesinde binlerce konut, iş yeri, otel ve araç sahibi her gün güvenli kilit sistemlerine ihtiyaç duyar. Antalya Çilingirci olarak Muratpaşa'nın her mahallesine ortalama 10 dakikada ulaşıyor, 7/24 kapı açma, kilit değişimi, oto çilingir ve kasa açma hizmetleri sunuyoruz. Muratpaşa'da en sık karşılaştığımız çilingir ihtiyaçları arasında apartman kapısı açma, çelik kapı kilit değişimi, oto immobilizer programlama ve çelik kasa şifre sıfırlama yer almaktadır. Bölgedeki yoğun turizm faaliyetleri nedeniyle otel ve pansiyon kilit sistemleri bakımı da sıkça talep edilmektedir. Profesyonel ekibimiz Mul-T-Lock, Kale Kilit ve Yale gibi yüksek güvenlikli marka ürünlerle çalışarak evinizin ve iş yerinizin güvenliğini en üst seviyeye çıkarmaktadır.",
+      "seoTitle": "Muratpaşa Çilingir | 7/24 Acil Lara En Yakın Çilingir",
+      "seoDesc": "Muratpaşa ve Lara geneli 15 dakikada acil çilingir hizmeti. Fener, Şirinyalı, Yeşilbahçe mahallelerinde 7/24 oto ve kapı çilingiri.",
+      "longDesc": "Muratpaşa ilçesine bağlı hizmet verdiğimiz mahalleler ağırlıklı Lara bölgesidir. Fener, Şirinyalı, Yeşilbahçe, Gençlik, Güzeloluk, Kırcami, Meydankavağı, Tarım, Yeşilova, Topçular, Gebizli, Mehmetçik, Çağlayan, Ermenek, Güzelbağ, Güzeloba, Yenigöl, Demircikara mahallelerinde 7/24 kesintisiz hizmet sunuyoruz. Muratpaşa ve Lara bölgesinde binlerce konut, iş yeri, otel ve araç sahibi her gün güvenli kilit sistemlerine ihtiyaç duyar. Antalya Çilingirci olarak bu mahallelere ortalama 10 dakikada ulaşıyor, 7/24 kapı açma, kilit değişimi, oto çilingir ve kasa açma hizmetleri sunuyoruz.",
       "neighborhoods": [
-        "Lara",
-        "Şirinyalı",
-        "Meydan",
         "Fener",
-        "Kaleiçi",
-        "Memurevleri",
-        "Güzeloba",
-        "Altıntaş",
-        "Kızıltoprak",
-        "Bahçelievler",
+        "Şirinyalı",
+        "Yeşilbahçe",
+        "Gençlik",
+        "Güzeloluk",
+        "Kırcami",
+        "Meydankavağı",
+        "Tarım",
+        "Yeşilova",
+        "Topçular",
+        "Gebizli",
+        "Mehmetçik",
         "Çağlayan",
-        "Yeşildere",
-        "Etiler",
-        "Tahılpazarı"
+        "Ermenek",
+        "Güzelbağ",
+        "Güzeloba",
+        "Yenigöl",
+        "Demircikara",
+        "Aksu Kundu"
       ],
       "availableServices": [
         "Kapı Açma",
@@ -384,49 +389,17 @@
         "Güvenlik Danışmanlığı",
         "Kasa Açma"
       ]
-    },
-    "kemer-cilingir": {
-      "title": "Kemer Çilingir",
-      "slug": "kemer-cilingir",
-      "shortDesc": "Beldibi, Göynük ve Kemer merkezde profesyonel çilingir desteği.",
-      "responseTime": "~20 dk",
-      "seoTitle": "Kemer Çilingir | 7/24 Beldibi, Göynük Çilingir",
-      "seoDesc": "Antalya Kemer bölgesi için profesyonel çilingir desteği.",
-      "longDesc": "Kemer, Antalya'nın batısında yer alan ünlü turizm ilçesidir. Beldibi, Göynük, Kemer Merkez, Kiriş, Çamyuva ve Tekirova gibi tatil beldelerini kapsar. Toros Dağları'nın denizle buluştuğu eşsiz coğrafyasıyla her yıl milyonlarca turisti ağırlayan Kemer, çilingir hizmeti açısından özel lojistik gerektirir. Antalya Çilingirci olarak Kemer bölgesine ortalama 20 dakikada ulaşıyoruz. Kemer'de otel ve tatil köyü kilit sistemleri bakımı, villa ve yazlık ev kapısı açma, tekne ve yat kilit çözümleri, araç kapısı açma hizmetleri sunuyoruz. Özellikle Beldibi ve Göynük'teki tatil komplekslerinin master kilit ve kartlı giriş sistemi bakım ihtiyaçlarını karşılıyoruz. Turizm sezonu boyunca artan talebe cevap verebilmek için Kemer'e özel ekip konumlandırıyoruz.",
-      "neighborhoods": [
-        "Beldibi",
-        "Göynük",
-        "Kemer Merkez",
-        "Kiriş",
-        "Çamyuva",
-        "Tekirova",
-        "Arslanbucak",
-        "Kuzdere"
-      ],
-      "availableServices": [
-        "Otel Kilit Sistemi",
-        "Villa Kapısı Açma",
-        "Oto Çilingir",
-        "Tekne Kilit Çözümü",
-        "Kapı Açma",
-        "Master Kilit Sistemi"
-      ]
     }
   },
   "Regions": {
     "title": "Hizmet Bölgelerimiz",
-    "subtitle": "Antalya'nın her yerine 15 dakikada ulaşıyoruz",
-    "ctaText": "Bölgenizde acil çilingir mi lazım? Hemen arayın, dakikalar içinde kapınızda olalım!",
+    "subtitle": "Lara ve Muratpaşa bölgelerine 15 dakikada ulaşıyoruz",
+    "ctaText": "Lara bölgesinde acil çilingir mi lazım? Hemen arayın, dakikalar içinde kapınızda olalım!",
     "ctaBtn": "0 546 855 86 80",
     "areas": [
       "Muratpaşa",
-      "Kepez",
-      "Konyaaltı",
-      "Döşemealtı",
-      "Aksu",
       "Lara",
-      "Kundu",
-      "Kemer"
+      "Kundu"
     ]
   },
   "Services": {
@@ -575,7 +548,7 @@
       },
       {
         "q": "Hangi bölgelere hizmet veriyorsunuz?",
-        "a": "Antalya'nın tüm merkez ilçelerine hizmet veriyoruz: Muratpaşa, Kepez, Konyaaltı, Döşemealtı, Aksu, Lara, Kundu ve Kemer."
+        "a": "Başta Lara bölgesi olmak üzere Muratpaşa ilçesinin tüm mahallelerine ve Aksu Kundu bölgesine hizmet veriyoruz."
       }
     ]
   },

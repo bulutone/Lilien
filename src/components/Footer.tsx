@@ -8,6 +8,16 @@ export default function Footer() {
   const t = useTranslations('Contact');
   const tNav = useTranslations('Nav');
 
+  const trackEvent = (action: string, label: string) => {
+    if (typeof window !== 'undefined' && (window as any).gtag) {
+      (window as any).gtag('event', action, {
+        'event_category': 'Engagement',
+        'event_label': label,
+        'location': 'footer'
+      });
+    }
+  };
+
   return (
     <footer id="contact" className="footer">
       <div className="container">
@@ -34,7 +44,7 @@ export default function Footer() {
                 </div>
                 <div>
                   <span className="contact-label">{t('callNow')}</span>
-                  <a href="tel:+905468558680" className="contact-value">{t('phone')}</a>
+                  <a href="tel:+905468558680" className="contact-value" onClick={() => trackEvent('call_click', 'Footer Call')}>{t('phone')}</a>
                 </div>
               </li>
               <li>
@@ -43,7 +53,7 @@ export default function Footer() {
                 </div>
                 <div>
                   <span className="contact-label">{t('email')}</span>
-                  <a href={`mailto:${t('emailAddress')}`} className="contact-value">{t('emailAddress')}</a>
+                  <a href={`mailto:${t('emailAddress')}`} className="contact-value" onClick={() => trackEvent('email_click', 'Footer Email')}>{t('emailAddress')}</a>
                 </div>
               </li>
             </ul>
@@ -52,9 +62,9 @@ export default function Footer() {
           <div className="footer-nav">
             <h3>{tNav('quickLinks')}</h3>
             <ul>
-              <li><a href="#services">{tNav('services')}</a></li>
-              <li><a href="#about">{tNav('about')}</a></li>
-              <li><a href="#why-us">{tNav('whyUs')}</a></li>
+              <li><a href="#services" onClick={() => trackEvent('nav_click', 'Footer Services')}>{tNav('services')}</a></li>
+              <li><a href="#about" onClick={() => trackEvent('nav_click', 'Footer About')}>{tNav('about')}</a></li>
+              <li><a href="#why-us" onClick={() => trackEvent('nav_click', 'Footer Why Us')}>{tNav('whyUs')}</a></li>
             </ul>
           </div>
         </div>

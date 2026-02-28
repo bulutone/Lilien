@@ -13,28 +13,20 @@ const servicesSlugs: Record<string, Record<string, string>> = {
 
 const regionsSlugs: Record<string, Record<string, string>> = {
     tr: {
-        'muratpasa': 'muratpasa-cilingir', 'kepez': 'kepez-cilingir',
-        'konyaalti': 'konyaalti-cilingir', 'dosemealti': 'dosemealti-cilingir',
-        'aksu': 'aksu-cilingir', 'lara': 'lara-cilingir',
-        'kundu': 'kundu-cilingir', 'kemer': 'kemer-cilingir'
+        'muratpasa': 'muratpasa-cilingir', 'lara': 'lara-cilingir',
+        'kundu': 'kundu-cilingir'
     },
     en: {
-        'muratpasa': 'muratpasa-locksmith', 'kepez': 'kepez-locksmith',
-        'konyaalti': 'konyaalti-locksmith', 'dosemealti': 'dosemealti-locksmith',
-        'aksu': 'aksu-locksmith', 'lara': 'lara-locksmith',
-        'kundu': 'kundu-locksmith', 'kemer': 'kemer-locksmith'
+        'muratpasa': 'muratpasa-locksmith', 'lara': 'lara-locksmith',
+        'kundu': 'kundu-locksmith'
     },
     de: {
-        'muratpasa': 'muratpasa-schlusseldienst', 'kepez': 'kepez-schlusseldienst',
-        'konyaalti': 'konyaalti-schlusseldienst', 'dosemealti': 'dosemealti-schlusseldienst',
-        'aksu': 'aksu-schlusseldienst', 'lara': 'lara-schlusseldienst',
-        'kundu': 'kundu-schlusseldienst', 'kemer': 'kemer-schlusseldienst'
+        'muratpasa': 'muratpasa-schlusseldienst', 'lara': 'lara-schlusseldienst',
+        'kundu': 'kundu-schlusseldienst'
     },
     ru: {
-        'muratpasa': 'slesar-muratpasha', 'kepez': 'slesar-kepez',
-        'konyaalti': 'slesar-konyaalti', 'dosemealti': 'slesar-dosemealti',
-        'aksu': 'slesar-aksu', 'lara': 'slesar-lara',
-        'kundu': 'slesar-kundu', 'kemer': 'slesar-kemer'
+        'muratpasa': 'slesar-muratpasha', 'lara': 'slesar-lara',
+        'kundu': 'slesar-kundu'
     }
 };
 

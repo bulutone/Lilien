@@ -134,13 +134,8 @@ export default async function LocaleLayout({
         "areaServed": [
             { "@type": "City", "name": "Antalya" },
             { "@type": "AdministrativeArea", "name": "Muratpaşa" },
-            { "@type": "AdministrativeArea", "name": "Kepez" },
-            { "@type": "AdministrativeArea", "name": "Konyaaltı" },
-            { "@type": "AdministrativeArea", "name": "Döşemealtı" },
-            { "@type": "AdministrativeArea", "name": "Aksu" },
             { "@type": "AdministrativeArea", "name": "Lara" },
-            { "@type": "AdministrativeArea", "name": "Kundu" },
-            { "@type": "AdministrativeArea", "name": "Kemer" }
+            { "@type": "AdministrativeArea", "name": "Kundu" }
         ],
         "hasOfferCatalog": {
             "@type": "OfferCatalog",
@@ -244,6 +239,17 @@ export default async function LocaleLayout({
             j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
             })(window,document,'script','dataLayer','GTM-NDH3RT36');
+          `}
+                </Script>
+
+                {/* Google tag (gtag.js) */}
+                <Script async src="https://www.googletagmanager.com/gtag/js?id=G-SLJ216CJPH" strategy="afterInteractive" />
+                <Script id="google-tag" strategy="afterInteractive">
+                    {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-SLJ216CJPH');
           `}
                 </Script>
             </head>

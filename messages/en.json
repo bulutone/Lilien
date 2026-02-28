@@ -1,7 +1,7 @@
 {
   "Metadata": {
-    "title": "Antalya Locksmith | 24/7 Emergency Door Opening & Lock Change",
-    "description": "Professional locksmith service across Antalya. 24/7 auto locksmith, safe opening, residential and commercial locks. Call now: +90 546 855 86 80"
+    "title": "Lara & Muratpaşa Locksmith | 24/7 Emergency Door Opening",
+    "description": "Professional locksmith service in Lara, Muratpaşa and Kundu. 24/7 auto locksmith, safe opening, residential and commercial locks. Call now: +90 546 855 86 80"
   },
   "Nav": {
     "services": "Our Services",
@@ -19,7 +19,7 @@
     "titleSuffix": "Service",
     "subtitle": "Emergency Door Opening",
     "title": "Antalya Locksmith Service – 24/7 Emergency Door Opening",
-    "desc": "We reach anywhere in Antalya within 15 minutes, providing fast, secure and professional solutions when you're locked out.",
+    "desc": "We reach Lara and Muratpaşa areas within 15 minutes, providing fast, secure and professional solutions when you're locked out.",
     "cta": "Call Now : +90 546 855 86 80",
     "whatsapp": "Message on WhatsApp"
   },
@@ -185,26 +185,29 @@
     "muratpasa-cilingir": {
       "title": "Muratpaşa Locksmith",
       "slug": "muratpasa-locksmith",
-      "seoTitle": "Muratpaşa Locksmith | 24/7 Urgent Nearest Locksmith",
-      "seoDesc": "Emergency locksmith service within 15 minutes across Antalya Muratpaşa.",
-      "shortDesc": "Fast service in Lara, Şirinyalı, Meydan, Fener neighborhoods.",
+      "shortDesc": "Fast service in Fener, Şirinyalı, Yeşilbahçe and surrounding neighborhoods.",
       "responseTime": "~10 min",
-      "longDesc": "Muratpaşa is Antalya's central district and the city's busiest and most populated area. It spans from the Lara coastline to historic Kaleiçi, from modern Şirinyalı to the traditional Meydan area. Thousands of residences, businesses, hotels, and vehicle owners in Muratpaşa require reliable lock systems every day. As Antalya Locksmith, we reach every neighborhood in Muratpaşa within an average of 10 minutes, offering 24/7 door opening, lock replacement, auto locksmith, and safe opening services. The most common locksmith needs we encounter in Muratpaşa include apartment door opening, steel door lock replacement, auto immobilizer programming, and steel safe password reset. Due to the intensive tourism activities in the area, hotel and guesthouse lock system maintenance is also frequently requested. Our professional team works with high-security brands such as Mul-T-Lock, Kale Kilit, and Yale to maximize the security of your home and workplace.",
+      "longDesc": "The neighborhoods we serve in Muratpaşa district are mainly the Lara region. We provide 24/7 uninterrupted service in Fener, Şirinyalı, Yeşilbahçe, Gençlik, Güzeloluk, Kırcami, Meydankavağı, Tarım, Yeşilova, Topçular, Gebizli, Mehmetçik, Çağlayan, Ermenek, Güzelbağ, Güzeloba, Yenigöl and Demircikara neighborhoods. As Antalya Locksmith, we reach these neighborhoods in an average of 10 minutes.",
       "neighborhoods": [
-        "Lara",
-        "Şirinyalı",
-        "Meydan",
         "Fener",
-        "Kaleiçi",
-        "Memurevleri",
-        "Güzeloba",
-        "Altıntaş",
-        "Kızıltoprak",
-        "Bahçelievler",
+        "Şirinyalı",
+        "Yeşilbahçe",
+        "Gençlik",
+        "Güzeloluk",
+        "Kırcami",
+        "Meydankavağı",
+        "Tarım",
+        "Yeşilova",
+        "Topçular",
+        "Gebizli",
+        "Mehmetçik",
         "Çağlayan",
-        "Yeşildere",
-        "Etiler",
-        "Tahılpazarı"
+        "Ermenek",
+        "Güzelbağ",
+        "Güzeloba",
+        "Yenigöl",
+        "Demircikara",
+        "Aksu Kundu"
       ],
       "availableServices": [
         "Door Opening",
@@ -213,126 +216,6 @@
         "Safe Opening",
         "Cylinder Replacement",
         "Steel Door Lock"
-      ]
-    },
-    "kepez-cilingir": {
-      "title": "Kepez Locksmith",
-      "slug": "kepez-locksmith",
-      "seoTitle": "Kepez Locksmith | 24/7 Fast & Quality Door Opening",
-      "seoDesc": "Antalya Kepez 24/7 emergency locksmith.",
-      "shortDesc": "Affordable professional locksmith in Dokuma, Masadağı, Varsak.",
-      "responseTime": "~12 min",
-      "longDesc": "Kepez is Antalya's largest district by population. It hosts extensive residential areas such as Dokuma, Varsak, Masadağı, Fabrikalar, and Emek. The area features dense housing complexes, industrial facilities, and commercial centers. As Antalya Locksmith, we respond to Kepez within an average of 12 minutes. Particularly in Kepez's mass housing areas, steel door lock replacement and cylinder changes, residential complex gate lock maintenance, and commercial shutter lock repair are among our most requested services. Even at midnight or on public holidays, our 24/7 emergency locksmith service reaches every point in Kepez, guaranteeing fast and damage-free door opening. We also provide corporate solutions for the lock and security system needs of factories and workshops in the Kepez Organized Industrial Zone.",
-      "neighborhoods": [
-        "Dokuma",
-        "Varsak",
-        "Masadağı",
-        "Fabrikalar",
-        "Emek",
-        "Sütçüler",
-        "Göçerler",
-        "Düden",
-        "Santral",
-        "Teomanpaşa",
-        "Şafak",
-        "Ünsal",
-        "Gülveren"
-      ],
-      "availableServices": [
-        "Door Opening",
-        "Lock Replacement",
-        "Shutter Lock",
-        "Auto Locksmith",
-        "Gate Lock",
-        "Industrial Security System"
-      ]
-    },
-    "konyaalti-cilingir": {
-      "title": "Konyaaltı Locksmith",
-      "slug": "konyaalti-locksmith",
-      "seoTitle": "Konyaaltı Locksmith | 24/7 Damage-Free Door & Auto Opening",
-      "seoDesc": "Instant locksmith service in Konyaaltı, Hurma, Liman, Uncalı.",
-      "shortDesc": "Instant locksmith service in Hurma, Liman, Uncalı.",
-      "responseTime": "~12 min",
-      "longDesc": "Konyaaltı is one of Antalya's most popular coastal districts. It is known for modern residential areas like Hurma, Liman, Uncalı, Sarısu, and Arapsuyu. Konyaaltı has been rapidly growing in recent years with high-rise residences, villas, and commercial centers attracting both local and foreign investors. As Antalya Locksmith, we reach the Konyaaltı area within an average of 12 minutes. The most common locksmith requests we receive in Konyaaltı include villa door opening, smart lock installation, residence entry system maintenance, and emergency door opening for foreign property owners. Hotel and apart-hotel lock system maintenance in the Konyaaltı coastal area is also within our service scope. We provide English, German, and Russian support for foreign citizens living in the area.",
-      "neighborhoods": [
-        "Hurma",
-        "Liman",
-        "Uncalı",
-        "Sarısu",
-        "Arapsuyu",
-        "Altınkum",
-        "Siteler",
-        "Gürsu",
-        "Kuşkavağı",
-        "Çakırlar",
-        "Mollayusuf",
-        "Doyran"
-      ],
-      "availableServices": [
-        "Door Opening",
-        "Smart Lock Installation",
-        "Villa Door Lock",
-        "Auto Locksmith",
-        "Safe Opening",
-        "Residence Entry System"
-      ]
-    },
-    "dosemealti-cilingir": {
-      "title": "Döşemealtı Locksmith",
-      "slug": "dosemealti-locksmith",
-      "seoTitle": "Döşemealtı Locksmith | Yeniköy Home & Auto Locksmith",
-      "seoDesc": "Fast locksmith service in Döşemealtı. 24/7 professional team.",
-      "shortDesc": "Quick response to industrial zone and Yeniköy.",
-      "responseTime": "~15 min",
-      "longDesc": "Döşemealtı is a district in the north of Antalya, nestled in nature. It houses both rural and urban residential areas such as Yeniköy, Çıplaklı, Nebiler, Kovanlık, and Kömürcüler. With the growth of the Döşemealtı Organized Industrial Zone in recent years, commercial locksmith needs have also increased. As Antalya Locksmith, we respond to the Döşemealtı area within an average of 15 minutes. The most common needs we encounter include detached house and villa door opening, farmhouse lock replacement, factory door and shutter lock repair, and vehicle door opening services. Despite the district's scattered layout, our motorcycle service team can reach even the most remote neighborhoods in a short time.",
-      "neighborhoods": [
-        "Yeniköy",
-        "Çıplaklı",
-        "Nebiler",
-        "Kovanlık",
-        "Kömürcüler",
-        "Çığlık",
-        "Bahçeyaka",
-        "Karatepe",
-        "Ilıca",
-        "Altınova"
-      ],
-      "availableServices": [
-        "Door Opening",
-        "Villa Lock",
-        "Shutter Lock",
-        "Auto Locksmith",
-        "Factory Security System",
-        "Farm Gate Lock"
-      ]
-    },
-    "aksu-cilingir": {
-      "title": "Aksu Locksmith",
-      "slug": "aksu-locksmith",
-      "seoTitle": "Aksu Locksmith | Lara Kundu Emergency Door Opening",
-      "seoDesc": "Emergency locksmith for Aksu Kundu hotels zone.",
-      "shortDesc": "Emergency support for Kundu hotels zone and Macun.",
-      "responseTime": "~15 min",
-      "longDesc": "Aksu is a district located in the east of Antalya, particularly known for the Kundu tourism zone. Famous for its five-star hotels, holiday resorts, and summer residential complexes, Aksu receives high locksmith demand especially during the tourism season. As Antalya Locksmith, we reach the Aksu area within an average of 15 minutes. In Aksu, hotel and resort room lock system maintenance, summer residential complex gate opening, vehicle door opening, and security system installation are among our most frequently provided services. We also offer residential locksmith services in areas like Macun, Pınarbaşı, and Karaöz. During the summer season, we provide quick solutions for hotel room and rental car key issues frequently experienced by tourists.",
-      "neighborhoods": [
-        "Kundu",
-        "Macun",
-        "Pınarbaşı",
-        "Karaöz",
-        "Çalkaya",
-        "Mandırlar",
-        "Kurşunlu",
-        "Fettahlı",
-        "Barutçu"
-      ],
-      "availableServices": [
-        "Hotel Lock System",
-        "Door Opening",
-        "Auto Locksmith",
-        "Gate Lock",
-        "Security System",
-        "Safe Opening"
       ]
     },
     "lara-cilingir": {
@@ -383,33 +266,6 @@
         "Shutter Lock",
         "Security Consulting",
         "Safe Opening"
-      ]
-    },
-    "kemer-cilingir": {
-      "title": "Kemer Locksmith",
-      "slug": "kemer-locksmith",
-      "seoTitle": "Kemer Locksmith | 24/7 Beldibi, Göynük Locksmith",
-      "seoDesc": "Professional locksmith support in Kemer.",
-      "shortDesc": "Professional locksmith in Beldibi, Göynük, and Kemer center.",
-      "responseTime": "~20 min",
-      "longDesc": "Kemer is a famous tourism district located west of Antalya. It covers resort towns such as Beldibi, Göynük, Kemer Center, Kiriş, Çamyuva, and Tekirova. With its unique geography where the Taurus Mountains meet the sea, Kemer hosts millions of tourists every year, requiring special logistics for locksmith services. As Antalya Locksmith, we reach the Kemer area within an average of 20 minutes. In Kemer, we offer hotel and resort lock system maintenance, villa and summer house door opening, boat and yacht lock solutions, and vehicle door opening services. We especially cater to the master lock and card entry system maintenance needs of holiday complexes in Beldibi and Göynük. We position a dedicated team for Kemer throughout the tourism season to meet the increased demand.",
-      "neighborhoods": [
-        "Beldibi",
-        "Göynük",
-        "Kemer Center",
-        "Kiriş",
-        "Çamyuva",
-        "Tekirova",
-        "Arslanbucak",
-        "Kuzdere"
-      ],
-      "availableServices": [
-        "Hotel Lock System",
-        "Villa Door Opening",
-        "Auto Locksmith",
-        "Boat Lock Solution",
-        "Door Opening",
-        "Master Lock System"
       ]
     }
   },
@@ -485,18 +341,13 @@
   },
   "Regions": {
     "title": "Service Areas",
-    "subtitle": "We reach anywhere in Antalya in 15 minutes",
+    "subtitle": "We reach Lara and Muratpaşa in 15 minutes",
     "areas": [
       "Muratpaşa",
-      "Kepez",
-      "Konyaaltı",
-      "Döşemealtı",
-      "Aksu",
       "Lara",
-      "Kundu",
-      "Kemer"
+      "Kundu"
     ],
-    "ctaText": "Need an emergency locksmith in your area? Call now, we will be at your door in minutes!",
+    "ctaText": "Need an emergency locksmith in Lara? Call now, we will be at your door in minutes!",
     "ctaBtn": "+90 546 855 86 80"
   },
   "WhyUs": {
@@ -575,7 +426,7 @@
       },
       {
         "q": "Which areas do you serve?",
-        "a": "We serve all central districts of Antalya: Muratpaşa, Kepez, Konyaaltı, Döşemealtı, Aksu, Lara, Kundu, and Kemer."
+        "a": "We mainly serve the Lara region and all neighborhoods of Muratpaşa district, as well as the Aksu Kundu region."
       }
     ]
   },

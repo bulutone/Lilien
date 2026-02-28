@@ -32,6 +32,16 @@ export default function Services() {
     }
   ];
 
+  const trackEvent = (action: string, label: string) => {
+    if (typeof window !== 'undefined' && (window as any).gtag) {
+      (window as any).gtag('event', action, {
+        'event_category': 'Engagement',
+        'event_label': label,
+        'location': 'services_section'
+      });
+    }
+  };
+
   return (
     <section id="services" className="section bg-light">
       <div className="container">
@@ -59,7 +69,11 @@ export default function Services() {
                 ))}
               </ul>
               <div style={{ marginTop: '2rem', textAlign: 'center' }}>
-                <Link href={`/hizmetler/${tData(`${service.slugKey}.slug` as any)}`} className="btn btn-secondary" style={{ display: 'inline-block', width: '100%' }}>
+                <Link href={`/hizmetler/${tData(`${service.slugKey}.slug` as any)}`}
+                  className="btn btn-secondary"
+                  style={{ display: 'inline-block', width: '100%' }}
+                  onClick={() => trackEvent('service_click', t(`${service.id}.title` as any))}
+                >
                   {tNav('details')}
                 </Link>
               </div>

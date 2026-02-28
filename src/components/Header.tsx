@@ -11,6 +11,16 @@ export default function Header() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
+  const trackEvent = (action: string, label: string) => {
+    if (typeof window !== 'undefined' && (window as any).gtag) {
+      (window as any).gtag('event', action, {
+        'event_category': 'Navigation',
+        'event_label': label,
+        'location': 'header'
+      });
+    }
+  };
+
   useEffect(() => {
     const handleScroll = () => {
       setIsScrolled(window.scrollY > 10);
@@ -27,16 +37,16 @@ export default function Header() {
         </Link>
 
         <nav className={`nav-links ${isMobileMenuOpen ? 'open' : ''}`}>
-          <a href="#services" onClick={() => setIsMobileMenuOpen(false)}>
+          <a href="#services" onClick={() => { setIsMobileMenuOpen(false); trackEvent('nav_click', 'Services'); }}>
             {t('services')}
           </a>
-          <a href="#about" onClick={() => setIsMobileMenuOpen(false)}>
+          <a href="#about" onClick={() => { setIsMobileMenuOpen(false); trackEvent('nav_click', 'About'); }}>
             {t('about')}
           </a>
-          <a href="#why-us" onClick={() => setIsMobileMenuOpen(false)}>
+          <a href="#why-us" onClick={() => { setIsMobileMenuOpen(false); trackEvent('nav_click', 'Why Us'); }}>
             {t('whyUs')}
           </a>
-          <a href="#contact" onClick={() => setIsMobileMenuOpen(false)}>
+          <a href="#contact" onClick={() => { setIsMobileMenuOpen(false); trackEvent('nav_click', 'Contact'); }}>
             {t('contact')}
           </a>
           <div className="mobile-only-lang">
@@ -48,7 +58,7 @@ export default function Header() {
           <div className="desktop-only-lang">
             <LanguageSwitcher />
           </div>
-          <a href="tel:+905468558680" className="btn btn-primary btn-sm header-cta">
+          <a href="tel:+905468558680" className="btn btn-primary btn-sm header-cta" onClick={() => trackEvent('call_click', 'Header Call')}>
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
             <span>0 546 855 86 80</span>
           </a>
