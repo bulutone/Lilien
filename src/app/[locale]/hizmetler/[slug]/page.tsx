@@ -59,7 +59,7 @@ export default async function ServicePage({ params }: any) {
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path></svg>
                             <span>Antalya</span>
                         </div>
-                        <h1 style={{ fontSize: 'clamp(2rem, 4vw, 3rem)', fontWeight: 800, lineHeight: 1.2, marginBottom: '1rem' }}>{title}</h1>
+                        <h1 style={{ fontSize: 'clamp(2rem, 4vw, 3rem)', fontWeight: 800, lineHeight: 1.2, marginBottom: '1rem', color: 'white' }}>{title}</h1>
                         <p style={{ fontSize: '1.15rem', opacity: 0.85, lineHeight: 1.7, maxWidth: '700px' }}>{service.seoDesc}</p>
                         <div style={{ display: 'flex', gap: '0.75rem', marginTop: '2rem', flexWrap: 'wrap' }}>
                             <span style={{ background: 'rgba(255,107,53,0.2)', color: '#ff6b35', padding: '0.5rem 1rem', borderRadius: '999px', fontWeight: 600, fontSize: '0.9rem' }}>

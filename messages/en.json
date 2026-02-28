@@ -224,11 +224,71 @@
           "seoDesc": "24/7 emergency locksmith in Fener, Muratpaşa. Door opening and lock change.",
           "content": "Locked out in Fener? Our team arrives in 10 minutes for damage-free door opening."
         },
-        "sirinyali-cilingir": {
-          "title": "Sirinyali Locksmith",
-          "seoTitle": "Sirinyali Locksmith | 24/7 Emergency Muratpasa Service",
-          "seoDesc": "Fast locksmith in Sirinyali. Door opening, auto locksmith, and safe opening.",
-          "content": "Locksmith services for homes and offices in Sirinyali. Emergency arrival in 10 mins."
+        "yesilbahce-cilingir": {
+          "title": "Yesilbahce Locksmith",
+          "seoTitle": "Yesilbahce Locksmith | 24/7 Emergency Lock Change & Door Opening",
+          "seoDesc": "Professional locksmith service in Yesilbahce. 10 minutes fast response.",
+          "content": "24/7 emergency locksmith for Yesilbahce residents. Cylinder change, security systems, and auto locksmith solutions."
+        },
+        "genclik-cilingir": {
+          "title": "Genclik Locksmith",
+          "seoTitle": "Genclik Locksmith | Muratpasa 24/7 Emergency Service",
+          "seoDesc": "Fast and reliable locksmith in Genclik neighborhood. Door opening and lock change.",
+          "content": "Professional locksmith support for homes and businesses in Genclik. Service in 10 minutes."
+        },
+        "guzeloluk-cilingir": {
+          "title": "Guzeloluk Locksmith",
+          "seoTitle": "Guzeloluk Locksmith | 24/7 Emergency Near Me",
+          "seoDesc": "Auto and home locksmith services in Guzeloluk.",
+          "content": "We open locked doors without damage in Guzeloluk region. 24/7 service."
+        },
+        "kircami-cilingir": {
+          "title": "Kircami Locksmith",
+          "seoTitle": "Kircami Locksmith | Fast Muratpasa Locksmith at Your Door",
+          "seoDesc": "Affordable locksmith services in Kircami neighborhood.",
+          "content": "Professional and fast solutions for all your locksmith needs in Kircami."
+        },
+        "meydankavagi-cilingir": {
+          "title": "Meydankavagi Locksmith",
+          "seoTitle": "Meydankavagi Locksmith | 24/7 Emergency Muratpasa Locksmith",
+          "seoDesc": "Door opening and lock change in Meydankavagi.",
+          "content": "We offer the fastest locksmith service for your security in Meydankavagi region."
+        },
+        "demircikara-cilingir": {
+          "title": "Demircikara Locksmith",
+          "seoTitle": "Demircikara Locksmith | Muratpasa 24/7 Emergency Service",
+          "seoDesc": "Professional locksmith support in Demircikara neighborhood.",
+          "content": "Our expert team is at your service for lock changes and door opening in Demircikara."
+        },
+        "tarim-cilingir": {
+          "title": "Tarim Locksmith",
+          "seoTitle": "Tarım Locksmith | Muratpasa 24/7 Emergency",
+          "seoDesc": "Fast locksmith service in Tarim neighborhood.",
+          "content": "24/7 emergency locksmith and lock service available for Tarim residents."
+        },
+        "yesilova-cilingir": {
+          "title": "Yesilova Locksmith",
+          "seoTitle": "Yesilova Locksmith | Muratpasa Fast Locksmith",
+          "seoDesc": "Professional locksmith in Yesilova neighborhood.",
+          "content": "We open locked doors in a short time in Yesilova neighborhood."
+        },
+        "topcular-cilingir": {
+          "title": "Topcular Locksmith",
+          "seoTitle": "Topcular Locksmith | Muratpasa 24/7 Service",
+          "seoDesc": "Emergency locksmith in Topcular neighborhood.",
+          "content": "We provide home, business, and vehicle locksmith services in Topcular region."
+        },
+        "gebizli-cilingir": {
+          "title": "Gebizli Locksmith",
+          "seoTitle": "Gebizli Locksmith | Muratpasa Fast Locksmith",
+          "seoDesc": "Lock change and door opening in Gebizli neighborhood.",
+          "content": "Professional locksmith support in Gebizli neighborhood."
+        },
+        "mehmetcik-cilingir": {
+          "title": "Mehmetcik Locksmith",
+          "seoTitle": "Mehmetcik Locksmith | Muratpasa 24/7",
+          "seoDesc": "Fast locksmith in Mehmetcik neighborhood.",
+          "content": "Emergency door opening and lock change in Mehmetcik neighborhood."
         }
       }
     },
@@ -263,6 +323,30 @@
           "seoTitle": "Caglayan Locksmith Lara | 24/7 Fast Service",
           "seoDesc": "Locksmith in Caglayan, Lara within 10 minutes. Door opening and lock change.",
           "content": "Need an emergency locksmith in Caglayan? Our Lara team is with you in 10 mins."
+        },
+        "guzeloba-cilingir": {
+          "title": "Guzeloba Locksmith",
+          "seoTitle": "Guzeloba Locksmith | Lara 24/7 Emergency Near Me",
+          "seoDesc": "Auto and home locksmith services in Guzeloba. 15 minutes fast response.",
+          "content": "Professional locksmith solutions for residential and commercial areas in Guzeloba."
+        },
+        "ermenek-cilingir": {
+          "title": "Ermenek Locksmith",
+          "seoTitle": "Ermenek Locksmith | 24/7 Emergency Lara Locksmith",
+          "seoDesc": "Fast and reliable locksmith services in Ermenek neighborhood.",
+          "content": "We are with you in 15 minutes for all your lock problems in Ermenek region."
+        },
+        "yenigol-cilingir": {
+          "title": "Yenigol Locksmith",
+          "seoTitle": "Yenigol Locksmith | Lara 24/7 Emergency Service",
+          "seoDesc": "Professional locksmith support in Yenigol neighborhood.",
+          "content": "Get door opening and lock change services in the fastest way in Yenigol neighborhood."
+        },
+        "guzelbag-cilingir": {
+          "title": "Guzelbag Locksmith",
+          "seoTitle": "Guzelbag Locksmith | Lara 24/7 Emergency Service",
+          "seoDesc": "Fast locksmith service in Guzelbag neighborhood.",
+          "content": "Contact us for emergency locksmith and lock replacement service in Guzelbag region."
         }
       }
     },
@@ -288,7 +372,15 @@
         "Shutter Lock",
         "Security Consulting",
         "Safe Opening"
-      ]
+      ],
+      "neighborhoodPages": {
+        "kundu-oteller-cilingir": {
+          "title": "Kundu Hotel Zone Locksmith",
+          "seoTitle": "Kundu Hotel Zone Locksmith | 24/7 Emergency Service",
+          "seoDesc": "Fast locksmith solutions for tourists and businesses in Kundu hotel zone.",
+          "content": "Professional intervention for lock problems in Kundu hotel zone. 24/7 active service."
+        }
+      }
     }
   },
   "Services": {

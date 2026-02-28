@@ -63,7 +63,7 @@ export default async function RegionPage({ params }: any) {
                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
                             <span>{regionName}, Antalya</span>
                         </div>
-                        <h1 style={{ fontSize: 'clamp(2rem, 4vw, 3rem)', fontWeight: 800, lineHeight: 1.2, marginBottom: '1rem' }}>{title}</h1>
+                        <h1 style={{ fontSize: 'clamp(2rem, 4vw, 3rem)', fontWeight: 800, lineHeight: 1.2, marginBottom: '1rem', color: 'white' }}>{title}</h1>
                         <p style={{ fontSize: '1.15rem', opacity: 0.85, lineHeight: 1.7, maxWidth: '700px' }}>{region.seoDesc}</p>
                         <div style={{ display: 'flex', gap: '0.75rem', marginTop: '2rem', flexWrap: 'wrap' }}>
                             <span style={{ background: 'rgba(255,107,53,0.2)', color: '#ff6b35', padding: '0.5rem 1rem', borderRadius: '999px', fontWeight: 600, fontSize: '0.9rem' }}>
