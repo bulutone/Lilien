@@ -112,7 +112,6 @@ export default function Hero() {
         .hero-title {
           font-size: clamp(2.5rem, 5vw, 4.5rem);
           margin-bottom: 1.5rem;
-          color: white;
         }
         .hero-desc {
           font-size: 1.125rem;

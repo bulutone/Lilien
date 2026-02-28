@@ -175,7 +175,7 @@ export default async function ServicePage({ params }: any) {
                         boxShadow: '0 10px 30px rgba(0,78,137,0.3)',
                         marginBottom: '2rem'
                     }}>
-                        <h3 style={{ marginBottom: '1rem', fontSize: '1.5rem' }}>{tPage('ctaTitle')}</h3>
+                        <h3 style={{ marginBottom: '1rem', fontSize: '1.5rem', color: 'white' }}>{tPage('ctaTitle')}</h3>
                         <p style={{ marginBottom: '1.5rem', opacity: 0.85 }}>{tPage('ctaDesc')}</p>
                         <a href="tel:+905468558680" className="btn btn-primary btn-lg" style={{
                             display: 'inline-flex', alignItems: 'center', gap: '8px',

@@ -199,7 +199,7 @@ export default async function RegionPage({ params }: any) {
                         boxShadow: '0 10px 30px rgba(0,78,137,0.3)',
                         marginBottom: '2rem'
                     }}>
-                        <h3 style={{ marginBottom: '1rem', fontSize: '1.5rem' }}>
+                        <h3 style={{ marginBottom: '1rem', fontSize: '1.5rem', color: 'white' }}>
                             {tPage('ctaTitle', { region: regionName })}
                         </h3>
                         <p style={{ marginBottom: '1.5rem', opacity: 0.85 }}>{tPage('ctaDesc')}</p>
