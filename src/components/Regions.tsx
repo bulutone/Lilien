@@ -76,7 +76,7 @@ export default function Regions() {
             </div>
             <p>{t('ctaText')}</p>
           </div>
-          <a href="tel:+905468558680" className="btn btn-primary" onClick={() => trackEvent('call_click', 'Regions Section Call')}>{t('ctaBtn')}</a>
+          <a href="tel:+905471985007" className="btn btn-primary" onClick={() => trackEvent('call_click', 'Regions Section Call')}>{t('ctaBtn')}</a>
         </div>
       </div>
 

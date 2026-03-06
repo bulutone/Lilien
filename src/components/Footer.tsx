@@ -44,7 +44,7 @@ export default function Footer() {
                 </div>
                 <div>
                   <span className="contact-label">{t('callNow')}</span>
-                  <a href="tel:+905468558680" className="contact-value" onClick={() => trackEvent('call_click', 'Footer Call')}>{t('phone')}</a>
+                  <a href="tel:+905471985007" className="contact-value" onClick={() => trackEvent('call_click', 'Footer Call')}>{t('phone')}</a>
                 </div>
               </li>
               <li>

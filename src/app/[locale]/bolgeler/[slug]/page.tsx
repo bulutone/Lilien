@@ -88,7 +88,7 @@ export default async function RegionPage({ params }: any) {
                                 "name": title,
                                 "description": region.longDesc || region.seoDesc,
                                 "areaServed": { "@type": "AdministrativeArea", "name": regionName },
-                                "telephone": "+905468558680",
+                                "telephone": "+905471985007",
                                 "address": { "@type": "PostalAddress", "addressLocality": regionName, "addressRegion": "Antalya", "addressCountry": "TR" }
                             })
                         }}
@@ -203,7 +203,7 @@ export default async function RegionPage({ params }: any) {
                             {tPage('ctaTitle', { region: regionName })}
                         </h3>
                         <p style={{ marginBottom: '1.5rem', opacity: 0.85 }}>{tPage('ctaDesc')}</p>
-                        <a href="tel:+905468558680" className="btn btn-primary btn-lg" style={{
+                        <a href="tel:+905471985007" className="btn btn-primary btn-lg" style={{
                             display: 'inline-flex', alignItems: 'center', gap: '8px',
                             fontSize: '1.1rem', padding: '14px 32px', background: '#ff6b35', border: 'none'
                         }}>

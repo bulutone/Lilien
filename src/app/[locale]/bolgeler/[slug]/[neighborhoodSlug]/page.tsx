@@ -93,7 +93,7 @@ export default async function NeighborhoodPage({ params }: any) {
                             {neighborhood.title} bölgesinde acil çilingir mi lazım?
                         </h3>
                         <p style={{ marginBottom: '1.5rem', opacity: 0.85, color: 'white' }}>Hemen arayın, dakikalar içinde yanınızda olalım.</p>
-                        <a href="tel:+905468558680" className="btn btn-primary btn-lg" style={{
+                        <a href="tel:+905471985007" className="btn btn-primary btn-lg" style={{
                             display: 'inline-flex', alignItems: 'center', gap: '8px',
                             fontSize: '1.1rem', padding: '14px 32px', background: '#ff6b35', border: 'none'
                         }}>

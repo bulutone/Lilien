@@ -113,7 +113,7 @@ export default async function LocaleLayout({
         "name": "Antalya Çilingirci",
         "image": `${BASE_URL}/logo.png`,
         "url": BASE_URL,
-        "telephone": "+905468558680",
+        "telephone": "+905471985007",
         "priceRange": "$$",
         "description": locale === 'tr'
             ? "Antalya genelinde 7/24 acil çilingir hizmeti. Oto çilingir, kasa açma, kapı açma ve kilit değişimi."
@@ -221,7 +221,7 @@ export default async function LocaleLayout({
         "logo": `${BASE_URL}/logo.png`,
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+905468558680",
+            "telephone": "+905471985007",
             "contactType": "customer service",
             "availableLanguage": ["Turkish", "English", "German", "Russian"],
             "areaServed": "TR"
