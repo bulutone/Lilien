@@ -5,6 +5,11 @@ import Footer from '@/components/Footer';
 import FloatingContact from '@/components/FloatingContact';
 
 const SERVICE_KEYS = ['oto-cilingir', 'kasa-acma', 'konut-cilingir', 'ticari-cilingir'];
+const BASE_URL = 'https://antalyacilingirci.com';
+
+function localizedPath(locale: string, path: string) {
+    return locale === 'tr' ? path : `/${locale}${path}`;
+}
 
 async function findServiceKey(locale: string, slug: string): Promise<string | null> {
     const messages = await getMessages({ locale }) as any;
@@ -26,7 +31,7 @@ export async function generateMetadata({ params }: any) {
         return {
             title: t(`${serviceKey}.seoTitle` as any),
             description: t(`${serviceKey}.seoDesc` as any),
-            alternates: { canonical: `/${locale}/hizmetler/${slug}` }
+            alternates: { canonical: `${BASE_URL}${localizedPath(locale, `/hizmetler/${slug}`)}` }
         };
     } catch (e) {
         return {};

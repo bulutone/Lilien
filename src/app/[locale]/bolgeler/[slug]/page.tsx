@@ -9,6 +9,11 @@ const REGION_KEYS = [
     'dosemealti-cilingir', 'aksu-cilingir', 'lara-cilingir',
     'kundu-cilingir', 'kemer-cilingir'
 ];
+const BASE_URL = 'https://antalyacilingirci.com';
+
+function localizedPath(locale: string, path: string) {
+    return locale === 'tr' ? path : `/${locale}${path}`;
+}
 
 async function findRegionKey(locale: string, slug: string): Promise<string | null> {
     const messages = await getMessages({ locale }) as any;
@@ -30,7 +35,7 @@ export async function generateMetadata({ params }: any) {
         return {
             title: t(`${regionKey}.seoTitle` as any),
             description: t(`${regionKey}.seoDesc` as any),
-            alternates: { canonical: `/${locale}/bolgeler/${slug}` }
+            alternates: { canonical: `${BASE_URL}${localizedPath(locale, `/bolgeler/${slug}`)}` }
         };
     } catch (e) {
         return {};

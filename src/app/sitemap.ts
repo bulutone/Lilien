@@ -1,108 +1,68 @@
 import { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
+import trMessages from '../../messages/tr.json';
+import enMessages from '../../messages/en.json';
+import deMessages from '../../messages/de.json';
+import ruMessages from '../../messages/ru.json';
 
 const host = 'https://antalyacilingirci.com';
-
-// Slug mappings for all locales
-const servicesSlugs: Record<string, Record<string, string>> = {
-    tr: { 'oto': 'oto-cilingir', 'kasa': 'kasa-acma', 'konut': 'konut-cilingir', 'ticari': 'ticari-cilingir' },
-    en: { 'oto': 'auto-locksmith', 'kasa': 'safe-opening', 'konut': 'residential-locksmith', 'ticari': 'commercial-locksmith' },
-    de: { 'oto': 'auto-schlusseldienst', 'kasa': 'tresoroffnung', 'konut': 'wohnungs-schlusseldienst', 'ticari': 'gewerbe-schlusseldienst' },
-    ru: { 'oto': 'avto-slesar', 'kasa': 'vskrytiye-seyfa', 'konut': 'kvartirnyy-slesar', 'ticari': 'kommercheskiy-slesar' }
+const localeMessages: Record<string, any> = {
+    tr: trMessages,
+    en: enMessages,
+    de: deMessages,
+    ru: ruMessages
 };
 
-const regionsSlugs: Record<string, Record<string, string>> = {
-    tr: {
-        'muratpasa': 'muratpasa-cilingir', 'lara': 'lara-cilingir',
-        'kundu': 'kundu-cilingir'
-    },
-    en: {
-        'muratpasa': 'muratpasa-locksmith', 'lara': 'lara-locksmith',
-        'kundu': 'kundu-locksmith'
-    },
-    de: {
-        'muratpasa': 'muratpasa-schlusseldienst', 'lara': 'lara-schlusseldienst',
-        'kundu': 'kundu-schlusseldienst'
-    },
-    ru: {
-        'muratpasa': 'slesar-muratpasha', 'lara': 'slesar-lara',
-        'kundu': 'slesar-kundu'
-    }
-};
-
-function getSlug(type: 'services' | 'regions', key: string, locale: string) {
-    const dictionary = type === 'services' ? servicesSlugs : regionsSlugs;
-    return dictionary[locale]?.[key] || dictionary['tr'][key];
+function withLocalePrefix(locale: string, path: string) {
+    const prefix = locale === routing.defaultLocale ? '' : `/${locale}`;
+    return `${host}${prefix}${path}`;
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
     const entries: MetadataRoute.Sitemap = [];
+    const now = new Date();
+    const seen = new Set<string>();
 
-    // 1. Home Pages — all locales
-    routing.locales.forEach(locale => {
-        const isDefault = locale === routing.defaultLocale;
+    const pushUrl = (url: string, changeFrequency: MetadataRoute.Sitemap[number]['changeFrequency'], priority: number) => {
+        if (seen.has(url)) return;
+        seen.add(url);
         entries.push({
-            url: isDefault ? `${host}` : `${host}/${locale}`,
-            lastModified: new Date(),
-            changeFrequency: 'weekly',
-            priority: 1
+            url,
+            lastModified: now,
+            changeFrequency,
+            priority
+        });
+    };
+
+    // 1. Home pages for all locales
+    routing.locales.forEach(locale => {
+        pushUrl(withLocalePrefix(locale, ''), 'weekly', 1);
+    });
+
+    // 2. Service pages from actual translated slugs
+    routing.locales.forEach(locale => {
+        const messages = localeMessages[locale];
+        const servicesData = messages?.ServicesData ?? {};
+        Object.values(servicesData).forEach((service: any) => {
+            if (!service?.slug) return;
+            pushUrl(withLocalePrefix(locale, `/hizmetler/${service.slug}`), 'monthly', 0.8);
         });
     });
 
-    // 2. Service Pages — all locales × all services
+    // 3. Region + neighborhood pages from actual translated data
     routing.locales.forEach(locale => {
-        const prefix = locale === routing.defaultLocale ? '' : `/${locale}`;
-        Object.keys(servicesSlugs.tr).forEach(key => {
-            const slug = getSlug('services', key, locale);
-            entries.push({
-                url: `${host}${prefix}/hizmetler/${slug}`,
-                lastModified: new Date(),
-                changeFrequency: 'monthly',
-                priority: 0.8
-            });
-        });
-    });
+        const messages = localeMessages[locale];
+        const regionsData = messages?.RegionsData ?? {};
 
-    // 3. Region Pages — all locales × all regions
-    routing.locales.forEach(locale => {
-        const prefix = locale === routing.defaultLocale ? '' : `/${locale}`;
-        Object.keys(regionsSlugs.tr).forEach(key => {
-            const slug = getSlug('regions', key, locale);
-            entries.push({
-                url: `${host}${prefix}/bolgeler/${slug}`,
-                lastModified: new Date(),
-                changeFrequency: 'monthly',
-                priority: 0.8
-            });
-        });
-    });
+        Object.values(regionsData).forEach((region: any) => {
+            if (!region?.slug) return;
 
-    // 4. Neighborhood Pages — hardcoded for now or we could import if possible
-    // For simplicity and to avoid complex async in sitemap, I'll add the main ones
-    const neighborhoodKeys = [
-        'fener-cilingir', 'sirinyali-cilingir', 'yesilbahce-cilingir',
-        'genclik-cilingir', 'guzeloluk-cilingir', 'kircami-cilingir',
-        'meydankavagi-cilingir', 'demircikara-cilingir', 'caglayan-cilingir',
-        'guzeloba-cilingir', 'ermenek-cilingir', 'yenigol-cilingir',
-        'kundu-oteller-cilingir', 'tarim-cilingir', 'yesilova-cilingir',
-        'topcular-cilingir', 'gebizli-cilingir', 'mehmetcik-cilingir',
-        'guzelbag-cilingir'
-    ];
+            const regionPath = `/bolgeler/${region.slug}`;
+            pushUrl(withLocalePrefix(locale, regionPath), 'monthly', 0.8);
 
-    routing.locales.forEach(locale => {
-        const prefix = locale === routing.defaultLocale ? '' : `/${locale}`;
-        neighborhoodKeys.forEach(nKey => {
-            // Determine region slug based on neighborhood
-            let rKey = 'muratpasa';
-            if (['caglayan-cilingir', 'guzeloba-cilingir', 'ermenek-cilingir', 'yenigol-cilingir'].includes(nKey)) rKey = 'lara';
-            if (nKey === 'kundu-oteller-cilingir') rKey = 'kundu';
-
-            const rSlug = getSlug('regions', rKey, locale);
-            entries.push({
-                url: `${host}${prefix}/bolgeler/${rSlug}/${nKey}`,
-                lastModified: new Date(),
-                changeFrequency: 'monthly',
-                priority: 0.6
+            const neighborhoodPages = region?.neighborhoodPages ?? {};
+            Object.keys(neighborhoodPages).forEach((neighborhoodSlug) => {
+                pushUrl(withLocalePrefix(locale, `${regionPath}/${neighborhoodSlug}`), 'monthly', 0.6);
             });
         });
     });

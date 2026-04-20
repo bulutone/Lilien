@@ -5,6 +5,11 @@ import Footer from '@/components/Footer';
 import FloatingContact from '@/components/FloatingContact';
 
 const REGION_KEYS = ['muratpasa-cilingir', 'lara-cilingir', 'kundu-cilingir'];
+const BASE_URL = 'https://antalyacilingirci.com';
+
+function localizedPath(locale: string, path: string) {
+    return locale === 'tr' ? path : `/${locale}${path}`;
+}
 
 async function findRegionAndNeighborhood(locale: string, regionSlug: string, neighborhoodSlug: string) {
     const messages = await getMessages({ locale }) as any;
@@ -31,7 +36,7 @@ export async function generateMetadata({ params }: any) {
     return {
         title: data.neighborhood.seoTitle,
         description: data.neighborhood.seoDesc,
-        alternates: { canonical: `/${locale}/bolgeler/${slug}/${neighborhoodSlug}` }
+        alternates: { canonical: `${BASE_URL}${localizedPath(locale, `/bolgeler/${slug}/${neighborhoodSlug}`)}` }
     };
 }
 
